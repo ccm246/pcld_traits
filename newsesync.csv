@@ -1,0 +1,71 @@
+code_sesync_other,country_sesync_invasive,region_sesync_other,crops_sesync_habitat,trophic.level_sesync_feeding,system_sesync_other,speciesid_sesync_other,finalfeeding_sesync_feeding,aphidalter_sesync_other,overwinter.location_sesync_habitat,finalhabitat_sesync_habitat,overwinter_sesync_other,invasive_sesync_invasive,flightpotential_sesync_dispersal,host_alternating_sesync_other,citation_sesync_source,realm_sesync_other,genus,species
+adle01,united states,western ma,cucurbita moschata,herbivore,annual,acalymma vittatum,Specialist,no,brush,Generalist,adult,native,2,NA,NA,Nearctic,acalymma,vittatum
+jank01,serbia,central serbia,medicago sativa,herbivore,perrenial,acyrthosiphon pisum,Specialist,no,host_plant,crop,egg,native,1,no,Not published,Palearctic,acyrthosiphon,pisum
+pons01,spain,catalonia,medicago sativa,herbivore,perrenial,acyrthosiphon pisum,Specialist,no,host_plant,crop,egg,native,1,no,NA,Palearctic,acyrthosiphon,pisum
+tsch02,switzerland,central swiss plateau (cantons zurich and aargau),solanum tuberosum,herbivore,annual,aphidoidea,General,no,Generalist,Generalist,generalist,native,1,mix,"Tschumi M, Albrecht M, Collatz J, Dubsky V, Entling MH, Najar-Rodriguez AJ, Jacot K 2016 Tailored flower strips promote natural enemy biodiversity and pest control in potato crops. Journal of Applied Ecology (in press).",Palearctic,aphidoidea,
+jank01,serbia,central serbia,medicago sativa,herbivore,perrenial,aphis craccivora,General,no,host plant,Generalist,egg,native,1,no,Not published,Palearctic,aphis,craccivora
+brew01,united states,"midwest, 4 states",glycine max,herbivore,annual,aphis glycines,General,yes,alternate_host,non_crop,egg,invasive,1,yes,NA,Nearctic,aphis,glycines
+cost02,united states,minesotta,glycine max,herbivore,annual,aphis glycines,General,yes,alternate_host,non_crop,egg,invasive,1,yes,NA,Nearctic,aphis,glycines
+heim01,united states,"rosemount, mn",glycine max,herbivore,annual,aphis glycines,General,yes,alternate_host,non_crop,egg,invasive,1,yes,NA,Nearctic,aphis,glycines
+mitc01,canada,mont‚àö¬©r‚àö¬©gie,glycine max,herbivore,annual,aphis glycines,General,yes,alternate_host,non_crop,egg,invasive,1,yes,NA,Nearctic,aphis,glycines
+onea01,united states,iowa (jasper county),glycine max,herbivore,annual,aphis glycines,General,yes,alternate_host,non_crop,egg,invasive,1,yes,NA,Nearctic,aphis,glycines
+whit01,united states,wisconsin,glycine max,herbivore,annual,aphis glycines,General,yes,alternate_host,non_crop,egg,invasive,1,yes,NA,Nearctic,aphis,glycines
+nash01,australia,western victoria,triticum aestivum; brassica napus; hordeum vulgare; linum usitatissimum; avena sativa,herbivore,annual,aphodius tasmaniae,General,no,soil,crop,larvae,native,3,NA,NA,Australasia,aphodius,tasmaniae
+pare01,spain,andalusia,olea europaea,herbivore,perrenial,bactrocera oleae,Specialist,no,soil,crop,pupae,native,3,NA,NA,Palearctic,bactrocera,oleae
+chap01,united states,california,brassica oleracea,herbivore,annual,brevicoryne brassicae,Specialist,no,soil; or host plant,crop,egg,invasive,1,no,"Chaplin-Kramer, R., De Valpine, P., Mills, N. J. and Kremen, C. (2013). Detecting pest control services across spatial and temporal scales. Agric. Ecosyst. Environ. 181: 206‚Äö√Ñ√¨212.",Nearctic,brevicoryne,brassicae
+jons02,new zealand,canterbury,brassica oleracea,herbivore,annual,brevicoryne brassicae and myzus persicae,General,no,Generalist,Generalist,generalist,invasive,1,mix,NA,Australasia,brevicoryne,brassicae
+jons03,new zealand,canterbury,brassica oleracea,herbivore,annual,brevicoryne brassicae and myzus persicae,General,no,Generalist,Generalist,generalist,invasive,1,mix,NA,Australasia,brevicoryne,brassicae
+pero01,australia,"macquarie valley, new south wales",gossypium hirsutum,herbivore,annual,creonitades dilutus,General,no,weeds;variety of plants,Generalist,generalist,native,3,NA,NA,Australasia,creonitades,dilutus
+keas01,israel,"hefer valley, carmel, judaean foothills",punica granatum,herbivore,perrenial,cryptoblabes gnidiella,General,no,host_plants,Generalist,larvae,native,3,NA,NA,Palearctic,cryptoblabes,gnidiella
+lera01,france,britanny,brassica oleracea,herbivore,annual,delia radicum,Specialist,no,soil,crop,pupae,native,3,NA,NA,Palearctic,delia,radicum
+orou01,united states,new york,zea mays,herbivore,annual,diabrotica virgifera,Specialist,no,soil of field,crop,egg,native,3,NA,NA,Nearctic,diabrotica,virgifera
+rusc06,france,aquitaine,vitis vinifera,herbivore,perrenial,eupoecilia ambiguella,General,no,Generalist,Generalist,pupae,native,3,NA,NA,Palearctic,eupoecilia,ambiguella
+scha01,israel,"central, mediteranean shrubland",prunus dulcis,herbivore,perrenial,eurytoma amygdali,Specialist,no,host_plant,crop,pupae,invasive,2,NA,NA,Palearctic,eurytoma,amygdali
+carv01,south africa,limpopo province,helianthus annuus,herbivore,annual,helicoverpa armigera,General,no,soil,crop,pupae,native,3,NA,NA,Afrotropic,helicoverpa,armigera
+tsaf01,benin,nord benin (alibori departement),gossypium hirsutum,herbivore,annual,helicoverpa armigera,General,no,soil,crop,pupae,native,3,NA,NA,Afrotropic,helicoverpa,armigera
+rand02,united states,"montana, north dakota",medicago sativa,herbivore,perrenial,hypera postica,Specialist,no,brush,Generalist,adult,invasive,2,NA,NA,Nearctic,hypera,postica
+iver02,usa (puerto rico),west-central mountains (centered in utuado municipality),coffea arabica,herbivore,perrenial,hypothenemus hampei,Specialist,no,host_plant,crop,adult,invasive,2,NA,NA,Neotropic,hypothenemus,hampei
+karp02,costa rica,coto brus,coffea arabica,herbivore,perrenial,hypothenemus hampei,Specialist,no,host_plant,crop,adult,invasive,2,NA,NA,Neotropic,hypothenemus,hampei
+huse01,united states,central sands potato production region,solanum tuberosum,herbivore,annual,leptinotarsa decemlineata,Specialist,no,soil of woody areas,Generalist,adult,native,3,NA,NA,Nearctic,leptinotarsa,decemlineata
+karp01,united states,california central coast,lactuca sativa,herbivore,annual,liriomyza sativae,General,no,soil,crop,pupae,native,2,NA,NA,Nearctic,liriomyza,sativae
+rusc06,france,aquitaine,vitis vinifera,herbivore,perrenial,lobesia botrana,General,no,Generalist,Generalist,pupae,native,2,NA,NA,Palearctic,lobesia,botrana
+carr01,united states,cotton fields located in fresno and san joaquin valleys in an area of about 2000 km square,gossypium hirsutum,herbivore,annual,lygus hesperus,General,no,brush,Generalist,adult,native,3,NA,NA,Nearctic,lygus,hesperus
+siva01,united states,"kern county, california",gossypium hirsutum,herbivore,annual,lygus hesperus,General,no,brush,Generalist,adult,native,3,NA,NA,Nearctic,lygus,hesperus
+conn01,united states,new york (finger lakes region),fragaria x ananassa,herbivore,annual,lygus lineolaris,General,no,brush,Generalist,adult,native,3,NA,NA,Nearctic,lygus,lineolaris
+conn02,united states,new york (finger lakes region),fragaria x ananassa,herbivore,annual,lygus lineolaris,General,no,brush,Generalist,adult,native,3,NA,NA,Nearctic,lygus,lineolaris
+conn03,united states,new york (finger lakes region),fragaria x ananassa,herbivore,annual,lygus lineolaris,General,no,brush,Generalist,adult,native,3,NA,NA,Nearctic,lygus,lineolaris
+karp01,united states,california central coast,lactuca sativa,herbivore,annual,macrosiphum euphorbiae,General,yes,alternate_host,non_crop,egg,native,1,no,NA,Nearctic,macrosiphum,euphorbiae
+bata01,germany,lower saxony,triticum aestivum,herbivore,annual,meligethes aeneus,Specialist,no,brush,Generalist,adult,native,3,NA,"Gladbach DJ, Holzschuh A, Scherber C, Thies C, Dormann CF, Tscharntke T (2011): Crop‚Äö√Ñ√¨noncrop spillover: arable fields affect trophic interactions on wild plants in surrounding habitats. Oecologia 166: 433‚Äö√Ñ√¨441.",Palearctic,meligethes,aeneus
+rusc03,france,haute-normandie,brassica napus,herbivore,annual,meligethes aeneus,Specialist,no,brush,Generalist,adult,native,3,NA,NA,Palearctic,meligethes,aeneus
+rusc04,france,haute-normandie,brassica napus,herbivore,annual,meligethes aeneus,Specialist,no,brush,Generalist,adult,native,3,NA,NA,Palearctic,meligethes,aeneus
+schnei01,germany,bavaria,brassica napus,herbivore,annual,meligethes aeneus (adult),Specialist,no,brush,Generalist,adult,native,3,NA,NA,Palearctic,meligethes,aeneus
+jank01,serbia,central serbia,triticum aestivum,herbivore,annual,metopolophium dirhodum,General,yes,alternate_host,non_crop,egg,native,1,yes,Not published,Palearctic,metopolophium,dirhodum
+moli02,argentina,las polvaredas farm (4400 ha),glycine max; zea mays; triticum aestivum,herbivore,annual,metopolophium dirhodum,General,yes,alternate_host,non_crop,egg,native,1,yes,NA,Neotropic,metopolophium,dirhodum
+schue01,switzerland,central plateau,prunus avium,herbivore,perrenial,myzus cerasi,General,yes,alternate_host,non_crop,egg,native,1,yes,NA,Palearctic,myzus,cerasi
+stut01,switzerland,central plateau,prunus avium,herbivore,perrenial,myzus cerasi,General,yes,alternate_host,non_crop,egg,native,1,yes,NA,Palearctic,myzus,cerasi
+karp01,united states,california central coast,lactuca sativa,herbivore,annual,nasonovia ribisnigri,General,yes,alternate_host,non_crop,egg,invasive,1,yes,NA,Nearctic,nasonovia,ribisnigri
+ingr01,united states,"oceana county, michigan",asparagus officinalis,herbivore,annual,ophiomyia simplex,Specialist,no,host_plant,crop,pupae,invasive,3,NA,NA,Nearctic,ophiomyia,simplex
+bohn01,united states,pennsylvania,zea mays,herbivore,annual,ostrinia nubilalis,General,no,stems of host plant,crop,larvae,invasive,3,NA,NA,Nearctic,ostrinia,nubilalis
+tschum01,switzerland,central plateau,triticum aestivum,herbivore,annual,oulema melanopus (larvae),General,no,brush,Generalist,adult,native,2,NA,NA,Palearctic,oulema,melanopus
+tsch03,switzerland,central swiss plateau (cantons zurich and aargau),triticum aestivum,herbivore,annual,oulema sp. (melanopus or gallaeciana) eggs,General,no,brush,Generalist,adult,native,2,NA,"Tschumi M, Albrecht M, B‚àö¬ßrtschi C, Collatz J, Entling MH, Jacot K. 2016 Perennial, species-rich wildflower strips enhance pest control and crop yield. Agriculture Ecosystems & Environment 220, 97‚Äö√Ñ√¨103.",Palearctic,oulema,sp.
+pare01,spain,andalusia,olea europaea,herbivore,perrenial,prays oleae,Specialist,no,host_plant,crop,larvae,native,3,NA,NA,Palearctic,prays,oleae
+birk02,sweden,scania,hordeum vulgare,herbivore,annual,rhopalosiphum padi,General,yes,alternate_host,non_crop,egg,native,1,yes,NA,Palearctic,rhopalosiphum,padi
+caba01,sweden,scania,hordeum vulgare; avena sativa; triticum aestivum,herbivore,annual,rhopalosiphum padi,General,yes,alternate_host,non_crop,egg,native,1,yes,NA,Palearctic,rhopalosiphum,padi
+wood01,england,"oxfordshire, buckinghamshire",triticum aestivum,herbivore,annual,rhopalosiphum padi,General,yes,alternate_host,non_crop,egg,native,1,yes,NA,Palearctic,rhopalosiphum,padi
+birk02,sweden,scania,hordeum vulgare,herbivore,annual,sitobion avenae,General,no,host_plants,Generalist,egg; nymph; adult,native,1,no,NA,Palearctic,sitobion,avenae
+caba01,sweden,scania,hordeum vulgare; avena sativa; triticum aestivum,herbivore,annual,sitobion avenae,General,no,host_plants,Generalist,egg; nymph; adult,native,1,no,NA,Palearctic,sitobion,avenae
+gag01,germany,lower saxony,triticum aestivum,herbivore,annual,sitobion avenae,General,no,host_plants,Generalist,egg; nymph; adult,native,1,no,"Gagic, V., Hanke, S., Thies, C., Scherber, C., Tomanovic, Z., Tscharntke, T., 2012. Agricultural
+ intensification and cereal aphid-parasitoid-hyperparasitoid food webs: network complexity, temporal variability and parasitism rates. Oecologia 170, 1099‚Äö√Ñ√¨1109.",Palearctic,sitobion,avenae
+garr01,united kingdom,southern england,triticum aestivum,herbivore,annual,sitobion avenae,General,no,host_plants,Generalist,egg; nymph; adult,native,1,no,NA,Palearctic,sitobion,avenae
+jank01,serbia,central serbia,triticum aestivum,herbivore,annual,sitobion avenae,General,no,host_plants,Generalist,egg; nymph; adult,native,1,no,Not published,Palearctic,sitobion,avenae
+lava01,chile,maule,triticum aestivum,herbivore,annual,sitobion avenae,General,no,host_plants,Generalist,egg; nymph; adult,native,1,no,NA,Neotropic,sitobion,avenae
+plec01,serbia,pacevacki rit,triticum aestivum,herbivore,annual,sitobion avenae,General,no,host_plants,Generalist,egg; nymph; adult,native,1,no,NA,Palearctic,sitobion,avenae
+sart02,france,midi-pyr‚àö¬©n‚àö¬©es,triticum aestivum,herbivore,annual,sitobion avenae,General,no,host_plants,Generalist,egg; nymph; adult,native,1,no,NA,Palearctic,sitobion,avenae
+fuku01,japan,niigata,oryza sativa,herbivore,annual,stenotus rubrovittatus,General,no,Generalist,Generalist,egg,native,2,NA,NA,Palearctic,stenotus,rubrovittatus
+yasu01,japan,"kozaki, okura, sanno-wakeme",oryza sativa,herbivore,annual,stenotus rubrovittatus,General,no,Generalist,Generalist,egg,native,2,NA,"Yasuda, M., Mitsunaga, T., Takeda, A., Tabuchi, K., Oku, K., Yasuda, T., Watanabe, T. (2011) Comparison of the effects of landscape composition on two mired species in Japanese rice paddies, Applied Entomology and Zoology46: 519-525.",Palearctic,stenotus,rubrovittatus
+yosh01,japan,miyagi prefecture,oryza sativa,herbivore,annual,stenotus rubrovittatus,General,no,Generalist,Generalist,egg,native,2,NA,NA,Palearctic,stenotus,rubrovittatus
+pove02,colombia,villapinzon,solanum tuberosum,herbivore,annual,tecia solanivora,Specialist,no,host_plant,crop,larvae,native,2,NA,NA,Neotropic,tecia,solanivora
+keas01,israel,"hefer valley, carmel, judaean foothills",punica granatum,herbivore,perrenial,thaumatotibia leucotreta,General,no,Generalist,Generalist,larvae,native,2,NA,NA,Palearctic,thaumatotibia,leucotreta
+jank01,serbia,central serbia,medicago sativa,herbivore,perrenial,therioaphis trifolii,Specialist,no,host_plant,crop,egg,native,1,no,Not published,Palearctic,therioaphis,trifolii
+pons02,spain,catalonia,medicago sativa,herbivore,perrenial,therioaphis trifolii,Specialist,no,host_plant,crop,egg,native,1,no,NA,Palearctic,therioaphis,trifolii
+yasu01,japan,"kozaki, okura, sanno-wakeme",oryza sativa,herbivore,annual,trigonotylus caelestialium,Specialist,no,Generalist,Generalist,adult,native,2,NA,"Yasuda, M., Mitsunaga, T., Takeda, A., Tabuchi, K., Oku, K., Yasuda, T., Watanabe, T. (2011) Comparison of the effects of landscape composition on two mired species in Japanese rice paddies, Applied Entomology and Zoology46: 519-525.",Palearctic,trigonotylus,caelestialium

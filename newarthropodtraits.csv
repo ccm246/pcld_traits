@@ -1,0 +1,346 @@
+order_arthropodtraits_other,suborder_arthropodtraits_other,family_arthropodtraits_other,genus,speciesid_arthropodtraits_other,author_arthropodtraits_source,body_size_arthropodtraits_body,dispersal_ability_arthropodtraits_body,feeding_guild_arthropodtraits_feeding,feeding_guild_short_arthropodtraits_feeding,feeding_mode_arthropodtraits_feeding,feeding_specialization_arthropodtraits_feeding,feeding_tissue_arthropodtraits_feeding,feeding_plant_part_arthropodtraits_feeding,endophagous_lifestyle_arthropodtraits_feeding,stratum_use_arthropodtraits_habitat,stratum_use_short_arthropodtraits_habitat,species
+Araneae,Labidognatha,Araneidae,araneus,Araneus diadematus,"Clerck, 1757",11.88,1,c,c,e,NA,NA,NA,NA,(h)-t,u,diadematus
+Araneae,Labidognatha,Araneidae,araneus,Araneus marmoreus,"Clerck, 1757",10.03,0.75,c,c,e,NA,NA,NA,NA,(h)-t,u,marmoreus
+Araneae,Labidognatha,Araneidae,araneus,Araneus quadratus,"Clerck, 1757",12.25,1,c,c,e,NA,NA,NA,NA,(h)-t,u,quadratus
+Araneae,Labidognatha,Araneidae,araneus,Araneus sturmi,"(Hahn, 1831)",4.63,0.75,c,c,e,NA,NA,NA,NA,t,t,sturmi
+Araneae,Labidognatha,Araneidae,araneus,Araneus triguttatus,"Fabricius, 1775",5.25,0.5,c,c,e,NA,NA,NA,NA,t,t,triguttatus
+Araneae,Labidognatha,Araneidae,araniella,Araniella alpica,"(L. Koch, 1869)",6,0.75,c,c,e,NA,NA,NA,NA,t,t,alpica
+Araneae,Labidognatha,Araneidae,araniella,Araniella cucurbitina,"(Clerck, 1757)",5.5,1,c,c,e,NA,NA,NA,NA,(h)-t,u,cucurbitina
+Araneae,Labidognatha,Araneidae,araniella,Araniella opisthographa,"(Kulczynski, 1905)",4.38,0.75,c,c,e,NA,NA,NA,NA,(h)-t,u,opisthographa
+Araneae,Labidognatha,Araneidae,larinioides,Larinioides cornutus,"(Clerck, 1757)",10.35,0.75,c,c,e,NA,NA,NA,NA,h-(t),u,cornutus
+Araneae,Labidognatha,Araneidae,mangora,Mangora acalypha,"(Walckenaer, 1802)",4.5,1,c,c,e,NA,NA,NA,NA,h,h,acalypha
+Araneae,Labidognatha,Clubionidae,clubiona,Clubiona brevipes,"Blackwall, 1841",5.5,0.5,c,c,e,NA,NA,NA,NA,t,t,brevipes
+Araneae,Labidognatha,Clubionidae,clubiona,Clubiona diversa,"O. P.-Cambridge, 1862",4,0.5,c,c,e,NA,NA,NA,NA,(s)-(g)-h-(t),u,diversa
+Araneae,Labidognatha,Clubionidae,clubiona,Clubiona leucaspis,"Simon, 1932",4.05,0.5,c,c,e,NA,NA,NA,NA,t,t,leucaspis
+Araneae,Labidognatha,Clubionidae,clubiona,Clubiona neglecta,"O. P.-Cambridge, 1862",6.25,0.75,c,c,e,NA,NA,NA,NA,g-(h)-(t),u,neglecta
+Araneae,Labidognatha,Clubionidae,clubiona,Clubiona reclusa,"O. P.-Cambridge, 1863",5.75,0.75,c,c,e,NA,NA,NA,NA,(g)-h,u,reclusa
+Araneae,Labidognatha,Clubionidae,clubiona,Clubiona stagnatilis,"Kulczynski, 1897",6.25,0.5,c,c,e,NA,NA,NA,NA,h,h,stagnatilis
+Araneae,Labidognatha,Dictynidae,argenna,Argenna subnigra,"(O. P.-Cambridge, 1861)",2.25,0.75,c,c,e,NA,NA,NA,NA,g,g,subnigra
+Araneae,Labidognatha,Gnaphosidae,micaria,Micaria pulicaria,"(Sundevall, 1831)",3.55,1,c,c,e,NA,NA,NA,NA,g,g,pulicaria
+Araneae,Labidognatha,Linyphiidae,araeoncus,Araeoncus humilis,"(Blackwall, 1841)",1.6,1,c,c,e,NA,NA,NA,NA,g,g,humilis
+Araneae,Labidognatha,Linyphiidae,baryphyma,Baryphyma pratense,"(Blackwall, 1861)",2.2,0.5,c,c,e,NA,NA,NA,NA,g,g,pratense
+Araneae,Labidognatha,Linyphiidae,bathyphantes,Bathyphantes approximatus,"(O. P.-Cambridge, 1871)",2.63,0.5,c,c,e,NA,NA,NA,NA,(g)-h,u,approximatus
+Araneae,Labidognatha,Linyphiidae,bathyphantes,Bathyphantes gracilis,"(Blackwall, 1841)",1.98,1,c,c,e,NA,NA,NA,NA,g-(h),u,gracilis
+Araneae,Labidognatha,Linyphiidae,bathyphantes,Bathyphantes parvulus,"(Westring, 1851)",2.15,0.75,c,c,e,NA,NA,NA,NA,g-(h),u,parvulus
+Araneae,Labidognatha,Linyphiidae,centromerita,Centromerita bicolor,"(Blackwall, 1833)",3.25,1,c,c,e,NA,NA,NA,NA,g,g,bicolor
+Araneae,Labidognatha,Linyphiidae,centromerus,Centromerus sylvaticus,"(Blackwall, 1841)",3.43,1,c,c,e,NA,NA,NA,NA,g-(h)-(t),u,sylvaticus
+Araneae,Labidognatha,Linyphiidae,ceratinella,Ceratinella brevipes,"(Westring, 1851)",1.45,0.5,c,c,e,NA,NA,NA,NA,g,g,brevipes
+Araneae,Labidognatha,Linyphiidae,ceratinella,Ceratinella scabrosa,"(O. P.-Cambridge, 1871)",1.88,0.5,c,c,e,NA,NA,NA,NA,g,g,scabrosa
+Araneae,Labidognatha,Linyphiidae,collinsia,Collinsia inerrans,"(O. P.-Cambridge, 1885)",2.25,1,c,c,e,NA,NA,NA,NA,g-(h),u,inerrans
+Araneae,Labidognatha,Linyphiidae,dicymbium,Dicymbium nigrum brevisetosum,"Locket, 1962",2.25,1,c,c,e,NA,NA,NA,NA,g,g,nigrum
+Araneae,Labidognatha,Linyphiidae,diplocephalus,Diplocephalus picinus,"(Blackwall, 1841)",1.83,0.75,c,c,e,NA,NA,NA,NA,g,g,picinus
+Araneae,Labidognatha,Linyphiidae,diplostyla,Diplostyla concolor,"(Wider, 1834)",2.75,1,c,c,e,NA,NA,NA,NA,g-(h),u,concolor
+Araneae,Labidognatha,Linyphiidae,dismodicus,Dismodicus bifrons,"(Blackwall, 1841)",2.11,0.75,c,c,e,NA,NA,NA,NA,h-(t),u,bifrons
+Araneae,Labidognatha,Linyphiidae,dismodicus,Dismodicus elevatus,"(C.L. Koch, 1838)",2.48,0.75,c,c,e,NA,NA,NA,NA,t,t,elevatus
+Araneae,Labidognatha,Linyphiidae,erigone,Erigone atra,"Blackwall, 1833",2.25,1,c,c,e,NA,NA,NA,NA,g,g,atra
+Araneae,Labidognatha,Linyphiidae,erigone,Erigone dentipalpis,"(Wider, 1834)",2.33,1,c,c,e,NA,NA,NA,NA,g,g,dentipalpis
+Araneae,Labidognatha,Linyphiidae,gongylidiellum,Gongylidiellum latebricola,"(O. P.-Cambridge, 1871)",1.5,0.75,c,c,e,NA,NA,NA,NA,g,g,latebricola
+Araneae,Labidognatha,Linyphiidae,gongylidiellum,Gongylidiellum murcidum,"Simon, 1884",1.8,0.5,c,c,e,NA,NA,NA,NA,g,g,murcidum
+Araneae,Labidognatha,Linyphiidae,meioneta,Meioneta affinis,"(Kulczynski, 1898)",1.75,1,c,c,e,NA,NA,NA,NA,g,g,affinis
+Araneae,Labidognatha,Linyphiidae,meioneta,Meioneta rurestris,"(C.L.Koch, 1836)",6.23,1,c,c,e,NA,NA,NA,NA,g,g,rurestris
+Araneae,Labidognatha,Linyphiidae,meioneta,Meioneta saxatilis,"(Blackwall, 1844)",2.15,1,c,c,e,NA,NA,NA,NA,g,g,saxatilis
+Araneae,Labidognatha,Linyphiidae,micrargus,Micrargus herbigradus,"(Blackwall, 1854)",2.08,1,c,c,e,NA,NA,NA,NA,g,g,herbigradus
+Araneae,Labidognatha,Linyphiidae,micrargus,Micrargus subaequalis,"(Westring, 1851)",1.83,0.75,c,c,e,NA,NA,NA,NA,g-(h),u,subaequalis
+Araneae,Labidognatha,Linyphiidae,microlinyphia,Microlinyphia pusilla,"(Sundevall, 1830)",3.88,1,c,c,e,NA,NA,NA,NA,h,h,pusilla
+Araneae,Labidognatha,Linyphiidae,oedothorax,Oedothorax apicatus,"(Blackwall, 1850)",2.55,1,c,c,e,NA,NA,NA,NA,g,g,apicatus
+Araneae,Labidognatha,Linyphiidae,oedothorax,Oedothorax fuscus,"(Blackwall, 1834)",2.35,1,c,c,e,NA,NA,NA,NA,g,g,fuscus
+Araneae,Labidognatha,Linyphiidae,oedothorax,Oedothorax gibbosus,"(Blackwall, 1841)",2.43,0.75,c,c,e,NA,NA,NA,NA,g,g,gibbosus
+Araneae,Labidognatha,Linyphiidae,oedothorax,Oedothorax retusus,"(Westring, 1851)",2.48,1,c,c,e,NA,NA,NA,NA,g,g,retusus
+Araneae,Labidognatha,Linyphiidae,pelecopsis,Pelecopsis parallela,"(Wider, 1834)",1.45,1,c,c,e,NA,NA,NA,NA,g-(h),u,parallela
+Araneae,Labidognatha,Linyphiidae,pocadicnemis,Pocadicnemis juncea,"Locket & Millidge, 1953",1.85,0.75,c,c,e,NA,NA,NA,NA,g,g,juncea
+Araneae,Labidognatha,Linyphiidae,porrhomma,Porrhomma microphthalmum,"(O. P.-Cambridge, 1871)",1.85,1,c,c,e,NA,NA,NA,NA,(s)-g,u,microphthalmum
+Araneae,Labidognatha,Linyphiidae,porrhomma,Porrhomma oblitum,"(O. P.-Cambridge, 1871)",1.65,1,c,c,e,NA,NA,NA,NA,(s)-g-(h)-(t),u,oblitum
+Araneae,Labidognatha,Linyphiidae,porrhomma,Porrhomma pygmaeum,"(Blackwall, 1834)",2.28,0.75,c,c,e,NA,NA,NA,NA,(s)-(g)-h,u,pygmaeum
+Araneae,Labidognatha,Linyphiidae,tenuiphantes,Tenuiphantes flavipes,"(Blackwall, 1854)",2.15,0.75,c,c,e,NA,NA,NA,NA,g-(h)-(t),u,flavipes
+Araneae,Labidognatha,Linyphiidae,tenuiphantes,Tenuiphantes mengei,"(Kulczynski, 1887)",2.03,0.75,c,c,e,NA,NA,NA,NA,g,g,mengei
+Araneae,Labidognatha,Linyphiidae,tenuiphantes,Tenuiphantes tenebricola,"(Wider, 1834)",2.45,0.75,c,c,e,NA,NA,NA,NA,g,g,tenebricola
+Araneae,Labidognatha,Linyphiidae,tenuiphantes,Tenuiphantes tenuis,"(Blackwall, 1852)",2.88,1,c,c,e,NA,NA,NA,NA,g,g,tenuis
+Araneae,Labidognatha,Linyphiidae,tiso,Tiso vagans,"(Blackwall, 1834)",2.03,1,c,c,e,NA,NA,NA,NA,g,g,vagans
+Araneae,Labidognatha,Linyphiidae,troxochrus,Troxochrus scabriculus,"(Westring, 1851)",1.85,0.75,c,c,e,NA,NA,NA,NA,g,g,scabriculus
+Araneae,Labidognatha,Linyphiidae,walckenaeria,Walckenaeria antica,"(Wider, 1834)",2.13,0.5,c,c,e,NA,NA,NA,NA,g,g,antica
+Araneae,Labidognatha,Linyphiidae,walckenaeria,Walckenaeria capito,"(Westring, 1861)",2.65,0,c,c,e,NA,NA,NA,NA,g,g,capito
+Araneae,Labidognatha,Linyphiidae,walckenaeria,Walckenaeria cuspidata,"Blackwall, 1833",2.53,0.5,c,c,e,NA,NA,NA,NA,g-(h)-(t),u,cuspidata
+Araneae,Labidognatha,Linyphiidae,walckenaeria,Walckenaeria unicornis,"O. P.-Cambridge, 1861",2.1,0.5,c,c,e,NA,NA,NA,NA,g,g,unicornis
+Araneae,Labidognatha,Linyphiidae,walckenaeria,Walckenaeria vigilax,"(Blackwall, 1853)",2.29,1,c,c,e,NA,NA,NA,NA,g-(h)-(t),u,vigilax
+Araneae,Labidognatha,Lycosidae,alopecosa,Alopecosa cuneata,"(Clerck, 1757)",7.25,1,c,c,e,NA,NA,NA,NA,g,g,cuneata
+Araneae,Labidognatha,Lycosidae,alopecosa,Alopecosa trabalis,"(Clerck, 1757)",10.63,0.75,c,c,e,NA,NA,NA,NA,g,g,trabalis
+Araneae,Labidognatha,Lycosidae,arctosa,Arctosa leopardus,"(Sundevall, 1833)",7.63,0.75,c,c,e,NA,NA,NA,NA,g,g,leopardus
+Araneae,Labidognatha,Lycosidae,pardosa,Pardosa amentata,"(Clerck, 1757)",6.25,1,c,c,e,NA,NA,NA,NA,g-(h),u,amentata
+Araneae,Labidognatha,Lycosidae,pardosa,Pardosa lugubris,"(Walckenaer, 1802)",5.6,0.75,c,c,e,NA,NA,NA,NA,g,g,lugubris
+Araneae,Labidognatha,Lycosidae,pardosa,Pardosa paludicola,"(Clerck, 1757)",7.63,0.5,c,c,e,NA,NA,NA,NA,g,g,paludicola
+Araneae,Labidognatha,Lycosidae,pardosa,Pardosa palustris,"(Linnaeus, 1758)",6,1,c,c,e,NA,NA,NA,NA,g,g,palustris
+Araneae,Labidognatha,Lycosidae,pardosa,Pardosa prativaga,"L. Koch, 1870",6.1,1,c,c,e,NA,NA,NA,NA,g,g,prativaga
+Araneae,Labidognatha,Lycosidae,pardosa,Pardosa pullata,"(Clerck, 1757)",4.75,1,c,c,e,NA,NA,NA,NA,g,g,pullata
+Araneae,Labidognatha,Lycosidae,trochosa,Trochosa ruricola,"(De Geer, 1778)",9.63,1,c,c,e,NA,NA,NA,NA,g,g,ruricola
+Araneae,Labidognatha,Oxypodidae,oxyopes,Oxyopes ramosus,"(Martini & Goeze, 1778)",7,0.5,c,c,e,NA,NA,NA,NA,h-(t),u,ramosus
+Araneae,Labidognatha,Philodromidae,philodromus,Philodromus albidus,"Kulczynski, 1911",4.12,0.75,c,c,e,NA,NA,NA,NA,(h)-t,u,albidus
+Araneae,Labidognatha,Philodromidae,philodromus,Philodromus aureolus,"(Clerck, 1757)",5.63,1,c,c,e,NA,NA,NA,NA,(h)-t,u,aureolus
+Araneae,Labidognatha,Philodromidae,philodromus,Philodromus cespitum,"(Walckenaer, 1802)",4.78,1,c,c,e,NA,NA,NA,NA,(h)-t,u,cespitum
+Araneae,Labidognatha,Philodromidae,philodromus,Philodromus collinus,"C.L. Koch, 1835",4.88,0.75,c,c,e,NA,NA,NA,NA,(h)-t,u,collinus
+Araneae,Labidognatha,Philodromidae,philodromus,Philodromus praedatus,"O. P.-Cambridge, 1871",4.88,0.5,c,c,e,NA,NA,NA,NA,(h)-t,u,praedatus
+Araneae,Labidognatha,Pisauridae,pisaura,Pisaura mirabilis,"(Clerck, 1757)",12.5,1,c,c,e,NA,NA,NA,NA,(g)-h,u,mirabilis
+Araneae,Labidognatha,Tetragnathidae,pachygnatha,Pachygnatha clercki,"Sundevall, 1823",5.25,1,c,c,e,NA,NA,NA,NA,g,g,clercki
+Araneae,Labidognatha,Tetragnathidae,pachygnatha,Pachygnatha degeeri,"Sundevall, 1830",3.55,1,c,c,e,NA,NA,NA,NA,g,g,degeeri
+Araneae,Labidognatha,Tetragnathidae,tetragnatha,Tetragnatha extensa,"(Linnaeus, 1758)",8.05,1,c,c,e,NA,NA,NA,NA,h-(t),u,extensa
+Araneae,Labidognatha,Tetragnathidae,tetragnatha,Tetragnatha montana,"Simon, 1874",8.5,1,c,c,e,NA,NA,NA,NA,t,t,montana
+Araneae,Labidognatha,Tetragnathidae,tetragnatha,Tetragnatha obtusa,"C.L. Koch, 1837",5.43,0.75,c,c,e,NA,NA,NA,NA,(h)-t,u,obtusa
+Araneae,Labidognatha,Tetragnathidae,tetragnatha,Tetragnatha pinicola,"L. Koch, 1870",5.13,0.75,c,c,e,NA,NA,NA,NA,(h)-t,u,pinicola
+Araneae,Labidognatha,Tetragnathidae,tetragnatha,Tetragnatha reimoseri,"(Rosca, 1939)",10,0.5,c,c,e,NA,NA,NA,NA,h,h,reimoseri
+Araneae,Labidognatha,Theridiidae,enoplognatha,Enoplognatha latimana,"Hippa & Oksala, 1982",4.5,0.5,c,c,e,NA,NA,NA,NA,h,h,latimana
+Araneae,Labidognatha,Theridiidae,enoplognatha,Enoplognatha ovata,"(Clerck, 1757)",5.3,1,c,c,e,NA,NA,NA,NA,(h)-t,u,ovata
+Araneae,Labidognatha,Theridiidae,enoplognatha,Enoplognatha thoracica,"(Hahn, 1833)",4,0.75,c,c,e,NA,NA,NA,NA,g,g,thoracica
+Araneae,Labidognatha,Theridiidae,robertus,Robertus arundineti,"(O. P.-Cambridge, 1871)",2.31,0.5,c,c,e,NA,NA,NA,NA,g-(h),u,arundineti
+Araneae,Labidognatha,Theridiidae,robertus,Robertus lividus,"(Blackwall, 1836)",3.38,0.75,c,c,e,NA,NA,NA,NA,g,g,lividus
+Araneae,Labidognatha,Theridiidae,robertus,Robertus neglectus,"(O. P.-Cambridge, 1871)",2.13,0.75,c,c,e,NA,NA,NA,NA,g-(h),u,neglectus
+Araneae,Labidognatha,Theridiidae,theridion,Theridion boesenbergi,"Strand, 1904",2.13,1,c,c,e,NA,NA,NA,NA,t,t,boesenbergi
+Araneae,Labidognatha,Theridiidae,theridion,Theridion pictum,"(Walckenaer, 1802)",3.53,0.5,c,c,e,NA,NA,NA,NA,h-(t),u,pictum
+Araneae,Labidognatha,Theridiidae,theridion,Theridion pinastri,"L. Koch, 1872",3.13,0.75,c,c,e,NA,NA,NA,NA,(h)-t,u,pinastri
+Araneae,Labidognatha,Theridiidae,theridion,Theridion varians,"Hahn, 1833",3.13,0.75,c,c,e,NA,NA,NA,NA,(h)-t,u,varians
+Araneae,Labidognatha,Thomisidae,diaea,Diaea dorsata,"(Fabricius, 1777)",4.83,1,c,c,e,NA,NA,NA,NA,(h)-t,u,dorsata
+Araneae,Labidognatha,Thomisidae,ozyptila,Ozyptila praticola,"(C.L. Koch, 1837)",3.45,1,c,c,e,NA,NA,NA,NA,g,g,praticola
+Araneae,Labidognatha,Thomisidae,ozyptila,Ozyptila simplex,"(O. P.-Cambridge, 1862)",3.53,0.75,c,c,e,NA,NA,NA,NA,g,g,simplex
+Araneae,Labidognatha,Thomisidae,ozyptila,Ozyptila trux,"(Blackwall, 1846)",4.1,0.75,c,c,e,NA,NA,NA,NA,g,g,trux
+Araneae,Labidognatha,Thomisidae,xysticus,Xysticus audax,"(Schrank, 1803)",4.98,0.75,c,c,e,NA,NA,NA,NA,t,t,audax
+Araneae,Labidognatha,Thomisidae,xysticus,Xysticus bifasciatus,"C.L. Koch, 1837",7.03,0.75,c,c,e,NA,NA,NA,NA,(g)-h-(t),u,bifasciatus
+Araneae,Labidognatha,Thomisidae,xysticus,Xysticus cristatus,"(Clerck, 1757)",5.58,1,c,c,e,NA,NA,NA,NA,(g)-h-(t),u,cristatus
+Araneae,Labidognatha,Thomisidae,xysticus,Xysticus erraticus,"(Blackwall, 1834)",5.75,0.75,c,c,e,NA,NA,NA,NA,g-(h),u,erraticus
+Araneae,Labidognatha,Thomisidae,xysticus,Xysticus kochi,"Thorell, 1872",6.55,1,c,c,e,NA,NA,NA,NA,(g)-h-(t),u,kochi
+Araneae,Labidognatha,Thomisidae,xysticus,Xysticus lanio,"C.L. Koch, 1835",6.13,0.75,c,c,e,NA,NA,NA,NA,t,t,lanio
+Araneae,Labidognatha,Thomisidae,xysticus,Xysticus striatipes,"L. Koch, 1870",6.3,0.5,c,c,e,NA,NA,NA,NA,g,g,striatipes
+Araneae,Labidognatha,Thomisidae,xysticus,Xysticus ulmi,"(Hahn, 1832)",5.08,0.75,c,c,e,NA,NA,NA,NA,h,h,ulmi
+Coleoptera,Adephaga,Carabidae,amara,Amara aenea,"(De Geer, 1774)",7.5,1,c-h,o,c,o,NA,r-ro,NA,g-(h),g,aenea
+Coleoptera,Adephaga,Carabidae,amara,Amara aulica,"(Panzer, 1797)",12.75,1,c-(h),c,c,p,NA,r-ro,NA,h,h,aulica
+Coleoptera,Adephaga,Carabidae,amara,Amara bifrons,"(Gyllenhal, 1810)",6.5,1,c-h,o,c,o,NA,r-ro,NA,g-(h),g,bifrons
+Coleoptera,Adephaga,Carabidae,amara,Amara communis,"(Panzer, 1797)",7,1,c-h,o,c,o,NA,r-ro,NA,g-(h),g,communis
+Coleoptera,Adephaga,Carabidae,amara,Amara familiaris,"(Duftschmid, 1812)",6.5,1,c-h,o,c,o,NA,r-ro,NA,g-(h),g,familiaris
+Coleoptera,Adephaga,Carabidae,amara,Amara montivaga,"Sturm, 1825",8.5,1,c-h,o,c,p,NA,r-ro,NA,g-(h),g,montivaga
+Coleoptera,Adephaga,Carabidae,amara,Amara plebeja,"(Gyllenhal, 1810)",7,1,c-h,o,c,o,NA,r-ro,NA,g-(h),g,plebeja
+Coleoptera,Adephaga,Carabidae,anisodactylus,Anisodactylus binotatus,"(Fabricius, 1787)",11,1,c-h,o,c,p,NA,l,NA,g-(h),g,binotatus
+Coleoptera,Adephaga,Carabidae,badister,Badister bullatus,"(Schrank, 1798)",5.4,1,c,c,c,NA,NA,NA,NA,g,g,bullatus
+Coleoptera,Adephaga,Carabidae,bembidion,Bembidion assimile,"Gyllenhal, 1810",2.5,0.5,c,c,c,NA,NA,NA,NA,g,g,assimile
+Coleoptera,Adephaga,Carabidae,bembidion,Bembidion gilvipes,"Sturm, 1825",2.75,0.75,c,c,c,NA,NA,NA,NA,g,g,gilvipes
+Coleoptera,Adephaga,Carabidae,bembidion,Bembidion guttula,"(Fabricius, 1792)",3.15,0.75,c,c,c,NA,NA,NA,NA,g,g,guttula
+Coleoptera,Adephaga,Carabidae,bembidion,Bembidion obtusum,"Serville, 1821",3.2,0.5,c,c,c,NA,NA,NA,NA,g,g,obtusum
+Coleoptera,Adephaga,Carabidae,diachromus,Diachromus germanus,"(Linneaus, 1758)",9,1,c-h,o,c,p,NA,l-r-se,NA,g-(h),g,germanus
+Coleoptera,Adephaga,Carabidae,dyschiriodes,Dyschiriodes tristis,(Stephens 1827),3.6,1,c,c,c,NA,NA,NA,NA,s,s,tristis
+Coleoptera,Adephaga,Carabidae,dyschirius,Dyschirius aeneus,"(Dejean, 1825)",2.5,1,c,c,c,NA,NA,NA,NA,s,s,aeneus
+Coleoptera,Adephaga,Carabidae,dyschirius,Dyschirius globosus,"(Herbst, 1784)",2.4,0.75,c,c,c,NA,NA,NA,NA,g,g,globosus
+Coleoptera,Adephaga,Carabidae,ophonus,Ophonus diffinis,"Dejean, 1829",11.25,1,c-h,o,c,o,NA,l-r,NA,g-h,u,diffinis
+Coleoptera,Adephaga,Carabidae,ophonus,Ophonus puncticeps,"(Stephens, 1828)",8.25,1,c-h,o,c,o,NA,l-r,NA,g-(h),g,puncticeps
+Coleoptera,Adephaga,Carabidae,poecilus,Poecilus cupreus,"(Linneaus, 1758)",11,1,c,c,c,NA,NA,NA,NA,g,g,cupreus
+Coleoptera,Adephaga,Carabidae,poecilus,Poecilus lepidus,"(Leske, 1785)",12,1,c,c,c,NA,NA,NA,NA,g,g,lepidus
+Coleoptera,Adephaga,Carabidae,poecilus,Poecilus versicolor,"(Sturm, 1824)",9.75,1,c,c,c,NA,NA,NA,NA,g,g,versicolor
+Coleoptera,Adephaga,Carabidae,pterostichus,Pterostichus vernalis,"(Panzer, 1796)",6.65,0.75,c,c,c,NA,NA,NA,NA,g,g,vernalis
+Coleoptera,Adephaga,Carabidae,syntomus,Syntomus truncatellus,"(Linneaus, 1761)",2.95,0.5,c,c,c,NA,NA,NA,NA,g,g,truncatellus
+Coleoptera,Adephaga,Carabidae,trechus,Trechus obtusus,"Erichson, 1837",4,0.5,c,c,c,NA,NA,NA,NA,g,g,obtusus
+Coleoptera,Adephaga,Carabidae,trechus,Trechus quadristriatus,"(Schrank, 1781)",4,0.5,c,c,c,NA,NA,NA,NA,g,g,quadristriatus
+Coleoptera,Polyphaga,Anthicidae,notoxus,Notoxus monoceros,"(Linneaus, 1761)",4.6,1,c-d,o,c,NA,NA,NA,NA,g,g,monoceros
+Coleoptera,Polyphaga,Cantharidae,rhagonycha,Rhagonycha fulva,"(Scopoli, 1763)",8.5,1,c,c,c,NA,NA,NA,NA,h,h,fulva
+Coleoptera,Polyphaga,Cantharidae,rhagonycha,Rhagonycha limbata,"Thomson, 1864",5.5,1,c,c,c,NA,NA,NA,NA,h,h,limbata
+Coleoptera,Polyphaga,Cantharidae,rhagonycha,Rhagonycha lutea,"(Muller O.F., 1764)",7.5,1,c,c,c,NA,NA,NA,NA,h,h,lutea
+Coleoptera,Polyphaga,Cantharidae,rhagonycha,Rhagonycha testacea,"(Linneaus, 1758)",5.5,1,c,c,c,NA,NA,NA,NA,h,h,testacea
+Coleoptera,Polyphaga,Chrysomelidae,chaetocnema,Chaetocnema aridula,"(Gyllenhal, 1827)",2,1,h,h,c,o,NA,l-s,ms,h,h,aridula
+Coleoptera,Polyphaga,Chrysomelidae,chaetocnema,Chaetocnema concinna,"(Marsham, 1802)",2.1,1,h,h,c,o,NA,l-s,ms,h,h,concinna
+Coleoptera,Polyphaga,Chrysomelidae,chaetocnema,Chaetocnema hortensis,"(Geoffroy, 1785)",1.9,1,h,h,c,o,NA,l,NA,h,h,hortensis
+Coleoptera,Polyphaga,Chrysomelidae,chaetocnema,Chaetocnema laevicollis,"(Thomson, 1866)",2,1,h,h,c,o,NA,l,NA,h,h,laevicollis
+Coleoptera,Polyphaga,Chrysomelidae,chaetocnema,Chaetocnema mannerheimi,"(Gyllenhal, 1827)",2.5,1,h,h,c,m,NA,l,NA,h,h,mannerheimi
+Coleoptera,Polyphaga,Chrysomelidae,chaetocnema,Chaetocnema subcoerulea,"(Kutschera, 1864)",2,1,h,h,c,o,NA,l,NA,h,h,subcoerulea
+Coleoptera,Polyphaga,Chrysomelidae,oulema,Oulema duftschmidi,"(Redtenbacher, 1874)",4.25,1,h,h,c,o,NA,l,NA,h,h,duftschmidi
+Coleoptera,Polyphaga,Chrysomelidae,oulema,Oulema gallaeciana,"(Heyden, 1870)",4,1,h,h,c,o,NA,l,NA,h,h,gallaeciana
+Coleoptera,Polyphaga,Chrysomelidae,oulema,Oulema melanopus,"(Linneaus, 1758)",4,1,h,h,c,o,NA,l,NA,h,h,melanopus
+Coleoptera,Polyphaga,Coccinellidae,adalia,Adalia bipunctata,"(Linneaus, 1758)",4.5,1,c,c,c,NA,NA,NA,NA,h,h,bipunctata
+Coleoptera,Polyphaga,Coccinellidae,adalia,Adalia decempunctata,"(Linneaus, 1758)",4.25,1,c,c,c,NA,NA,NA,NA,h,h,decempunctata
+Coleoptera,Polyphaga,Coccinellidae,coccinella,Coccinella quinquepunctata,"Linneaus, 1758",4,1,c,c,c,NA,NA,NA,NA,h,h,quinquepunctata
+Coleoptera,Polyphaga,Coccinellidae,coccinella,Coccinella septempunctata,"Linneaus, 1758",6.6,1,c,c,c,NA,NA,NA,NA,h,h,septempunctata
+Coleoptera,Polyphaga,Coccinellidae,coccinula,Coccinula quatuordecimpustulata,"(Linneaus, 1758)",3.5,1,c,c,c,NA,NA,NA,NA,h,h,quatuordecimpustulata
+Coleoptera,Polyphaga,Coccinellidae,harmonia,Harmonia axyridis,"(Pallas, 1773)",7,1,c,c,c,NA,NA,NA,NA,h,h,axyridis
+Coleoptera,Polyphaga,Coccinellidae,hippodamia,Hippodamia notata,"(Laicharting, 1781)",5,1,c,c,c,NA,NA,NA,NA,h,h,notata
+Coleoptera,Polyphaga,Coccinellidae,hippodamia,Hippodamia tredecimpunctata,"(Linneaus, 1758)",5.75,1,c,c,c,NA,NA,NA,NA,h,h,tredecimpunctata
+Coleoptera,Polyphaga,Coccinellidae,hippodamia,Hippodamia variegata,"(Goeze, 1777)",4.25,1,c,c,c,NA,NA,NA,NA,h,h,variegata
+Coleoptera,Polyphaga,Coccinellidae,propylea,Propylea quatuordecimpunctata,"(Linneaus, 1758)",4,1,c,c,c,NA,NA,NA,NA,h,h,quatuordecimpunctata
+Coleoptera,Polyphaga,Coccinellidae,rhyzobius,Rhyzobius litura,"(Fabricius, 1787)",2.75,1,c,c,c,NA,NA,NA,NA,h,h,litura
+Coleoptera,Polyphaga,Coccinellidae,scymnus,Scymnus auritus,"Thunberg, 1795",2.25,1,c,c,c,NA,NA,NA,NA,t,t,auritus
+Coleoptera,Polyphaga,Coccinellidae,scymnus,Scymnus femoralis,"Gyllenhal, 1827",2.5,1,c,c,c,NA,NA,NA,NA,h,h,femoralis
+Coleoptera,Polyphaga,Coccinellidae,scymnus,Scymnus ferrugatus,"(Moll, 1785)",2.75,1,c,c,c,NA,NA,NA,NA,t,t,ferrugatus
+Coleoptera,Polyphaga,Coccinellidae,scymnus,Scymnus frontalis,"(Fabricius, 1787)",2.5,1,c,c,c,NA,NA,NA,NA,h,h,frontalis
+Coleoptera,Polyphaga,Coccinellidae,scymnus,Scymnus haemorrhoidalis,"Herbst, 1797",1.9,1,c,c,c,NA,NA,NA,NA,t,t,haemorrhoidalis
+Coleoptera,Polyphaga,Coccinellidae,scymnus,Scymnus mimulus,"CapraF¸rsch, 1967",2.65,1,c,c,c,NA,NA,NA,NA,h,h,mimulus
+Coleoptera,Polyphaga,Coccinellidae,scymnus,Scymnus suturalis,"Thunberg, 1795",2,1,c,c,c,NA,NA,NA,NA,t,t,suturalis
+Coleoptera,Polyphaga,Curculionidae,anthonomus,Anthonomus rectirostris,"(Linnaeus, 1758)",4.1,1,h,h,c,m,NA,l-r,mr,t,t,rectirostris
+Coleoptera,Polyphaga,Curculionidae,anthonomus,Anthonomus rubi,"(Herbst, 1795)",2.75,1,h,h,c,o,NA,l-r,mr,t,t,rubi
+Coleoptera,Polyphaga,Curculionidae,hypera,Hypera arator,"(Linneaus, 1758)",5.25,1,h,h,c,o,NA,l-r-s,(ml),h,h,arator
+Coleoptera,Polyphaga,Curculionidae,hypera,Hypera meles,"(Fabricius, 1792)",4.1,1,h,h,c,m,NA,r-s,NA,h,h,meles
+Coleoptera,Polyphaga,Curculionidae,hypera,Hypera nigrirostris,"(Fabricius, 1775)",3.4,1,h,h,c,o,NA,r-s,mr-ms,h,h,nigrirostris
+Coleoptera,Polyphaga,Curculionidae,hypera,Hypera plantaginis,"(De Geer, 1775)",4.4,1,h,h,c,o,NA,l-r,NA,h,h,plantaginis
+Coleoptera,Polyphaga,Curculionidae,hypera,Hypera postica,"(Gyllenhal, 1813)",4.65,1,h,h,c,o,NA,l-s,NA,h,h,postica
+Coleoptera,Polyphaga,Curculionidae,hypera,Hypera rumicis,"(Linneaus, 1758)",5,1,h,h,c,o,NA,l-s,(ml),h,h,rumicis
+Coleoptera,Polyphaga,Curculionidae,hypera,Hypera suspiciosa,"(Herbst, 1795)",5.2,1,h,h,c,o,NA,l-r-s,NA,h,h,suspiciosa
+Coleoptera,Polyphaga,Latridiidae,corticaria,Corticaria abietorum,"Motschulsky, 1867",2,1,f,f,c,NA,NA,NA,NA,g,g,abietorum
+Coleoptera,Polyphaga,Latridiidae,corticaria,Corticaria obscura,"Brisout, 1863",1.7,1,f,f,c,NA,NA,NA,NA,h,h,obscura
+Coleoptera,Polyphaga,Latridiidae,corticaria,Corticaria serrata,"(Paykull, 1798)",2,1,f,f,c,NA,NA,NA,NA,g,g,serrata
+Coleoptera,Polyphaga,Latridiidae,corticaria,Corticaria umbilicata,"(Beck, 1817)",1.9,1,f,f,c,NA,NA,NA,NA,g,g,umbilicata
+Coleoptera,Polyphaga,Nitidulidae,meligethes,Meligethes aeneus,"(Fabricius, 1775)",2.1,1,h,h,c,o,NA,l-r,NA,h,h,aeneus
+Coleoptera,Polyphaga,Nitidulidae,meligethes,Meligethes carinulatus,"Fˆrster, 1849",1.8,1,h,h,c,m,NA,l-r,NA,h,h,carinulatus
+Coleoptera,Polyphaga,Nitidulidae,meligethes,Meligethes coeruleovirens,"Foerster, 1849",2.15,1,h,h,c,m,NA,l-r,NA,h,h,coeruleovirens
+Coleoptera,Polyphaga,Nitidulidae,meligethes,Meligethes coracinus,"Sturm, 1845",2.1,1,h,h,c,o,NA,l-r,NA,h,h,coracinus
+Coleoptera,Polyphaga,Nitidulidae,meligethes,Meligethes difficilis,"(Heer, 1841)",2.25,1,h,h,c,m,NA,l-r,NA,h,h,difficilis
+Coleoptera,Polyphaga,Nitidulidae,meligethes,Meligethes flavimanus,"Stephens, 1830",2.25,1,h,h,c,m,NA,l-r,NA,t,t,flavimanus
+Coleoptera,Polyphaga,Nitidulidae,meligethes,Meligethes maurus,"Sturm, 1845",2.5,1,h,h,c,m,NA,l-r,NA,h,h,maurus
+Coleoptera,Polyphaga,Nitidulidae,meligethes,Meligethes morosus,"Erichson, 1845",2.05,1,h,h,c,o,NA,l-r,NA,h,h,morosus
+Coleoptera,Polyphaga,Nitidulidae,meligethes,Meligethes nigrescens,"Stephens, 1830",2.1,1,h,h,c,m,NA,l-r,NA,h,h,nigrescens
+Coleoptera,Polyphaga,Nitidulidae,meligethes,Meligethes ovatus,"Sturm, 1845",2.2,1,h,h,c,m,NA,l-r,NA,h,h,ovatus
+Coleoptera,Polyphaga,Nitidulidae,meligethes,Meligethes persicus,"Faldermann, 1837",2,1,h,h,c,m,NA,l-r,NA,h,h,persicus
+Coleoptera,Polyphaga,Nitidulidae,meligethes,Meligethes rotundicollis,"Brisout de Barneville, 1863",2,1,h,h,c,o,NA,l-r,NA,h,h,rotundicollis
+Coleoptera,Polyphaga,Nitidulidae,meligethes,Meligethes ruficornis,"(Marshall, 1802)",2.25,1,h,h,c,m,NA,l-r,NA,h,h,ruficornis
+Coleoptera,Polyphaga,Nitidulidae,meligethes,Meligethes subaeneus,"Sturm, 1845",2,1,h,h,c,o,NA,l-r,NA,h,h,subaeneus
+Coleoptera,Polyphaga,Nitidulidae,meligethes,Meligethes symphyti,"(Heer, 1841)",2.6,1,h,h,c,m,NA,l-r,NA,h,h,symphyti
+Coleoptera,Polyphaga,Nitidulidae,meligethes,Meligethes umbrosus,"Sturm, 1845",2.45,1,h,h,c,m,NA,l-r,NA,h,h,umbrosus
+Coleoptera,Polyphaga,Nitidulidae,meligethes,Meligethes viridescens,"(Fabricius, 1787)",2.25,1,h,h,c,o,NA,l-r,NA,h,h,viridescens
+Coleoptera,Polyphaga,Scarabaeidae,aphodius,Aphodius contaminatus,"(Herbst, 1783)",5.75,1,d,d,c,NA,NA,NA,NA,g,g,contaminatus
+Coleoptera,Polyphaga,Scarabaeidae,aphodius,Aphodius corvinus,"Erichson, 1848",3.5,1,d,d,c,NA,NA,NA,NA,g,g,corvinus
+Coleoptera,Polyphaga,Scarabaeidae,aphodius,Aphodius distinctus,"(Mueller, 1776)",4.5,1,d,d,c,NA,NA,NA,NA,g,g,distinctus
+Coleoptera,Polyphaga,Scarabaeidae,aphodius,Aphodius erraticus,"(Linneaus, 1758)",6.75,1,d,d,c,NA,NA,NA,NA,g,g,erraticus
+Coleoptera,Polyphaga,Scarabaeidae,aphodius,Aphodius fimetarius,"(Linneaus, 1758)",6.5,1,d,d,c,NA,NA,NA,NA,g,g,fimetarius
+Coleoptera,Polyphaga,Scarabaeidae,aphodius,Aphodius granarius,"(Linneaus, 1767)",4,1,d,d,c,NA,NA,NA,NA,g,g,granarius
+Coleoptera,Polyphaga,Scarabaeidae,aphodius,Aphodius haemorrhoidalis,"(Linneaus, 1758)",4.25,1,d,d,c,NA,NA,NA,NA,g,g,haemorrhoidalis
+Coleoptera,Polyphaga,Scarabaeidae,aphodius,Aphodius prodromus,"(Brahm, 1790)",5.5,1,d,d,c,NA,NA,NA,NA,g,g,prodromus
+Coleoptera,Polyphaga,Scarabaeidae,aphodius,Aphodius pusillus,"(Herbst, 1789)",3.75,1,d,d,c,NA,NA,NA,NA,g,g,pusillus
+Coleoptera,Polyphaga,Scarabaeidae,aphodius,Aphodius sphacelatus,"(Panzer, 1798)",5,1,d,d,c,NA,NA,NA,NA,g,g,sphacelatus
+Coleoptera,Polyphaga,Staphylinidae,acrotona,Acrotona parvula,"(Mannerheim, 1831)",2.15,1,c,c,c,NA,NA,NA,NA,g,g,parvula
+Coleoptera,Polyphaga,Staphylinidae,aleochara,Aleochara bipustulata,"(Linneaus, 1761)",3.25,1,c,c,c,NA,NA,NA,NA,g,g,bipustulata
+Coleoptera,Polyphaga,Staphylinidae,aleochara,Aleochara laevigata,"Gyllenhal, 1810",3.75,1,c,c,c,NA,NA,NA,NA,g,g,laevigata
+Coleoptera,Polyphaga,Staphylinidae,aleochara,Aleochara lygaea,"Kraatz, 1862",3.5,1,c,c,c,NA,NA,NA,NA,g,g,lygaea
+Coleoptera,Polyphaga,Staphylinidae,aleochara,Aleochara tristis,"Gravenhorst, 1806",5.25,1,c,c,c,NA,NA,NA,NA,g,g,tristis
+Coleoptera,Polyphaga,Staphylinidae,amischa,Amischa analis,"(Gravenhorst, 1802)",2.1,1,c,c,c,NA,NA,NA,NA,g,g,analis
+Coleoptera,Polyphaga,Staphylinidae,amischa,Amischa bifoveolata,"(Mannerheim, 1830)",2,1,c,c,c,NA,NA,NA,NA,g,g,bifoveolata
+Coleoptera,Polyphaga,Staphylinidae,amischa,Amischa decipiens,"(Sharp, 1869)",2.1,1,c,c,c,NA,NA,NA,NA,g,g,decipiens
+Coleoptera,Polyphaga,Staphylinidae,amischa,Amischa nigrofusca,"(Stephens, 1832)",2,1,c,c,c,NA,NA,NA,NA,g,g,nigrofusca
+Coleoptera,Polyphaga,Staphylinidae,anotylus,Anotylus affinis,"(CzwaLinneaus, 1870)",1.5,1,c-d,o,c,NA,NA,NA,NA,g,g,affinis
+Coleoptera,Polyphaga,Staphylinidae,anotylus,Anotylus rugosus,"(Fabricius, 1775)",5,1,c-d,o,c,NA,NA,NA,NA,g,g,rugosus
+Coleoptera,Polyphaga,Staphylinidae,anotylus,Anotylus sculpturatus,"(Gravenhorst, 1806)",2.75,1,c-d,o,c,NA,NA,NA,NA,g,g,sculpturatus
+Coleoptera,Polyphaga,Staphylinidae,anotylus,Anotylus tetracarinatus,"(Block, 1799)",1.95,1,c-d,o,c,NA,NA,NA,NA,g,g,tetracarinatus
+Coleoptera,Polyphaga,Staphylinidae,atheta,Atheta aegra,"(Heer, 1841)",1.75,1,c,c,c,NA,NA,NA,NA,g,g,aegra
+Coleoptera,Polyphaga,Staphylinidae,atheta,Atheta aeneipennis,"Thomson, 1856",3.4,1,c,c,c,NA,NA,NA,NA,g,g,aeneipennis
+Coleoptera,Polyphaga,Staphylinidae,atheta,Atheta amplicollis,"(Mulsant & Rey, 1873)",0.31,1,c,c,c,NA,NA,NA,NA,g,g,amplicollis
+Coleoptera,Polyphaga,Staphylinidae,atheta,Atheta atramentaria,"(Gyllenhal, 1810)",3.05,1,c,c,c,NA,NA,NA,NA,g,g,atramentaria
+Coleoptera,Polyphaga,Staphylinidae,atheta,Atheta cauta,"(Erichson, 1837)",2.1,1,c,c,c,NA,NA,NA,NA,g,g,cauta
+Coleoptera,Polyphaga,Staphylinidae,atheta,Atheta celata,"(Erichson, 1837)",2,1,c,c,c,NA,NA,NA,NA,g,g,celata
+Coleoptera,Polyphaga,Staphylinidae,atheta,Atheta crassicornis,"(Fabricius, 1792)",3.1,1,c,c,c,NA,NA,NA,NA,g,g,crassicornis
+Coleoptera,Polyphaga,Staphylinidae,atheta,Atheta elongatula,"(Gravenhorst, 1802)",3.25,1,c,c,c,NA,NA,NA,NA,g,g,elongatula
+Coleoptera,Polyphaga,Staphylinidae,atheta,Atheta fungi,"(Gravenhorst, 1806)",2.6,1,c,c,c,NA,NA,NA,NA,g,g,fungi
+Coleoptera,Polyphaga,Staphylinidae,atheta,Atheta graminicola,"(Gravenhorst, 1806)",4.25,1,c,c,c,NA,NA,NA,NA,g,g,graminicola
+Coleoptera,Polyphaga,Staphylinidae,atheta,Atheta inquinula,"(Gravenhorst, 1802)",1.15,1,c,c,c,NA,NA,NA,NA,g,g,inquinula
+Coleoptera,Polyphaga,Staphylinidae,atheta,Atheta liliputana,"(Brisout, 1860)",1.75,1,c,c,c,NA,NA,NA,NA,g,g,liliputana
+Coleoptera,Polyphaga,Staphylinidae,atheta,Atheta longicornis,"(Gravenhorst, 1802)",3.25,1,c,c,c,NA,NA,NA,NA,g,g,longicornis
+Coleoptera,Polyphaga,Staphylinidae,atheta,Atheta macrocera,"(Thomson, 1856)",2.2,1,c,c,c,NA,NA,NA,NA,g,g,macrocera
+Coleoptera,Polyphaga,Staphylinidae,atheta,Atheta malleus,"Joy, 1913",2.9,1,c,c,c,NA,NA,NA,NA,g,g,malleus
+Coleoptera,Polyphaga,Staphylinidae,atheta,Atheta nigra,"(Kraatz, 1856)",2,1,c,c,c,NA,NA,NA,NA,g,g,nigra
+Coleoptera,Polyphaga,Staphylinidae,atheta,Atheta orbata,"(Erichson, 1837)",2.5,1,c,c,c,NA,NA,NA,NA,g,g,orbata
+Coleoptera,Polyphaga,Staphylinidae,atheta,Atheta palustris,"(Kiesenwetter, 1844)",2.45,1,c,c,c,NA,NA,NA,NA,g,g,palustris
+Coleoptera,Polyphaga,Staphylinidae,atheta,Atheta putrida,"(Kraatz, 1856)",3.2,1,c,c,c,NA,NA,NA,NA,g,g,putrida
+Coleoptera,Polyphaga,Staphylinidae,atheta,Atheta triangulum,"(Kraatz, 1856)",3.55,1,c,c,c,NA,NA,NA,NA,g,g,triangulum
+Coleoptera,Polyphaga,Staphylinidae,carpelimus,Carpelimus corticinus,"(Gravenhorst, 1806)",1.5,1,c-h,o,c,p,NA,l,NA,g,g,corticinus
+Coleoptera,Polyphaga,Staphylinidae,carpelimus,Carpelimus impressus,"(Boisduval & Lacordaire, 1835)",2.45,1,c-h,o,c,p,NA,l,NA,g,g,impressus
+Coleoptera,Polyphaga,Staphylinidae,carpelimus,Carpelimus rivularis,"(Motschulsky, 1860)",2.6,1,c-h,o,c,p,NA,l,NA,g,g,rivularis
+Coleoptera,Polyphaga,Staphylinidae,mycetoporus,Mycetoporus nigricollis,"(Stephens, 1835)",5.25,0.5,c-f,o,c,NA,NA,NA,NA,g,g,nigricollis
+Coleoptera,Polyphaga,Staphylinidae,nehemitropia,Nehemitropia lividipennis,"(Mannerheim, 1831)",3.25,1,c,c,c,NA,NA,NA,NA,g,g,lividipennis
+Coleoptera,Polyphaga,Staphylinidae,oligota,Oligota parva,"Kraatz, 1862",1.05,1,c,c,c,NA,NA,NA,NA,g,g,parva
+Coleoptera,Polyphaga,Staphylinidae,oligota,Oligota pusillima,"(Gravenhorst, 1806)",1.15,1,c,c,c,NA,NA,NA,NA,g,g,pusillima
+Coleoptera,Polyphaga,Staphylinidae,omalium,Omalium caesum,"Gravenhorst, 1806",3,1,c-d,o,c,NA,NA,NA,NA,g,g,caesum
+Coleoptera,Polyphaga,Staphylinidae,omalium,Omalium rivulare,"(Paykull, 1789)",3,1,c-d,o,c,NA,NA,NA,NA,g,g,rivulare
+Coleoptera,Polyphaga,Staphylinidae,oxypoda,Oxypoda acuminata,"(Stephens, 1832)",5,1,c-d,o,c,NA,NA,NA,NA,g,g,acuminata
+Coleoptera,Polyphaga,Staphylinidae,oxypoda,Oxypoda haemorrhoa,"(Mannerheim, 1830)",2.35,1,c-d,o,c,NA,NA,NA,NA,g,g,haemorrhoa
+Coleoptera,Polyphaga,Staphylinidae,oxypoda,Oxypoda longipes,"Mulsant & Rey, 1861",4.5,1,c-d,o,c,NA,NA,NA,NA,g,g,longipes
+Coleoptera,Polyphaga,Staphylinidae,oxypoda,Oxypoda opaca,"(Gravenhorst, 1802)",4,1,c-d,o,c,NA,NA,NA,NA,g,g,opaca
+Coleoptera,Polyphaga,Staphylinidae,oxypoda,Oxypoda tarda,"Sharp, 1871",2.5,1,c-d,o,c,NA,NA,NA,NA,g,g,tarda
+Coleoptera,Polyphaga,Staphylinidae,paederus,Paederus brevipennis,"Lacordaire, 1835",6.5,0.75,c,c,c,NA,NA,NA,NA,g,g,brevipennis
+Coleoptera,Polyphaga,Staphylinidae,paederus,Paederus fuscipes,"Curtis, 1826",6.75,0.75,c,c,c,NA,NA,NA,NA,g,g,fuscipes
+Coleoptera,Polyphaga,Staphylinidae,paederus,Paederus littoralis,"Gravenhorst, 1802",8,0.75,c,c,c,NA,NA,NA,NA,g,g,littoralis
+Coleoptera,Polyphaga,Staphylinidae,philonthus,Philonthus albipes,"(Gravenhorst, 1802)",5.25,1,c-d,o,c,NA,NA,NA,NA,g,g,albipes
+Coleoptera,Polyphaga,Staphylinidae,philonthus,Philonthus carbonarius,"(Gravenhorst, 1810)",12.5,1,c-d,o,c,NA,NA,NA,NA,g,g,carbonarius
+Coleoptera,Polyphaga,Staphylinidae,philonthus,Philonthus cognatus,"Stephens, 1832",9.75,1,c-d,o,c,NA,NA,NA,NA,g,g,cognatus
+Coleoptera,Polyphaga,Staphylinidae,philonthus,Philonthus laminatus,"(Creutzer, 1799)",9,1,c-d,o,c,NA,NA,NA,NA,g,g,laminatus
+Coleoptera,Polyphaga,Staphylinidae,philonthus,Philonthus pseudovarians,"Strand, 1941",7,1,c-d,o,c,NA,NA,NA,NA,g,g,pseudovarians
+Coleoptera,Polyphaga,Staphylinidae,philonthus,Philonthus sanguinolentus,"(Gravenhorst, 1802)",7.5,1,c-d,o,c,NA,NA,NA,NA,g,g,sanguinolentus
+Coleoptera,Polyphaga,Staphylinidae,philonthus,Philonthus varians,"(Paykull, 1789)",6.5,1,c-d,o,c,NA,NA,NA,NA,g,g,varians
+Coleoptera,Polyphaga,Staphylinidae,platystethus,Platystethus arenarius,"(Fourcroy, 1785)",3.9,1,c-d,o,c,NA,NA,NA,NA,g,g,arenarius
+Coleoptera,Polyphaga,Staphylinidae,platystethus,Platystethus cornutus,"(Gravenhorst, 1802)",3.5,1,c-d,o,c,NA,NA,NA,NA,g,g,cornutus
+Coleoptera,Polyphaga,Staphylinidae,quedius,Quedius cinctus,"(Paykull, 1790)",8,1,c,c,c,NA,NA,NA,NA,g,g,cinctus
+Coleoptera,Polyphaga,Staphylinidae,quedius,Quedius nitipennis,"(Stephens, 1833)",6.25,1,c,c,c,NA,NA,NA,NA,g,g,nitipennis
+Coleoptera,Polyphaga,Staphylinidae,quedius,Quedius vexans,"Eppelsheim, 1881",9.5,1,c,c,c,NA,NA,NA,NA,g,g,vexans
+Coleoptera,Polyphaga,Staphylinidae,scopaeus,Scopaeus laevigatus,"(Gyllenhal, 1827)",3.5,1,c,c,c,NA,NA,NA,NA,g,g,laevigatus
+Coleoptera,Polyphaga,Staphylinidae,stenus,Stenus brunnipes,"Stephens, 1833",3.45,1,c,c,c,NA,NA,NA,NA,g,g,brunnipes
+Coleoptera,Polyphaga,Staphylinidae,stenus,Stenus canaliculatus,"Gyllenhal, 1827",3.5,1,c,c,c,NA,NA,NA,NA,g,g,canaliculatus
+Coleoptera,Polyphaga,Staphylinidae,stenus,Stenus cicindeloides,"(Schaller, 1783)",5.25,1,c,c,c,NA,NA,NA,NA,g,g,cicindeloides
+Coleoptera,Polyphaga,Staphylinidae,stenus,Stenus circularis,"Gravenhorst, 1802",2.25,1,c,c,c,NA,NA,NA,NA,g,g,circularis
+Coleoptera,Polyphaga,Staphylinidae,stenus,Stenus clavicornis,"(Scopoli, 1763)",5.25,1,c,c,c,NA,NA,NA,NA,g,g,clavicornis
+Coleoptera,Polyphaga,Staphylinidae,stenus,Stenus flavipes,"Stephens, 1833",3.1,1,c,c,c,NA,NA,NA,NA,g,g,flavipes
+Coleoptera,Polyphaga,Staphylinidae,stenus,Stenus fulvicornis,"Stephens, 1833",3,1,c,c,c,NA,NA,NA,NA,g,g,fulvicornis
+Coleoptera,Polyphaga,Staphylinidae,stenus,Stenus geniculatus,"Gravenhorst, 1806",4.2,1,c,c,c,NA,NA,NA,NA,g,g,geniculatus
+Coleoptera,Polyphaga,Staphylinidae,stenus,Stenus impressus,"Germar, 1824",4.1,1,c,c,c,NA,NA,NA,NA,g,g,impressus
+Coleoptera,Polyphaga,Staphylinidae,stenus,Stenus pallipes,"Gravenhorst, 1802",3.25,1,c,c,c,NA,NA,NA,NA,g,g,pallipes
+Coleoptera,Polyphaga,Staphylinidae,stenus,Stenus pusillus,"Stephens, 1833",2.1,1,c,c,c,NA,NA,NA,NA,g,g,pusillus
+Coleoptera,Polyphaga,Staphylinidae,stenus,Stenus similis,"(Herbst, 1784)",5.25,1,c,c,c,NA,NA,NA,NA,g,g,similis
+Coleoptera,Polyphaga,Staphylinidae,tachinus,Tachinus fimetarius,"Gravenhorst, 1802",4.5,1,c-d,o,c,NA,NA,NA,NA,g,g,fimetarius
+Coleoptera,Polyphaga,Staphylinidae,tachinus,Tachinus laticollis,"Gravenhorst, 1802",3.5,1,c-d-h,o,c,p,NA,l,NA,g,g,laticollis
+Coleoptera,Polyphaga,Staphylinidae,tachinus,Tachinus marginellus,"(Fabricius, 1781)",3.5,1,c-d-h,o,c,p,NA,l,NA,g,g,marginellus
+Coleoptera,Polyphaga,Staphylinidae,tachinus,Tachinus signatus,"Gravenhorst, 1802",5.75,1,c-d,o,c,NA,NA,NA,NA,g,g,signatus
+Coleoptera,Polyphaga,Staphylinidae,tachyporus,Tachyporus abdominalis,"(Fabricius, 1781)",3.25,0.25,c,c,c,NA,NA,NA,NA,g,g,abdominalis
+Coleoptera,Polyphaga,Staphylinidae,tachyporus,Tachyporus atriceps,"Stephens, 1832",2.65,1,c,c,c,NA,NA,NA,NA,g,g,atriceps
+Coleoptera,Polyphaga,Staphylinidae,tachyporus,Tachyporus chrysomelinus,"(Linneaus, 1758)",3.75,0.5,c,c,c,NA,NA,NA,NA,g,g,chrysomelinus
+Coleoptera,Polyphaga,Staphylinidae,tachyporus,Tachyporus dispar,"(Paykull, 1789)",3,0.5,c,c,c,NA,NA,NA,NA,g,g,dispar
+Coleoptera,Polyphaga,Staphylinidae,tachyporus,Tachyporus hypnorum,"(Fabricius, 1775)",3.5,1,c,c,c,NA,NA,NA,NA,g,g,hypnorum
+Coleoptera,Polyphaga,Staphylinidae,tachyporus,Tachyporus nitidulus,"(Fabricius, 1781)",2.5,1,c,c,c,NA,NA,NA,NA,g,g,nitidulus
+Coleoptera,Polyphaga,Staphylinidae,tachyporus,Tachyporus obtusus,"(Linneaus, 1767)",3.75,1,c,c,c,NA,NA,NA,NA,g,g,obtusus
+Coleoptera,Polyphaga,Staphylinidae,tachyporus,Tachyporus pusillus,"Gravenhorst, 1806",2.5,1,c,c,c,NA,NA,NA,NA,g,g,pusillus
+Coleoptera,Polyphaga,Staphylinidae,tachyporus,Tachyporus scitulus,"Erichson, 1839",3,1,c,c,c,NA,NA,NA,NA,g,g,scitulus
+Coleoptera,Polyphaga,Staphylinidae,tachyporus,Tachyporus solutus,"Erichson, 1839",3.75,1,c,c,c,NA,NA,NA,NA,g,g,solutus
+Coleoptera,Polyphaga,Staphylinidae,tinotus,Tinotus morion,"(Gravenhorst, 1802)",2.25,1,c-d,o,c,NA,NA,NA,NA,g,g,morion
+Coleoptera,Polyphaga,Staphylinidae,xantholinus,Xantholinus linearis,"(Olivier, 1795)",7.5,0.5,c-d,o,c,NA,NA,NA,NA,g,g,linearis
+Coleoptera,Polyphaga,Staphylinidae,xantholinus,Xantholinus longiventris,"Heer, 1839",8,0.75,c-d,o,c,NA,NA,NA,NA,g,g,longiventris
+Hemiptera,Cicadomorpha,Cicadellidae,empoasca,Empoasca decipiens,"Paoli, 1930",3.6,1,h,h,s,p,m-p,NA,NA,h-(t),u,decipiens
+Hemiptera,Cicadomorpha,Cicadellidae,empoasca,Empoasca pteridis,"(Dahlbom, 1850)",3.3,1,h,h,s,p,m,NA,NA,h,h,pteridis
+Hemiptera,Cicadomorpha,Cicadellidae,empoasca,Empoasca vitis,"(Gothe, 1875)",3.45,1,h,h,s,p,m-p,NA,NA,t,t,vitis
+Hemiptera,Heteroptera,Anthocoridae,orius,Orius majusculus,"(Reuter, 1879)",2.8,1,c-(h),c,s,NA,NA,NA,NA,h-t,u,majusculus
+Hemiptera,Heteroptera,Anthocoridae,orius,Orius minutus,"(Linnaeus, 1758)",2.3,1,c-(h),c,s,NA,NA,NA,NA,h,h,minutus
+Hemiptera,Heteroptera,Anthocoridae,orius,Orius niger,"(Wolff, 1811)",2,1,c-(h),c,s,NA,NA,NA,NA,h,h,niger
+Hemiptera,Heteroptera,Anthocoridae,temnostethus,Temnostethus gracilis,"Horvath, 1907",2.4,0.25,c,c,s,NA,NA,NA,NA,t,t,gracilis
+Hemiptera,Heteroptera,Anthocoridae,temnostethus,Temnostethus pusillus,"(Herrich-Sch‰ffer, 1835)",2.8,0.75,c,c,s,NA,NA,NA,NA,t,t,pusillus
+Hemiptera,Heteroptera,Lygaeidae,nysius,Nysius cymoides,"(Spinola, 1837)",3.6,1,h,h,s,p,se,NA,NA,g-h,u,cymoides
+Hemiptera,Heteroptera,Lygaeidae,nysius,Nysius ericae,"(Schilling, 1829)",4,1,h,h,s,p,se,NA,NA,g-h,u,ericae
+Hemiptera,Heteroptera,Lygaeidae,nysius,Nysius senecionis,"(Schilling, 1829)",4.3,1,h,h,s,p,se,NA,NA,g-h,u,senecionis
+Hemiptera,Heteroptera,Lygaeidae,nysius,Nysius thymi,"(Wolff, 1804)",4,1,h,h,s,p,se,NA,NA,g-h,u,thymi
+Hemiptera,Heteroptera,Miridae,adelphocoris,Adelphocoris lineolatus,"(Goeze, 1778)",8.4,1,h,h,s,p,r,NA,NA,h,h,lineolatus
+Hemiptera,Heteroptera,Miridae,adelphocoris,Adelphocoris quadripunctatus,"(Fabricius, 1794)",8.9,1,h,h,s,m,r,NA,NA,h,h,quadripunctatus
+Hemiptera,Heteroptera,Miridae,adelphocoris,Adelphocoris seticornis,"(Fabricius, 1775)",7.5,1,h-(c),h,s,o,r,NA,NA,h,h,seticornis
+Hemiptera,Heteroptera,Miridae,adelphocoris,Adelphocoris ticinensis,"(Meyer-D¸r, 1843)",7.3,1,c-h,o,s,p,r,NA,NA,h,h,ticinensis
+Hemiptera,Heteroptera,Miridae,closterotomus,Closterotomus norwegicus,"(Gmelin, 1790)",7,1,h,h,s,p,r,NA,NA,h,h,norwegicus
+Hemiptera,Heteroptera,Miridae,deraeocoris,Deraeocoris annulipes,"(Herrich-Sch‰ffer, 1842)",6.8,1,c,c,s,NA,NA,NA,NA,t,t,annulipes
+Hemiptera,Heteroptera,Miridae,deraeocoris,Deraeocoris ruber,"(Linnaeus, 1758)",7.1,1,c,c,s,NA,NA,NA,NA,h-t,u,ruber
+Hemiptera,Heteroptera,Miridae,halticus,Halticus apterus,"(Linnaeus, 1758)",2.6,0.25,h,h,s,o,m-r,NA,NA,(g)-h,u,apterus
+Hemiptera,Heteroptera,Miridae,lygus,Lygus gemellatus,"(Herrich-Sch‰ffer, 1835)",5.7,1,h,h,s,m,m-p-r,NA,NA,h,h,gemellatus
+Hemiptera,Heteroptera,Miridae,lygus,Lygus pratensis,"(Linnaeus, 1758)",6.5,1,h,h,s,p,m-p-r,NA,NA,h,h,pratensis
+Hemiptera,Heteroptera,Miridae,lygus,Lygus rugulipennis,"Poppius, 1911",5.2,1,c-h,o,s,p,m-p-r,NA,NA,h,h,rugulipennis
+Hemiptera,Heteroptera,Miridae,lygus,Lygus wagneri,"Remane, 1955",6.2,1,h,h,s,p,m-p-r,NA,NA,h,h,wagneri
+Hemiptera,Heteroptera,Miridae,phytocoris,Phytocoris varipes,"Boheman, 1852",6.5,0.75,c-h,o,s,p,r,NA,NA,h,h,varipes
+Hemiptera,Heteroptera,Miridae,plagiognathus,Plagiognathus arbustorum,"(Fabricius, 1794)",4,1,c-h,o,s,p,r,NA,NA,h,h,arbustorum
+Hemiptera,Heteroptera,Miridae,plagiognathus,Plagiognathus chrysanthemi,"(Wolff, 1804)",3.6,1,h,h,s,p,r,NA,NA,h,h,chrysanthemi
+Hemiptera,Heteroptera,Miridae,plagiognathus,Plagiognathus fulvipennis,"(Kirschbaum, 1856)",4,1,h,h,s,m,r,NA,NA,h,h,fulvipennis
+Hemiptera,Heteroptera,Miridae,stenotus,Stenotus binotatus,"(Fabricius, 1794)",6.6,1,h,h,s,o,r-(m-p),NA,NA,h,h,binotatus
+Hemiptera,Heteroptera,Miridae,trigonotylus,Trigonotylus caelestialium,"(Kirkaldy, 1902)",5.9,1,h,h,s,o,r-(m-p),NA,NA,h,h,caelestialium
+Hemiptera,Heteroptera,Miridae,trigonotylus,Trigonotylus ruficornis,"(Geoffroy, 1785)",5.2,1,h,h,s,o,r-(m-p),NA,NA,h,h,ruficornis
+Hemiptera,Heteroptera,Nabidae,himacerus,Himacerus mirmicoides,"(O. Costa, 1834)",7.8,0.25,c,c,s,NA,NA,NA,NA,(g)-(h)-t,u,mirmicoides
+Hemiptera,Heteroptera,Nabidae,nabis,Nabis brevis,"Scholtz, 1847",6.2,0.75,c,c,s,NA,NA,NA,NA,g-h,u,brevis
+Hemiptera,Heteroptera,Nabidae,nabis,Nabis ferus,"(Linnaeus, 1758)",8,1,c,c,s,NA,NA,NA,NA,g-h,u,ferus
+Hemiptera,Heteroptera,Nabidae,nabis,Nabis flavomarginatus,"Scholtz, 1847",8.6,0.25,c,c,s,NA,NA,NA,NA,h,h,flavomarginatus
+Hemiptera,Heteroptera,Nabidae,nabis,Nabis limbatus,"Dahlbom, 1851",8.2,0.25,c,c,s,NA,NA,NA,NA,(g)-h,u,limbatus
+Hemiptera,Heteroptera,Nabidae,nabis,Nabis pseudoferus,"Remane, 1949",7.5,1,c,c,s,NA,NA,NA,NA,g-h,u,pseudoferus
+Hemiptera,Heteroptera,Nabidae,nabis,Nabis rugosus,"(Linnaeus, 1758)",6.9,0.75,c,c,s,NA,NA,NA,NA,g-h,u,rugosus
+Hemiptera,Heteroptera,Pentatomidae,dolycoris,Dolycoris baccarum,"(Linnaeus, 1758)",11,1,h,h,s,p,r,NA,NA,h,h,baccarum
+Hemiptera,Heteroptera,Pentatomidae,eurydema,Eurydema oleracea,"(Linnaeus, 1758)",6.5,1,h-(c),h,s,o,m-p-r,NA,NA,h,h,oleracea
+Hemiptera,Heteroptera,Pentatomidae,pentatoma,Pentatoma rufipes,"(Linnaeus, 1758)",13.5,1,c-h,o,s,o,m-p-r,NA,NA,t,t,rufipes
+Hemiptera,Heteroptera,Pentatomidae,piezodorus,Piezodorus lituratus,"(Fabricius, 1794)",11,1,h,h,s,o,r,NA,NA,h-t,u,lituratus
+Hemiptera,Heteroptera,Saldidae,saldula,Saldula opacula,"(Zetterstedt, 1838)",3.8,0.5,c,c,s,NA,NA,NA,NA,g,g,opacula
+Hemiptera,Heteroptera,Saldidae,saldula,Saldula orthochila,"(Fieber, 1859)",4,0.25,c,c,s,NA,NA,NA,NA,g,g,orthochila
+Hemiptera,Heteroptera,Saldidae,saldula,Saldula pallipes,"(Fabricius, 1794)",4.2,0.5,c,c,s,NA,NA,NA,NA,g,g,pallipes
+Hemiptera,Heteroptera,Saldidae,saldula,Saldula saltatoria,"(Linnaeus, 1758)",3.9,0.25,c,c,s,NA,NA,NA,NA,g,g,saltatoria

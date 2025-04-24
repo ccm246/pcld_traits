@@ -1,0 +1,45 @@
+specieslatin_tamburini_other,order_tamburini_other,n..studies_tamburini_other,study.area_tamburini_invasive,invasive.status_tamburini_invasive,host.breadth..n..host.families._tamburini_habitat,habitat.breadth_tamburini_habitat,host.plants.of.economic.concern_tamburini_feeding,source.of.pest.trait.information_tamburini_source,genus,species
+Acalymma vittatum,Coleoptera,1,North America,Native,1,Habitat generalist,Curcubits,"Ellers-Kirk & Fleischer 2006, Lewis et al. 1990",acalymma,vittatum
+Acyrthosiphon pisum,Hemiptera,2,Europe,Native,1,Habitat generalist,Legumes,MacKay et al. 1993,acyrthosiphon,pisum
+Aphis craccivora,Hemiptera,1,Europe,Native,10,Habitat generalist,"Brassicas, cucurbits, legumes, beetroot, cotton, cardamom","www.agroatlas.ru, www.cabi.org",aphis,craccivora
+Aphis glycines,Hemiptera,5,North America,Exotic,3,Habitat generalist,Soybeans,"Ragsdale et al. 2004, Clark et al. 2006",aphis,glycines
+Bactrocera oleae,Diptera,1,Europe,Native,7,Crop specialist,Olives,"Athar 2005, Hoelmer et al. 2011, www.cabi.org",bactrocera,oleae
+Brevicoryne brassicae,Hemiptera,1,North America,Exotic,2,Habitat generalist,Brassicas,Pal & Singh 2013,brevicoryne,brassicae
+Busseola fusca,Lepidoptera,1,Africa,Native,3,Habitat generalist,"Corn, sorghum","Birkett et al. 2006, Chamberlain et al. 2006, Kfir et al. 2002",busseola,fusca
+Copitarsia consueta,Lepidoptera,1,South America,Native,16,Crop specialist,"Brassicas, legumes, mentha",Pe√±a 2013,copitarsia,consueta
+Copitarsia turbata,Lepidoptera,1,South America,Native,16,Crop specialist,"Brassicas, legumes, mentha",Pe√±a 2013,copitarsia,turbata
+Creontiades dilutus,Hemiptera,1,Oceania,Native,14,Habitat generalist,"Cotton, legumes,other crops",McColl et al. 2011,creontiades,dilutus
+Cryptoblabes gnidiella,Lepidoptera,1,Western Asia,Native,30,Crop specialist,"Grapes, wheat, citrus fruits, apples, pomegrenades, other crops","Ioriatti et al. 2012, Rana & Singh 1995",cryptoblabes,gnidiella
+Delia radicum,Diptera,1,Europe,Native,1,Crop specialist,Brassicas,Soroka et al. 2001,delia,radicum
+Diabrotica barberi,Coleoptera,1,North America,Native,4,Crop specialist,Corn,"Krysan 1986, www.cabi.org",diabrotica,barberi
+Diabrotica virgifera,Coleoptera,1,North America,Native,4,Crop specialist,Corn,"Krysan 1986, www.cabi.org",diabrotica,virgifera
+Eupoecilia ambiguella,Lepidoptera,1,Europe,Native,21,Crop specialist,Grapes,"An 2009, Schmidt-B√ºsser et al. (2009), www. ceris.purdue.edu",eupoecilia,ambiguella
+Eurytoma amygdali,Hymenoptera,1,Western Asia,Native,1,Crop specialist,Almonds,"Zerova & Fursov 1991, www.eppo.int",eurytoma,amygdali
+Helicoverpa armigera,Lepidoptera,2,Africa,Native,40,Crop specialist,"Corn, cotton, sorghum, tobacco, tomatoes",Liu 2004,helicoverpa,armigera
+Helopeltis sulawesi,Hemiptera,1,South-eastern Asia,Native,8,Habitat generalist,Cacao,"Stonedahl 1991, Entwistle 1972",helopeltis,sulawesi
+Hypera postica,Coleoptera,1,North America,Exotic,2,Habitat generalist,Alfalfa,"Kogan et al. 1999, www.cabi.org",hypera,postica
+Hypothenemus hampei,Coleoptera,2,Central America,Exotic,13,Crop specialist,Coffee,Damon 2000,hypothenemus,hampei
+Liriomyza huidobrensis,Diptera,1,South  America,Native,20,Habitat generalist,"Pears, other vegetables",Pitkin et al. 2012,liriomyza,huidobrensis
+Liriomyza sativae,Diptera,1,Central America,Native,33,Habitat generalist,"Curcubits, legumes, nightshades",Pitkin et al. 2012,liriomyza,sativae
+Lobesia botrana,Lepidoptera,1,Europe,Native,27,Crop specialist,Grapes,Ioriatti et al. 2011,lobesia,botrana
+Lygus hesperus,Hemiptera,2,North America,Native,24,Habitat generalist,"Cotton, strawberries, alfalfa","Kelton 1975, Scott 1977, Sivakoff et al. 2013",lygus,hesperus
+Lygus lineolaris,Hemiptera,3,North America,Native,55,Habitat generalist,"Cotton, alfalfa, stone fruits, conifer seedlings, other crops",Young 1986,lygus,lineolaris
+Macrosiphum euphorbiae,Hemiptera,1,Central America,Native,20,Habitat generalist,"Potatoes, lettuge","Capinera 2011, www.cabi.org",macrosiphum,euphorbiae
+Meligethes aeneus,Coleoptera,4,Europe,Native,4,Habitat generalist,Brassicas,Free & Williams 1978,meligethes,aeneus
+Metopolophium dirhodum,Hemiptera,2,"Europe, South America",Native,5,Habitat generalist,Cereals,"Carver 1984, www.cabi.org",metopolophium,dirhodum
+Myzus cerasi,Hemiptera,2,Europe,Native,6,Habitat generalist,Cherries,"Pamphilon 1999, www.cabi.org",myzus,cerasi
+Nasonovia ribisnigri,Hemiptera,2,South and Central America,Exotic,4,Crop specialist,"Lettuce, currants, blackberries",Heie 1994,nasonovia,ribisnigri
+Ophiomyia simplex,Diptera,1,North America,Native,1,Crop specialist,Asparagus,Pitkin et al. 2012,ophiomyia,simplex
+Ostrinia nubilalis,Lepidoptera,1,North America,Exotic,9,Crop specialist,"Cereals, hops, cotton, sunflower, beans, tomatoes",Caffrey & Worthley 1927,ostrinia,nubilalis
+Oulema melanopus,Coleoptera,2,Europe,Native,1,Habitat generalist,Cereals,"Wilson & Shade 1966, www.cabi.org",oulema,melanopus
+Plutella xylostella,Lepidoptera,2,Oceania,Native,6,Crop specialist,Brassicas,"Sarfraz et al. 2006, www.cabi.org",plutella,xylostella
+Prays oleae,Lepidoptera,1,Europe,Native,1,Crop specialist,Olives,Raina 2003,prays,oleae
+Rhagoletis cerasi,Diptera,1,Europe,Native,2,Crop specialist,Cherries,Boiler 1998,rhagoletis,cerasi
+Rhopalosiphum padi,Hemiptera,2,Europe,Native,5,Habitat generalist,Cereals,"www.cabi.org, www.hafakulta.agri.huji.ac.il",rhopalosiphum,padi
+Sitobion avenae,Hemiptera,7,"Europe, South America",Native,1,Crop specialist,Cereals,"Hand 1989, Llewellyn et al. 2003",sitobion,avenae
+Stenotus rubrovittatus,Hemiptera,3,Eastern Asia,Native,2,Habitat generalist,Cereals,"Yoshioka et al. 2011, Hori & Namatame 2013",stenotus,rubrovittatus
+Tecia solanivora,Lepidoptera,1,South America,Native,1,Crop specialist,Potatoes,"Wale et al. 2008, www.eppo.int",tecia,solanivora
+Thaumatotibia leucotreta,Lepidoptera,1,Western Asia,Native,20,Habitat generalist,"Cotton, macadamia nuts, citrus fruits, other crops","Brown et al. 2014, www.eppo.int",thaumatotibia,leucotreta
+Therioaphis trifolii,Hemiptera,2,Europe,Native,1,Crop specialist,"Alfalfa, clover","Sunnucks et al. 1997, www.hafakulta.agri.huji.ac.il",therioaphis,trifolii
+Trialeurodes vaporariorum,Hemiptera,1,South America,Native,48,Habitat generalist,"Cucurbits, potatoes, tomatoes, other crops","Capinera 2008, Roditakis 1990",trialeurodes,vaporariorum
+Trigonotylus caelestialium,Heteroptera,1,Eastern Asia,Native,1,Habitat generalist,Rice,"Fujii et al. 2010, Giudici & Villa 2006",trigonotylus,caelestialium
