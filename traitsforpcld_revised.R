@@ -204,7 +204,7 @@ f <- df2 %>% select(where(~ any(!is.na(.))))
 
 #### Try Two ####
 
-setwd('~/Desktop/TEEMS_2025/LivingDatabase/Trait Work/traits/')
+setwd('~/Desktop/TEEMS_2025/LivingDatabase/Trait Work/traits/pcld_traits/')
 
 library(dplyr)
 library(readxl)
@@ -213,7 +213,7 @@ library(stringr)
 library(purrr)
 
 # Define the path to your data folder
-data_path <- "~/Desktop/TEEMS_2025/LivingDatabase/Trait Work/traits"
+data_path <- "~/Desktop/TEEMS_2025/LivingDatabase/Trait Work/traits/pcld_traits/"
 
 # Step 1: Load all spreadsheets
 files <- list.files(data_path, pattern = ".csv", full.names = TRUE)
@@ -341,6 +341,7 @@ sum(wide_data$no_trait_data)
 trait_cols <- setdiff(names(wide_data), c("genus", "species", "no_trait_data"))
 
 # Step 10: Option 1 - export files that are organized by trait type
+setwd('~/Desktop/TEEMS_2025/LivingDatabase/Trait Work/traits/pcld_traits/CleaningOutput/')
 
 # Extract unique suffixes (like "_source", "_habitat", etc.)
 suffixes <- trait_cols %>%
