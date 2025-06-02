@@ -81,128 +81,128 @@ canew <- ca[ca$genus %in% genuses,]
 # write.csv(tnew, 'newtamburini.csv')
 
 
-#### Try One ####
-
-setwd('~/Desktop/TEEMS_2025/LivingDatabase/Trait Work/traits/')
-
-
-# Load necessary libraries
-library(dplyr)
-library(readxl)
-
-# Define the path to your data folder
-data_path <- "~/Desktop/TEEMS_2025/LivingDatabase/Trait Work/traits"
-
-# Step 1: Load all spreadsheets
-files <- list.files(data_path, pattern = ".csv", full.names = TRUE)
-data_list <- lapply(files, read.csv)
-
-
-# Step 2: Standardize column names across all dataframes
-data_list <- lapply(data_list, function(df) {
-  names(df) <- tolower(gsub(" ", "_", names(df))) # Lowercase and replace spaces with underscores
-  df
-})
-
-# make sure all spreadsheets distinct
-data_list <- lapply(data_list, function(df) {
-  df <- distinct(df) 
-  df
-})
-
-# Step 3: Harmonize taxonomic levels
-data_list <- lapply(data_list, function(df) {
-  df <- df %>%
-    mutate(
-      genus = ifelse(is.na(genus) & !is.na(species), sub(" .*", "", species), genus), # Extract genus from species
-      species = ifelse(is.na(species), paste0(genus, "_sp"), species) # Fill species as genus_sp when missing
-    )
-  df
-})
-
-# Convert all columns in each data frame to categorical
-data_list <- lapply(data_list, function(df) {
-  df[] <- lapply(df, as.character)  # Convert each column to character
-  return(df)
-})
-str(data_list)
-
-# # add source info to all trait variable
+# #### Try One ####
+# 
+# setwd('~/Desktop/TEEMS_2025/LivingDatabase/Trait Work/traits/')
+# 
+# 
+# # Load necessary libraries
+# library(dplyr)
+# library(readxl)
+# 
+# # Define the path to your data folder
+# data_path <- "~/Desktop/TEEMS_2025/LivingDatabase/Trait Work/traits"
+# 
+# # Step 1: Load all spreadsheets
+# files <- list.files(data_path, pattern = ".csv", full.names = TRUE)
+# data_list <- lapply(files, read.csv)
+# 
+# 
+# # Step 2: Standardize column names across all dataframes
 # data_list <- lapply(data_list, function(df) {
-#   df %>% 
-#   rename_with(~ paste0(files[], sep='_',.), -c(genus, species))
+#   names(df) <- tolower(gsub(" ", "_", names(df))) # Lowercase and replace spaces with underscores
+#   df
 # })
+# 
+# # make sure all spreadsheets distinct
+# data_list <- lapply(data_list, function(df) {
+#   df <- distinct(df) 
+#   df
+# })
+# 
+# # Step 3: Harmonize taxonomic levels
+# data_list <- lapply(data_list, function(df) {
+#   df <- df %>%
+#     mutate(
+#       genus = ifelse(is.na(genus) & !is.na(species), sub(" .*", "", species), genus), # Extract genus from species
+#       species = ifelse(is.na(species), paste0(genus, "_sp"), species) # Fill species as genus_sp when missing
+#     )
+#   df
+# })
+# 
+# # Convert all columns in each data frame to categorical
+# data_list <- lapply(data_list, function(df) {
+#   df[] <- lapply(df, as.character)  # Convert each column to character
+#   return(df)
+# })
+# str(data_list)
+# 
+# # # add source info to all trait variable
+# # data_list <- lapply(data_list, function(df) {
+# #   df %>% 
+# #   rename_with(~ paste0(files[], sep='_',.), -c(genus, species))
+# # })
+# 
+# # Step 4: Combine data into a single dataframe
+# combined_data <- as_tibble(bind_rows(data_list, .id = "source"))
+# 
+# # Step 5: Wide-format trait unification
+# # Identify all unique traits across datasets
+# all_traits <- setdiff(names(combined_data), c("source", "genus", "species"))
+# 
+# # Reshape to ensure all traits are present in all rows
+# combined_data <- combined_data %>%
+#   dplyr::select(genus, species, all_of(all_traits)) %>%
+#   pivot_longer(cols = all_of(all_traits), names_to = "trait", values_to = "value") %>%
+#   group_by(genus, species, trait) %>%
+#   #summarise(
+#   #  value = ifelse(first(na.omit(value))),
+#   #  .groups = "drop"
+#   # ) %>%
+#   pivot_wider(names_from = trait, values_from = value)
+# 
+# # Step 6: Resolve genus-level duplicates
+# resolved_data <- combined_data %>%
+#   group_by(genus) %>%
+#   mutate(
+#     across(
+#       starts_with("trait_"), 
+#       ~ ifelse(is.na(.), mean(., na.rm = TRUE), .), 
+#       .names = "genus_{col}"
+#     )
+#   ) %>%
+#   ungroup()
+# 
+# # Step 7: Export the final combined dataset
+# df <- apply(resolved_data, 2, as.character)
+# df <- as.data.frame(df)
+# 
+# df[] <- lapply(df, function(x) {
+#   if (is.character(x)) gsub(",", "", x) else x
+# })
+# df[] <- lapply(df, function(x) {
+#   if (is.character(x)) gsub("NA ", "", x) else x
+# })
+# df[] <- lapply(df, function(x) {
+#   if (is.character(x)) gsub(")", "", x) else x
+# })
+# df[] <- lapply(df, function(x) {
+#   if (is.character(x)) gsub("c(", "", x) else x
+# })
+# 
+#  #for some reason this messes up the dataframe and so I am not automating clean up of the df
+#  # df <- lapply(df, function(x) {
+#  #   gsub("NA," , "", x)
+#  # })
+#  # df <- lapply(df, function(x) {
+#  #   gsub("," , "", x)
+#  # })
+#  # df <- apply(resolved_data, 2, as.character)
+# 
+# # write.csv(df, file="Combined_Insect_Traits_3.csv")
+# 
+# df2 <- read.csv('Combined_Insect_Traits_2_new.csv', header=T)
+# f <- df2 %>% select(where(~ any(!is.na(.))))
+# 
+# # Colleen then does some postprocessing in excel to clean up lists and some characters
+#   # removes "NA," phrases, so that if there is a value that is reported as NA many times, it only says NA once
+#     # n.b., this does not remove lists that read as "1, 5, NA", so if values are varied and NA is included it is still listed. Could be removed though
+#   # removes parentheses from values as well so that the dataset is more readable moving forward
+#   # removes quotation marks from values as well so that the dataset is more readable moving forward
+#   # removes all commas
+# 
 
-# Step 4: Combine data into a single dataframe
-combined_data <- as_tibble(bind_rows(data_list, .id = "source"))
-
-# Step 5: Wide-format trait unification
-# Identify all unique traits across datasets
-all_traits <- setdiff(names(combined_data), c("source", "genus", "species"))
-
-# Reshape to ensure all traits are present in all rows
-combined_data <- combined_data %>%
-  dplyr::select(genus, species, all_of(all_traits)) %>%
-  pivot_longer(cols = all_of(all_traits), names_to = "trait", values_to = "value") %>%
-  group_by(genus, species, trait) %>%
-  #summarise(
-  #  value = ifelse(first(na.omit(value))),
-  #  .groups = "drop"
-  # ) %>%
-  pivot_wider(names_from = trait, values_from = value)
-
-# Step 6: Resolve genus-level duplicates
-resolved_data <- combined_data %>%
-  group_by(genus) %>%
-  mutate(
-    across(
-      starts_with("trait_"), 
-      ~ ifelse(is.na(.), mean(., na.rm = TRUE), .), 
-      .names = "genus_{col}"
-    )
-  ) %>%
-  ungroup()
-
-# Step 7: Export the final combined dataset
-df <- apply(resolved_data, 2, as.character)
-df <- as.data.frame(df)
-
-df[] <- lapply(df, function(x) {
-  if (is.character(x)) gsub(",", "", x) else x
-})
-df[] <- lapply(df, function(x) {
-  if (is.character(x)) gsub("NA ", "", x) else x
-})
-df[] <- lapply(df, function(x) {
-  if (is.character(x)) gsub(")", "", x) else x
-})
-df[] <- lapply(df, function(x) {
-  if (is.character(x)) gsub("c(", "", x) else x
-})
-
- #for some reason this messes up the dataframe and so I am not automating clean up of the df
- # df <- lapply(df, function(x) {
- #   gsub("NA," , "", x)
- # })
- # df <- lapply(df, function(x) {
- #   gsub("," , "", x)
- # })
- # df <- apply(resolved_data, 2, as.character)
-
-# write.csv(df, file="Combined_Insect_Traits_3.csv")
-
-df2 <- read.csv('Combined_Insect_Traits_2_new.csv', header=T)
-f <- df2 %>% select(where(~ any(!is.na(.))))
-
-# Colleen then does some postprocessing in excel to clean up lists and some characters
-  # removes "NA," phrases, so that if there is a value that is reported as NA many times, it only says NA once
-    # n.b., this does not remove lists that read as "1, 5, NA", so if values are varied and NA is included it is still listed. Could be removed though
-  # removes parentheses from values as well so that the dataset is more readable moving forward
-  # removes quotation marks from values as well so that the dataset is more readable moving forward
-  # removes all commas
-
-
-#### Try Two ####
+#### Try Two -- Start here ####
 
 setwd('~/Desktop/TEEMS_2025/LivingDatabase/Trait Work/traits/pcld_traits/')
 
