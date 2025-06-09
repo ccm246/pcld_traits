@@ -204,7 +204,10 @@ canew <- ca[ca$genus %in% genuses,]
 
 #### Try Two -- Start here ####
 
-setwd('~/Desktop/TEEMS_2025/LivingDatabase/Trait Work/traits/pcld_traits/')
+#setwd('~/Desktop/TEEMS_2025/LivingDatabase/Trait Work/traits/pcld_traits/')
+
+rm(list = ls()) #clear
+setwd('C:/Users/laswa/OneDrive/Documents/GitHub/pcld_traits/') # Jovin's working directory from GithUb
 
 library(dplyr)
 library(readxl)
@@ -213,7 +216,8 @@ library(stringr)
 library(purrr)
 
 # Define the path to your data folder
-data_path <- "~/Desktop/TEEMS_2025/LivingDatabase/Trait Work/traits/pcld_traits/"
+#data_path <- "~/Desktop/TEEMS_2025/LivingDatabase/Trait Work/traits/pcld_traits/"
+data_path <- "C:/Users/laswa/OneDrive/Documents/GitHub/pcld_traits/" # Jovin's path
 
 # Step 1: Load all spreadsheets
 files <- list.files(data_path, pattern = ".csv", full.names = TRUE)
