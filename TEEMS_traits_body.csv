@@ -1,0 +1,2173 @@
+"genus","species","newcarabids_maxsize_carabids_body","newcarabids_minsize_carabids_body","newjeppsson_body.size..mm._jeppsson_body","newglobalants_whole.body.length..mm._globalants_body","newarthropodtraits_body_size_arthropodtraits_body","newarthropodtraits_dispersal_ability_arthropodtraits_body","newemerystickytrap_onesize_mm_emerysticky_body","newemerystickytrap_size_mm.largestifrange._emerysticky_body","newemerystickytrap_size_mm.min._emerysticky_body","newemerypitfalltrap_litforsize_emerypit_body","newemerypitfalltrap_onesize_mm_emerypit_body","newemerypitfalltrap_size_mm.largestifrange._emerypit_body","newemerypitfalltrap_size_mm.min._emerypit_body"
+"abax","carinatus","18","13",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"abax","ovalis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"abax","parallelepipedus","22","16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"abax","parallelus","18","13",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"acalymma","vittatum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"acanthocinus","aedilis",NA,NA,"16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"acanthocinus","griseus",NA,NA,"10.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"acmaeops","marginata",NA,NA,"9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"acmaeops","septentrionis",NA,NA,"8.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"acmaeops","smaragdula",NA,NA,"9.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"acropyga","exsanguis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"acrotona","aterrima",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"acrotona","obfuscata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"acrotona","parvula",NA,NA,NA,NA,"2.15","1",NA,NA,NA,NA,NA,NA,NA
+"acupalpus","brunnipes","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"acupalpus","dubius","3","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"acupalpus","elegans","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"acupalpus","exiguus","2","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"acupalpus","flavicollis","4","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"acupalpus","interstitialis","3","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"acupalpus","luteatus","3","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"acupalpus","maculatus","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"acupalpus","meridianus","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"acupalpus","parvulus","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"acyrthosiphon","pisum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"adalia","bipunctata",NA,NA,NA,NA,"4.5","1","4.5","5.5","3.5",NA,NA,NA,NA
+"adalia","decempunctata",NA,NA,NA,NA,"4.25","1",NA,NA,NA,NA,NA,NA,NA
+"adelomyrmex","laevigatus",NA,NA,NA,"2.3",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"adelomyrmex","sp.",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"adelphocoris","lineolatus",NA,NA,NA,NA,"8.4","1",NA,NA,NA,NA,NA,NA,NA
+"adelphocoris","quadripunctatus",NA,NA,NA,NA,"8.9","1",NA,NA,NA,NA,NA,NA,NA
+"adelphocoris","seticornis",NA,NA,NA,NA,"7.5","1",NA,NA,NA,NA,NA,NA,NA
+"adelphocoris","ticinensis",NA,NA,NA,NA,"7.3","1",NA,NA,NA,NA,NA,NA,NA
+"aegomorphus","clavipes",NA,NA,"12.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agapanthia","villosoviridescens",NA,NA,"16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agonum","afrum","9","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agonum","dolens","8","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agonum","duftschmidi","9","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agonum","ericeti","8","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agonum","fuliginosum","7","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agonum","gracile","7","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agonum","gracilipes","9","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agonum","hypocrita","9","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agonum","impressum","10","8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agonum","longicorne","8","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agonum","lugens","10","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agonum","marginatum","10","8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agonum","micans","7","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agonum","monachum","8","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agonum","muelleri","9","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agonum","munsteri","6","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agonum","nigrum","8","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agonum","pelidnum","7","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agonum","permoestum","9","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agonum","piceum","7","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agonum","scitulum","7","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agonum","sexpunctatum","9","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agonum","versutum","8","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agonum","viduum","9","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agonum","viridicupreum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agyneta","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agyneta","affinis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agyneta","decora",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agyneta","fuscipalpa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agyneta","mollis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agyneta","rurestris",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agyneta","saxatilis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"agyneta","simplicitarsis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"aleochara","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"aleochara","bilineata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"aleochara","bipustulata",NA,NA,NA,NA,"3.25","1",NA,NA,NA,NA,NA,NA,NA
+"aleochara","brevipennis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"aleochara","curtula",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"aleochara","laevigata",NA,NA,NA,NA,"3.75","1",NA,NA,NA,NA,NA,NA,NA
+"aleochara","lygaea",NA,NA,NA,NA,"3.5","1",NA,NA,NA,NA,NA,NA,NA
+"aleochara","ruficornis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"aleochara","sparsa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"aleochara","tristis",NA,NA,NA,NA,"5.25","1",NA,NA,NA,NA,NA,NA,NA
+"allodynerus","rossii",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"alloxysta","victrix",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"aloconota","gregaria",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"alopecosa","accentuata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"alopecosa","aculeata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"alopecosa","albofasciata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"alopecosa","cuneata",NA,NA,NA,NA,"7.25","1",NA,NA,NA,NA,NA,NA,NA
+"alopecosa","fabrilis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"alopecosa","pulverulenta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"alopecosa","simoni",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"alopecosa","trabalis",NA,NA,NA,NA,"10.63","0.75",NA,NA,NA,NA,NA,NA,NA
+"alosterna","tabacicolor",NA,NA,"8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","aenea","8","6",NA,NA,"7.5","1",NA,NA,NA,NA,NA,NA,NA
+"amara","anthobia","7","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","apricaria","9","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","arenaria","6","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","aulica","15","10",NA,NA,"12.75","1",NA,NA,NA,NA,NA,NA,NA
+"amara","bifrons","7","5",NA,NA,"6.5","1",NA,NA,NA,NA,NA,NA,NA
+"amara","brunnea","7","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","chaudoiri","10","8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","communis","7","5",NA,NA,"7","1",NA,NA,NA,NA,NA,NA,NA
+"amara","concinna","8","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","consularis","9","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","convexior","9","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","convexiuscula","13","9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","crenata","8","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","cursitans","9","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","curta","7","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","equestris","13","8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","erratica","8","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","eurynota","13","9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","famelica","9","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","familiaris","9","5",NA,NA,"6.5","1",NA,NA,NA,NA,NA,NA,NA
+"amara","fulva","10","8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","fulvipes","12","9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","fusca","9","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","gebleri","15","10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","infima","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","ingenua","11","9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","kulti","10","8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","littorea","8","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","lucida","6","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","lunicollis","9","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","majuscula","9","8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","messae","7","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","montivaga","9","7",NA,NA,"8.5","1",NA,NA,NA,NA,NA,NA,NA
+"amara","municipalis","7","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","nigricornis","8","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","nitida","9","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","ovata","10","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","plebeja","8","6",NA,NA,"7","1",NA,NA,NA,NA,NA,NA,NA
+"amara","praetermissa","8","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","proxima","8","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","pulpani","8","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","quenseli","9","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","sabulosa","6","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","schimperi","9","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","similata","10","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","spreta","9","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","strandi","8","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","strenua","10","8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","tibialis","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amara","tricuspidata","9","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amblystomus","niger",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amischa","analis",NA,NA,NA,NA,"2.1","1",NA,NA,NA,NA,NA,NA,NA
+"amischa","bifoveolata",NA,NA,NA,NA,"2","1",NA,NA,NA,NA,NA,NA,NA
+"amischa","decipiens",NA,NA,NA,NA,"2.1","1",NA,NA,NA,NA,NA,NA,NA
+"amischa","forcipata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"amischa","nigrofusca",NA,NA,NA,NA,"2","1",NA,NA,NA,NA,NA,NA,NA
+"anaesthetis","testacea",NA,NA,"7.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"anaglyptus","mysticus",NA,NA,"12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"anastrangalia","reyi",NA,NA,"12.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"anastrangalia","sanguinolenta",NA,NA,"11",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"anchomenus","cyaneus","11","8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"anchomenus","dorsalis","8","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ancistrocerus","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ancistrocerus","antilope",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ancistrocerus","claripennis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ancistrocerus","gazella",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ancistrocerus","nigricornis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ancistrocerus","oviventris",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ancistrocerus","parietinus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ancistrocerus","parietum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ancistrocerus","trifasciatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"anisodactylus","binotatus","12","9",NA,NA,"11","1",NA,NA,NA,NA,NA,NA,NA
+"anisodactylus","nemorivagus","10","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"anisodactylus","poeciloides","13","10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"anisodactylus","signatus","14","10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"anochetus","90",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"anochetus","altisquamis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"anochetus","armstrongi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"anochetus","cato",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"anochetus","diegensis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"anochetus","myops",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"anochetus","paripungens",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"anochetus","rectangularis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"anochetus","risii",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"anoplodera","sexguttata",NA,NA,"9.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"anotylus","affinis",NA,NA,NA,NA,"1.5","1",NA,NA,NA,NA,NA,NA,NA
+"anotylus","complanatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"anotylus","insecatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"anotylus","inustus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"anotylus","rugosus",NA,NA,NA,NA,"5","1",NA,NA,NA,NA,NA,NA,NA
+"anotylus","sculpturatus",NA,NA,NA,NA,"2.75","1",NA,NA,NA,NA,NA,NA,NA
+"anotylus","tetracarinatus",NA,NA,NA,NA,"1.95","1",NA,NA,NA,NA,NA,NA,NA
+"anthobium","atrocephalum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"anthobium","unicolor",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"anthonomus","rectirostris",NA,NA,NA,NA,"4.1","1",NA,NA,NA,NA,NA,NA,NA
+"anthonomus","rubi",NA,NA,NA,NA,"2.75","1",NA,NA,NA,NA,NA,NA,NA
+"antistea","elegans",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"aphididae","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"aphidius","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"aphidius","avenae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"aphidius","ervi",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"aphidius","rhopalosiphi",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"aphidius","uzbekistanicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"aphidoidea","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"aphidoletes","aphidimyza",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"aphis","craccivora",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"aphis","glycines",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"aphodius","contaminatus",NA,NA,NA,NA,"5.75","1",NA,NA,NA,NA,NA,NA,NA
+"aphodius","corvinus",NA,NA,NA,NA,"3.5","1",NA,NA,NA,NA,NA,NA,NA
+"aphodius","distinctus",NA,NA,NA,NA,"4.5","1",NA,NA,NA,NA,NA,NA,NA
+"aphodius","erraticus",NA,NA,NA,NA,"6.75","1",NA,NA,NA,NA,NA,NA,NA
+"aphodius","fimetarius",NA,NA,NA,NA,"6.5","1",NA,NA,NA,NA,NA,NA,NA
+"aphodius","granarius",NA,NA,NA,NA,"4","1",NA,NA,NA,NA,NA,NA,NA
+"aphodius","haemorrhoidalis",NA,NA,NA,NA,"4.25","1",NA,NA,NA,NA,NA,NA,NA
+"aphodius","prodromus",NA,NA,NA,NA,"5.5","1",NA,NA,NA,NA,NA,NA,NA
+"aphodius","pusillus",NA,NA,NA,NA,"3.75","1",NA,NA,NA,NA,NA,NA,NA
+"aphodius","sphacelatus",NA,NA,NA,NA,"5","1",NA,NA,NA,NA,NA,NA,NA
+"aphodius","tasmaniae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"apostenus","fuscus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"apterostigma","pilosum",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"apterostigma","sp.01",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"apterostigma","sp.1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"apterostigma","sp.2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"apterostigma","sp.3",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"araeoncus","humilis",NA,NA,NA,NA,"1.6","1",NA,NA,NA,NA,NA,NA,NA
+"araneae","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"araneae","sp.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"araneus","diadematus",NA,NA,NA,NA,"11.88","1",NA,NA,NA,NA,NA,NA,NA
+"araneus","marmoreus",NA,NA,NA,NA,"10.03","0.75",NA,NA,NA,NA,NA,NA,NA
+"araneus","quadratus",NA,NA,NA,NA,"12.25","1",NA,NA,NA,NA,NA,NA,NA
+"araneus","sturmi",NA,NA,NA,NA,"4.63","0.75",NA,NA,NA,NA,NA,NA,NA
+"araneus","triguttatus",NA,NA,NA,NA,"5.25","0.5",NA,NA,NA,NA,NA,NA,NA
+"araniella","alpica",NA,NA,NA,NA,"6","0.75",NA,NA,NA,NA,NA,NA,NA
+"araniella","cucurbitina",NA,NA,NA,NA,"5.5","1",NA,NA,NA,NA,NA,NA,NA
+"araniella","opisthographa",NA,NA,NA,NA,"4.38","0.75",NA,NA,NA,NA,NA,NA,NA
+"arctosa","leopardus",NA,NA,NA,NA,"7.63","0.75",NA,NA,NA,NA,NA,NA,NA
+"arctosa","perita",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"argenna","subnigra",NA,NA,NA,NA,"2.25","0.75",NA,NA,NA,NA,NA,NA,NA
+"arhopalus","rusticus",NA,NA,"18.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"arhopalus","tristis",NA,NA,"18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"aromia","moschata",NA,NA,"27",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"asaphes","suspensus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"asaphidion","austriacum","4","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"asaphidion","caraboides","7","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"asaphidion","curtum","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"asaphidion","flavipes","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"asaphidion","pallipes","6","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"asaphidion","stierlini","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"asemum","striatum",NA,NA,"16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"asemum","tenuicorne",NA,NA,"14.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"asthenargus","paganus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"atheta","aegra",NA,NA,NA,NA,"1.75","1",NA,NA,NA,NA,NA,NA,NA
+"atheta","aeneipennis",NA,NA,NA,NA,"3.4","1",NA,NA,NA,NA,NA,NA,NA
+"atheta","amplicollis",NA,NA,NA,NA,"0.31","1",NA,NA,NA,NA,NA,NA,NA
+"atheta","atramentaria",NA,NA,NA,NA,"3.05","1",NA,NA,NA,NA,NA,NA,NA
+"atheta","britanniae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"atheta","cauta",NA,NA,NA,NA,"2.1","1",NA,NA,NA,NA,NA,NA,NA
+"atheta","celata",NA,NA,NA,NA,"2","1",NA,NA,NA,NA,NA,NA,NA
+"atheta","crassicornis",NA,NA,NA,NA,"3.1","1",NA,NA,NA,NA,NA,NA,NA
+"atheta","elongatula",NA,NA,NA,NA,"3.25","1",NA,NA,NA,NA,NA,NA,NA
+"atheta","fungi",NA,NA,NA,NA,"2.6","1",NA,NA,NA,NA,NA,NA,NA
+"atheta","graminicola",NA,NA,NA,NA,"4.25","1",NA,NA,NA,NA,NA,NA,NA
+"atheta","harwoodi",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"atheta","inquinula",NA,NA,NA,NA,"1.15","1",NA,NA,NA,NA,NA,NA,NA
+"atheta","laticollis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"atheta","liliputana",NA,NA,NA,NA,"1.75","1",NA,NA,NA,NA,NA,NA,NA
+"atheta","longicornis",NA,NA,NA,NA,"3.25","1",NA,NA,NA,NA,NA,NA,NA
+"atheta","macrocera",NA,NA,NA,NA,"2.2","1",NA,NA,NA,NA,NA,NA,NA
+"atheta","malleus",NA,NA,NA,NA,"2.9","1",NA,NA,NA,NA,NA,NA,NA
+"atheta","nigra",NA,NA,NA,NA,"2","1",NA,NA,NA,NA,NA,NA,NA
+"atheta","oblita",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"atheta","orbata",NA,NA,NA,NA,"2.5","1",NA,NA,NA,NA,NA,NA,NA
+"atheta","palustris",NA,NA,NA,NA,"2.45","1",NA,NA,NA,NA,NA,NA,NA
+"atheta","pittionii",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"atheta","putrida",NA,NA,NA,NA,"3.2","1",NA,NA,NA,NA,NA,NA,NA
+"atheta","ravilla",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"atheta","triangulum",NA,NA,NA,NA,"3.55","1",NA,NA,NA,NA,NA,NA,NA
+"aulonia","albimana",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"auplopus","carbonarius",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"azteca","sp.02",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bactrocera","oleae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"badister","bullatus","6","4",NA,NA,"5.4","1",NA,NA,NA,NA,NA,NA,NA
+"badister","collaris","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"badister","dilatatus","5","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"badister","dorsiger","6","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"badister","lacertosus","7","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"badister","meridionalis","7","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"badister","peltatus","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"badister","sodalis","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"badister","unipustulatus","9","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"baryphyma","pratense",NA,NA,NA,NA,"2.2","0.5",NA,NA,NA,NA,NA,NA,NA
+"baryphyma","trifrons",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bathyphantes","approximatus",NA,NA,NA,NA,"2.63","0.5",NA,NA,NA,NA,NA,NA,NA
+"bathyphantes","gracilis",NA,NA,NA,NA,"1.98","1",NA,NA,NA,NA,NA,NA,NA
+"bathyphantes","parvulus",NA,NA,NA,NA,"2.15","0.75",NA,NA,NA,NA,NA,NA,NA
+"bathyphantes","similis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","aeneum","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","argenteolum","7","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","articulatum","3","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","ascendens","8","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","aspericolle","2","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","assimile","3","2",NA,NA,"2.5","0.5",NA,NA,NA,NA,NA,NA,NA
+"bembidion","atrocaeruleum","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","biguttatum","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","bipunctatum","5","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","bodenheimeri","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","bruxellense","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","clarkii","3","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","complanatum","6","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","conforme","6","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","decoratum","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","decorum","6","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","deletum","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","dentellum","6","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","doderoi","6","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","doris","3","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","elongatum","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","ephippium","3","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","eques","9","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","fasciolatum","7","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","femoratum","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","foraminosum","7","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","fulvipes","7","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","fumigatum","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","geniculatum","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","gilvipes","2","2",NA,NA,"2.75","0.75",NA,NA,NA,NA,NA,NA,NA
+"bembidion","glaciale","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","guttula","3","2",NA,NA,"3.15","0.75",NA,NA,NA,NA,NA,NA,NA
+"bembidion","humerale","3","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","illigeri","4","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","incognitum","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","inoptatum","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","inustum","6","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","iricolor","5","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","lampros","4","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","lapponicum","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","laticolle","6","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","latinum","6","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","litorale","6","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","longipes","8","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","lunatum","6","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","lunulatum","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","mannerheimii","3","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","maritimum","5","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","milleri","4","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","millerianum","6","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","minimum","3","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","modestum","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","monticola","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","neresheimeri","3","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","nigricorne","4","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","normannum","3","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","obliquum","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","obtusum",NA,NA,NA,NA,"3.2","0.5",NA,NA,NA,NA,NA,NA,NA
+"bembidion","octomaculatum","2","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","pallidipenne","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","prasinum","6","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","properans","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","pseudascendens","7","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","punctulatum","6","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","pygmaeum","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","quadrimaculatum","3","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","quadripustulatum","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","ruficolle","3","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","ruficorne","7","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","saxatile","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","scapulare","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","schueppelii","3","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","semipunctatum","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","starkii","6","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","stephensii","6","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","stomoides","6","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","striatum","7","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","terminale","6","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","testaceum","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","tetracolum","6","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","tibiale","6","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","transparens","3","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","varicolor","6","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","varium","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bembidion","velox","6","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"blemus","discus","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bolitobius","castaneus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bolitobius","cingulatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"brachiacantha","argentinica",NA,NA,NA,NA,NA,NA,"3.55","3.7","3.4",NA,NA,NA,NA
+"brachiacantha","sellata",NA,NA,NA,NA,NA,NA,"4.6","5","4.2",NA,NA,NA,NA
+"brachiacantha","trimaculata",NA,NA,NA,NA,NA,NA,"2.1","2.6","1.6",NA,NA,NA,NA
+"brachinus","bipustulatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"brachinus","crepitans","10","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"brachinus","explodens","7","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"brachinus","ganglbaueri",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"brachinus","psophia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"brachinus","sclopeta","7","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"brachymyrmex","coactus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"brachymyrmex","depilis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"brachymyrmex","sp. 07",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"brachymyrmex","sp.01",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"brachymyrmex","sp.02",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"brachymyrmex","sp.03",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"brachymyrmex","sp.05",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"brachymyrmex","sp.1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"brachymyrmex","sp.10",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"brachymyrmex","sp.2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"brachymyrmex","sp.3",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"brachymyrmex","sp.4",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"brachyta","interrogationis",NA,NA,"14",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bradycellus","caucasicus","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bradycellus","csikii","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bradycellus","distinctus","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bradycellus","harpalinus","5","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bradycellus","ruficollis","3","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bradycellus","sharpi","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"bradycellus","verbasci","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"brevicoryne","brassicae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"broscus","cephalotes","25","17",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"busseola","fusca",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cacoxenus","indagator",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"calathus","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"calathus","ambiguus","12","8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"calathus","cinctus","6","9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"calathus","erratus","12","8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"calathus","fuscipes","14","10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"calathus","luctuosus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"calathus","melanocephalus","9","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"calathus","micropterus","9","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"calathus","mollis","9","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"calathus","rotundicollis","11","8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"callicerus","obscurus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"callicerus","rigidicornis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"callidium","aeneum",NA,NA,"12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"callidium","coriaceum",NA,NA,"11",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"callidium","violaceum",NA,NA,"12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"callistus","lunatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"calosoma","argentense",NA,NA,NA,NA,NA,NA,NA,NA,NA,"http://www.calosomas.com/Castrida/cal_argentinense.html","22","27","17"
+"calosoma","auropunctatum","30","18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"calosoma","inquisitor","28","15",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"calosoma","investigator","23","16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"calosoma","reticulatum","27","20",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"calosoma","retusum",NA,NA,NA,NA,NA,NA,NA,NA,NA,"http://www.calosomas.com/Castrida/cal_retusum.html","27.5","30","25"
+"calosoma","sycophanta","35","21",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","114",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","127",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","133",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","142",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","143",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","18",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","182",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","19",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","208",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","214",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","220",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","25",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","3",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","31",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","39",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","51",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","66",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","78",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","8",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","89",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","aff. aruensis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","aff. pictostriatus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","aff. polynesicus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","americanus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","amperei",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","anezkae",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","armstrongi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","aruensis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","atriceps",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","blandus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","bonariensis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","castaneus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","cf. chloroticus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","cf. conithorax",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","cf. macrocephalus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","cf. variegatus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","cf._compressus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","cingulatus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","clarior",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","claripes gp. sp. SS 1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","claripes gp. sp. SS 2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","claripes gp. sp. SS 2 & discors gp. sp. SS 2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","claripes gp. sp. SS 3",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","crozieri",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","discors gp. sp. SS 1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","dorycus confusus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","ephippium",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","essigi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","evae gp. sp. SS 1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","floridanus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","foreli",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","friedae",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","gasseri",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","gigas",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","gouldianus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","havilandi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","herculeanus",NA,NA,NA,"16.83",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","irredux",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","itoi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","laevigatus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","lateralis",NA,NA,NA,"4.89353",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","leae",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","leydigi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","ligniperdus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","melanoticus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","minimus gp. sp. SS 1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","near aurocinctus sp. SS 1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","near capito sp. SS 1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","near capito sp. SS 1  near capito sp. SS 2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","nigriceps",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","novogranadensis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","pennsylvannicus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","pilicornis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","prosseri",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","pseudoirritans",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","quadriceps",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","rotundus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","rubidus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","rubiginosis gp. sp. SS 1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","rubiginosis gp. sp. SS 2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","rufipes",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","sanguinifrons",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","senex",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","similimus",NA,NA,NA,"10",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","socius",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","sp. 20 aff. janeti",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","sp. 21 aff. janeti",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","sp. 42",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","sp. 5 aff. poecilus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","sp. prox. Cingulatus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","sp.09",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","sp.1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","sp.10",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","sp.14",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","sp.2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","sp.29",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","sp.3",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","sp.35",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","sp.8",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","sp._16_rubiginosus_gp.",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","sp._24_claripes_gp.",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","sp._4_pellax_gp.",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","sp._8_discors_gp.",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","sp._9_novaehollandiae_gp.",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","trajanus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","triangulatus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","truncatus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","un01",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","un10",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","vicinus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","vitreus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"camponotus","wanangus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carabus","arcensis","23","16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carabus","auratus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carabus","auronitens","35","16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carabus","cancellatus","33","19",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carabus","clatratus","36","22",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carabus","convexus","20","14",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carabus","coriaceus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carabus","glabratus","34","26",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carabus","granulatus","30","13",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carabus","hortensis","30","22",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carabus","hungaricus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carabus","intricatus","38","24",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carabus","irregularis","30","19",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carabus","linnei","21","16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carabus","menetriesi","24","18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carabus","monilis","26","22",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carabus","nemoralis","28","18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carabus","nitens","18","13",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carabus","problematicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carabus","scabriusculus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carabus","scheidleri","35","25",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carabus","sylvestris","29","19",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carabus","ulrichii","33","16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carabus","variolosus","33","20",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carabus","violaceus","38","22",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cardiocondyla","193",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cardiocondyla","86",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cardiocondyla","95",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cardiocondyla","emeryi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cardiocondyla","microseta",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cardiocondyla","obscurior",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cardiocondyla","sp._1_nuda_complex",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cardiocondyla","wroughtonii",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carebara","1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carebara","50",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carebara","52",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carebara","anophtalma",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carebara","atoma",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carebara","crassiuscula",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carebara","jiangxiensis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carebara","melasolena",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carebara","panamensis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carebara","reina",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carebara","sp.",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carebara","sp.1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carebara","urichi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carpelimus","bilineatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carpelimus","corticinus",NA,NA,NA,NA,"1.5","1",NA,NA,NA,NA,NA,NA,NA
+"carpelimus","elongatulus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carpelimus","gracilis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"carpelimus","impressus",NA,NA,NA,NA,"2.45","1",NA,NA,NA,NA,NA,NA,NA
+"carpelimus","rivularis",NA,NA,NA,NA,"2.6","1",NA,NA,NA,NA,NA,NA,NA
+"centromerita","bicolor",NA,NA,NA,NA,"3.25","1",NA,NA,NA,NA,NA,NA,NA
+"centromerus","brevipalpus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"centromerus","leruthi",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"centromerus","sylvaticus",NA,NA,NA,NA,"3.43","1",NA,NA,NA,NA,NA,NA,NA
+"cephalotes","atratus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cephalotes","betoi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cephalotes","minutus",NA,NA,NA,"3.3",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cephalotes","pallidoides",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cephalotes","persimilis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cephalotes","pusillus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cephalotes","simillimus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cephus","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cerambyx","cerdo",NA,NA,"46.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cerambyx","scopolii",NA,NA,"22.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cerapachys","0",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cerapachys","151",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cerapachys","168",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cerapachys","215",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cerapachys","3",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cerapachys","9",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cerapachys","brevis gp. sp. SS 1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cerapachys","cf. flavaclavatus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cerapachys","clarki gp. sp. SS 1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cerapachys","desposyne",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cerapachys","fervidus gp. sp. SS 1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cerapachys","fervidus gp. sp. SS 2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cerapachys","fervidus gp. sp. SS 3",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cerapachys","fervidus gp. sp. SS 4",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cerapachys","sp._11_turneri_gp.",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cerapachys","sp._4_singularis_gp.",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cerapachys","splendens",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cerapachys","sulcinodis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cerapachys","toltecus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cerapachys","un01",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cerapachys","varians gp. sp. SS 1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cerapachys","varians gp. sp. SS 2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ceratinella","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ceratinella","brevipes",NA,NA,NA,NA,"1.45","0.5",NA,NA,NA,NA,NA,NA,NA
+"ceratinella","brevis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ceratinella","major",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ceratinella","scabrosa",NA,NA,NA,NA,"1.88","0.5",NA,NA,NA,NA,NA,NA,NA
+"cerceris","quinquefasciata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cerceris","rybyensis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"chaenotetrastichus","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"chaenotetrastichus","grangeri",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"chaenotetrastichus","semiflavus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"chaetocnema","aridula",NA,NA,NA,NA,"2","1",NA,NA,NA,NA,NA,NA,NA
+"chaetocnema","concinna",NA,NA,NA,NA,"2.1","1",NA,NA,NA,NA,NA,NA,NA
+"chaetocnema","hortensis",NA,NA,NA,NA,"1.9","1",NA,NA,NA,NA,NA,NA,NA
+"chaetocnema","laevicollis",NA,NA,NA,NA,"2","1",NA,NA,NA,NA,NA,NA,NA
+"chaetocnema","mannerheimi",NA,NA,NA,NA,"2.5","1",NA,NA,NA,NA,NA,NA,NA
+"chaetocnema","subcoerulea",NA,NA,NA,NA,"2","1",NA,NA,NA,NA,NA,NA,NA
+"chalcosyrphus","nemorum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"chlaenius","costulatus","12","10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"chlaenius","decipiens","13","10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"chlaenius","festivus","17","13",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"chlaenius","nigricornis","13","9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"chlaenius","nitidulus","20","10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"chlaenius","olivieri","12","10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"chlaenius","tibialis","12","10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"chlaenius","tristis","13","10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"chlaenius","vestitus","11","8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"chlorophorus","herbstii",NA,NA,"11.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"chrysis","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"chrysis","angustula",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"chrysis","cyanea",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"chrysis","ignita",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"chrysis","indigotea",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"chrysocharis","pentheus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"chrysopa","",NA,NA,NA,NA,NA,NA,"15",NA,NA,NA,NA,NA,NA
+"chrysoperla","",NA,NA,NA,NA,NA,NA,"16","20","12",NA,NA,NA,NA
+"chrysoperla","carnea",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"chrysoperla","lucasina",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"chrysopidae","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cicindela","campestris","14","10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cicindela","gallica","15","12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cicindela","germanica",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cicindela","hybrida","13","10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cicindela","maritima","16","11",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cicindela","sylvatica","18","14",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cicindela","sylvicola","18","14",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cicindela","transversalis","16","12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cicurina","cicur",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"clivina","collaris","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"clivina","fossor",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"closterotomus","biclacatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"closterotomus","norwegicus",NA,NA,NA,NA,"7","1",NA,NA,NA,NA,NA,NA,NA
+"clubiona","brevipes",NA,NA,NA,NA,"5.5","0.5",NA,NA,NA,NA,NA,NA,NA
+"clubiona","comta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"clubiona","diniensis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"clubiona","diversa",NA,NA,NA,NA,"4","0.5",NA,NA,NA,NA,NA,NA,NA
+"clubiona","leucaspis",NA,NA,NA,NA,"4.05","0.5",NA,NA,NA,NA,NA,NA,NA
+"clubiona","lutescens",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"clubiona","neglecta",NA,NA,NA,NA,"6.25","0.75",NA,NA,NA,NA,NA,NA,NA
+"clubiona","pallidula",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"clubiona","phragmitis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"clubiona","pseudoneglecta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"clubiona","reclusa",NA,NA,NA,NA,"5.75","0.75",NA,NA,NA,NA,NA,NA,NA
+"clubiona","stagnatilis",NA,NA,NA,NA,"6.25","0.5",NA,NA,NA,NA,NA,NA,NA
+"clubiona","subtilis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"clytus","arietis",NA,NA,"10.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"coccinella","magnifica",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"coccinella","quinquepunctata",NA,NA,NA,NA,"4","1",NA,NA,NA,NA,NA,NA,NA
+"coccinella","septempunctata",NA,NA,NA,NA,"6.6","1",NA,NA,NA,NA,NA,NA,NA
+"coccinella","undecimpunctata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"coccinellidae","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"coccinula","quatuordecimpustulata",NA,NA,NA,NA,"3.5","1",NA,NA,NA,NA,NA,NA,NA
+"coelotes","terrestris",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"coleomegilla","quadrifasciata.octodecimpustulata",NA,NA,NA,NA,NA,NA,"5.95","6.4","5.5",NA,NA,NA,NA
+"collinsia","inerrans",NA,NA,NA,NA,"2.25","1",NA,NA,NA,NA,NA,NA,NA
+"copitarsia","consueta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"copitarsia","turbata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"corticaria","abietorum",NA,NA,NA,NA,"2","1",NA,NA,NA,NA,NA,NA,NA
+"corticaria","obscura",NA,NA,NA,NA,"1.7","1",NA,NA,NA,NA,NA,NA,NA
+"corticaria","serrata",NA,NA,NA,NA,"2","1",NA,NA,NA,NA,NA,NA,NA
+"corticaria","umbilicata",NA,NA,NA,NA,"1.9","1",NA,NA,NA,NA,NA,NA,NA
+"cortodera","femorata",NA,NA,"9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","120",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","138",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","165",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","180",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","181",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","22",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","33",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","4",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","40",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","6",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","71",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","85",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","91",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","antcnp_sp11",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","auberti",NA,NA,NA,"4.61915",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","brasiliensis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","cf. flavicornis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","cf. major",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","cf. pythia",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","cf._biroi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","cf._rogenhoferi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","cf._subnuda",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","coarctata",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","distans",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","elysii",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","emeryi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","flavitarsis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","frivola",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","laeviceps gp. sp. SS 1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","laeviceps gp. sp. SS 1 & sp. SS 2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","limata",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","lineolata",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","modiglianii",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","natalensis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","obnigra",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","paradoxa",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","polita",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","queenslandica",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","queenslandica gp. sp. SS 1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","sordidula",NA,NA,NA,"3.29067",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","sp. 11 aff. fritzi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","sp. 15 aff. flavicornis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","sp. 6",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","sp. 7 aff. fritzi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","sp.06",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","sp.08",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","sp.11",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","sp.3GroupA",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","sp.5",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","sp._2_australis_complex",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","sp._4_Group_A",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","sp.prox. Obscurata",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","sumichrasti",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","tarsata",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","un02",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","un03",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"crematogaster","un04",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"creonitades","dilutus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"creontiades","dilutus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cryptoblabes","gnidiella",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cychrus","attenuatus","20","11",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cychrus","caraboides","20","14",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cycloneda","ancoralis",NA,NA,NA,NA,NA,NA,"3.6","4","3.2",NA,NA,NA,NA
+"cycloneda","emarginada",NA,NA,NA,NA,NA,NA,"4.3","5","3.6",NA,NA,NA,NA
+"cycloneda","limbicollis",NA,NA,NA,NA,NA,NA,"3.5","3.8","3.2",NA,NA,NA,NA
+"cycloneda","sanguinea",NA,NA,NA,NA,NA,NA,"4.85","6.5","3.2",NA,NA,NA,NA
+"cynipoidea","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cyphomyrmex","costatus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cyphomyrmex","lectus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cyphomyrmex","minutus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cyphomyrmex","olitor",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cyphomyrmex","plaumanni",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cyphomyrmex","rimosus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cyphomyrmex","sp. 24",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cyphomyrmex","sp.1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cyphomyrmex","sp.2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cyphomyrmex","sp.20",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cyphomyrmex","sp.3",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cyphomyrmex","strigatus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cyphomyrmex","strigatus sp.1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cyphomyrmex","transversus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"delia","radicum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"demetrias","atricapillus","6","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"demetrias","imperialis","6","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"demetrias","monostigma","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dendrocerus","carpenteri",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"deraeocoris","annulipes",NA,NA,NA,NA,"6.8","1",NA,NA,NA,NA,NA,NA,NA
+"deraeocoris","flavilinea",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"deraeocoris","ruber",NA,NA,NA,NA,"7.1","1",NA,NA,NA,NA,NA,NA,NA
+"deraeocoris","trifasciatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"diabrotica","barberi",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"diabrotica","speciosa",NA,NA,NA,NA,NA,NA,NA,NA,NA,"http://idtools.org/id/beetles/diabrotica/factsheet.php?name=6821","5.15","5.4","4.7"
+"diabrotica","virgifera",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"diachromus","germanus","10","7",NA,NA,"9","1",NA,NA,NA,NA,NA,NA,NA
+"diaea","dorsata",NA,NA,NA,NA,"4.83","1",NA,NA,NA,NA,NA,NA,NA
+"dibrachys","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dibrachys","cavus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dibrachys","lignicola",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dibrachys","microgastri",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dicymbium","nigrum",NA,NA,NA,NA,"2.25","1",NA,NA,NA,NA,NA,NA,NA
+"dicymbium","tibiale",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"diglyphus","isaea",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dinaraea","angustula",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dinoptera","collaris",NA,NA,"7.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"diomus","agapitus",NA,NA,NA,NA,NA,NA,"1.75","2.1","1.4",NA,NA,NA,NA
+"diomus","argentenicus",NA,NA,NA,NA,NA,NA,"1.65","1.7","1.6",NA,NA,NA,NA
+"diomus","faustinus",NA,NA,NA,NA,NA,NA,"1.55","1.7","1.4",NA,NA,NA,NA
+"diomus","jane",NA,NA,NA,NA,NA,NA,"1.9","2","1.8",NA,NA,NA,NA
+"diomus","petronilla",NA,NA,NA,NA,NA,NA,"1.4","1.5","1.3",NA,NA,NA,NA
+"diomus","pusillus",NA,NA,NA,NA,NA,NA,"1.6","1.7","1.5",NA,NA,NA,NA
+"diomus","seminulus",NA,NA,NA,NA,NA,NA,"1.85","2.2","1.5",NA,NA,NA,NA
+"diomus","sp11",NA,NA,NA,NA,NA,NA,"2.6",NA,NA,NA,NA,NA,NA
+"diomus","sp43",NA,NA,NA,NA,NA,NA,"1.9","2","1.8",NA,NA,NA,NA
+"diomus","tenuis",NA,NA,NA,NA,NA,NA,"1.7","1.9","1.5",NA,NA,NA,NA
+"diomus","tucumanus",NA,NA,NA,NA,NA,NA,"1.55","1.8","1.3",NA,NA,NA,NA
+"diplocephalus","cristatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"diplocephalus","graecus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"diplocephalus","latifrons",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"diplocephalus","marijae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"diplocephalus","picinus",NA,NA,NA,NA,"1.83","0.75",NA,NA,NA,NA,NA,NA,NA
+"diplostyla","concolor",NA,NA,NA,NA,"2.75","1",NA,NA,NA,NA,NA,NA,NA
+"dipogon","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dipogon","subintermedius",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dipogon","variegatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"discoelius","zonalis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"discothyrea","149",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"discothyrea","denticulata",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"discothyrea","humilis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"discothyrea","neotropica",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"discothyrea","sauteri",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"discothyrea","sexarticulata",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dismodicus","bifrons",NA,NA,NA,NA,"2.11","0.75",NA,NA,NA,NA,NA,NA,NA
+"dismodicus","elevatus",NA,NA,NA,NA,"2.48","0.75",NA,NA,NA,NA,NA,NA,NA
+"dolichus","halensis","20","13",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dolycoris","baccarum",NA,NA,NA,NA,"11","1",NA,NA,NA,NA,NA,NA,NA
+"drassyllus","lutetianus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"drassyllus","praeficus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"drassyllus","pusillus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"drassyllus","villicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"drepanotylus","uncatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dromius","agilis","7","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dromius","angustus","6","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dromius","fenestratus","6","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dromius","meridionalis","7","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dromius","quadraticollis","6","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dromius","quadrimaculatus","6","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dromius","schneideri","6","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"drusilla","canaliculata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"drypta","dentata","9","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dyschiriodes","tristis",NA,NA,NA,NA,"3.6","1",NA,NA,NA,NA,NA,NA,NA
+"dyschirius","aeneus",NA,NA,NA,NA,"2.5","1",NA,NA,NA,NA,NA,NA,NA
+"dyschirius","agnatus","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dyschirius","angustatus","3","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dyschirius","arenosus","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dyschirius","bonellii","3","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dyschirius","chalceus","6","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dyschirius","digitatus","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dyschirius","extensus","5","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dyschirius","globosus","3","2",NA,NA,"2.4","0.75",NA,NA,NA,NA,NA,NA,NA
+"dyschirius","gracilis","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dyschirius","impunctipennis","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dyschirius","intermedius","3","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dyschirius","laeviusculus","3","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dyschirius","neresheimeri","5","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dyschirius","nitidus","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dyschirius","obscurus","5","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dyschirius","rufipes","3","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dyschirius","semistriatus","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dyschirius","tristis","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dysdera","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"dysdera","erythrina",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ectatomma","edentatum",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ectatomma","muticum",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ectatomma","permagnum",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ectatomma","ruidum",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ectatomma","tuberculatum",NA,NA,NA,"11",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"elaphrus","aureus","7","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"elaphrus","cupreus","9","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"elaphrus","riparius","8","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"elaphrus","uliginosus","10","8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"elaphrus","ullrichii","8","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"empoasca","affinis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"empoasca","decipiens",NA,NA,NA,NA,"3.6","1",NA,NA,NA,NA,NA,NA,NA
+"empoasca","pteridis",NA,NA,NA,NA,"3.3","1",NA,NA,NA,NA,NA,NA,NA
+"empoasca","vitis",NA,NA,NA,NA,"3.45","1",NA,NA,NA,NA,NA,NA,NA
+"encyrtidae","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"enoplognatha","diversa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"enoplognatha","latimana",NA,NA,NA,NA,"4.5","0.5",NA,NA,NA,NA,NA,NA,NA
+"enoplognatha","ovata",NA,NA,NA,NA,"5.3","1",NA,NA,NA,NA,NA,NA,NA
+"enoplognatha","thoracica",NA,NA,NA,NA,"4","0.75",NA,NA,NA,NA,NA,NA,NA
+"episyrphus","balteatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ergates","faber",NA,NA,"45",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"erigone","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"erigone","atra",NA,NA,NA,NA,"2.25","1",NA,NA,NA,NA,NA,NA,NA
+"erigone","dentipalpis",NA,NA,NA,NA,"2.33","1",NA,NA,NA,NA,NA,NA,NA
+"erigone","longipalpis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"erigonella","hiemalis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eriopis","conexa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eriopis","connexa",NA,NA,NA,NA,NA,NA,"4.95","5.6","4.3",NA,NA,NA,NA
+"eristalis","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eristalis","abusiva",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eristalis","arbustorum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eristalis","horticola",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eristalis","interrupta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eristalis","intricaria",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eristalis","intricarius",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eristalis","jugorum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eristalis","lineata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eristalis","pertinax",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eristalis","picea",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eristalis","pratorum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eristalis","rupium",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eristalis","similis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eristalis","tenax",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eumeninae","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"euodynerus","notatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"euodynerus","quadrifasciatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eupeodes","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eupeodes","bucculatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eupeodes","corollae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eupeodes","lapponicus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eupeodes","latifasciatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eupeodes","lundbecki",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eupeodes","luniger",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eupeodes","nielseni",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eupeodes","nitens",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eupoecilia","ambiguella",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eurydema","oleracea",NA,NA,NA,NA,"6.5","1",NA,NA,NA,NA,NA,NA,NA
+"euryopis","episinoides",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"euryopis","flavomaculata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"euryopis","quinqueguttata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eurytoma","amygdali",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"eurytoma","nodularis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"evodinus","borealis",NA,NA,"9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"exocentrus","adspersus",NA,NA,"6.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"exocentrus","lusitanus",NA,NA,"4.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"falagria","sulcata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"forficula","auricularia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"formicidae","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gasteruption","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gasteruption","assectator",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gaurotes","virginea",NA,NA,"10.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"geocoris","",NA,NA,NA,NA,NA,NA,"3.5","4","3",NA,NA,NA,NA
+"gnamptogenys","122",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gnamptogenys","124",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gnamptogenys","7",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gnamptogenys","74",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gnamptogenys","8",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gnamptogenys","acuminata",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gnamptogenys","continua",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gnamptogenys","curvoclypeata",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gnamptogenys","hartmani",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gnamptogenys","horni",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gnamptogenys","interrupta",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gnamptogenys","menadensis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gnamptogenys","minuta",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gnamptogenys","nana",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gnamptogenys","pr.reichenspergeri sp.1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gnamptogenys","pr.striatula sp.1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gnamptogenys","pr.striatula sp.2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gnamptogenys","quadrutinodules",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gnamptogenys","rastrata",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gnamptogenys","reichenspergeri",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gnamptogenys","sp.4",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gnamptogenys","striatula",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gnamptogenys","tornata",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gnamptogenys","triangularis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gnathacmaeops","pratensis",NA,NA,"8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gongylidiellum","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gongylidiellum","latebricola",NA,NA,NA,NA,"1.5","0.75",NA,NA,NA,NA,NA,NA,NA
+"gongylidiellum","murcidum",NA,NA,NA,NA,"1.8","0.5",NA,NA,NA,NA,NA,NA,NA
+"gongylidiellum","vivum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"grammoptera","ruficornis",NA,NA,"5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"grammoptera","ustulata",NA,NA,"7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gynandromorphus","etruscus","11","10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gyrohypnus","angustatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gyrohypnus","liebei",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"gyrohypnus","punctulatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hahnia","nava",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hahnia","pusilla",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"halticus","apterus",NA,NA,NA,NA,"2.6","0.25",NA,NA,NA,NA,NA,NA,NA
+"halticus","luteicollis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"haplodrassus","dalmatensis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"haplodrassus","invalidus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"haplodrassus","minor",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"haplodrassus","severus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"haplodrassus","signifer",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"haplodrassus","umbratilis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harmonia","axyridis",NA,NA,NA,NA,"7","1","7","8","6",NA,NA,NA,NA
+"harpactea","fageli",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpactea","lepida",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","affinis","12","8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","albanicus","9","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","anxius","8","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","atratus","14","9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","attenuatus","10","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","autumnalis","10","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","calceatus","15","10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","caspius","13","11",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","cephalotes","15","12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","cupreus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","dimidiatus","14","11",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","distinguendus","11","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","flavescens","13","11",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","flavicornis","9","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","froelichii","10","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","fuscicornis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","fuscipalpis","11","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","griseus","11","9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","hirtipes","15","12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","honestus","10","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","hospes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","laevipes","12","9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","latus","11","8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","luteicornis","7","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","marginellus","11","9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","melancholicus","11","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","modestus","7","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","neglectus","9","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","picipennis","7","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","politus","11","8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","progrediens","8","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","pumilus","6","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","pygmaeus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","rubripes","12","8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","rufipalpis","11","8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","rufipes","16","11",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","serripes","12","9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","servus","9","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","signaticornis","7","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","smaragdinus","11","8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","solitaris","10","8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","subcylindricus","8","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","sulphuripes","8","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","tardus","11","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","tenebrosus","11","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"harpalus","zabroides","15","13",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"helicoverpa","armigera",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"helopeltis","sulawesi",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"himacerus","apterus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"himacerus","major",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"himacerus","mirmicoides",NA,NA,NA,NA,"7.8","0.25",NA,NA,NA,NA,NA,NA,NA
+"hippodamia","convergens",NA,NA,NA,NA,NA,NA,"5.75","7.3","4.2",NA,NA,NA,NA
+"hippodamia","notata",NA,NA,NA,NA,"5","1",NA,NA,NA,NA,NA,NA,NA
+"hippodamia","tredecimpunctata",NA,NA,NA,NA,"5.75","1",NA,NA,NA,NA,NA,NA,NA
+"hippodamia","variegata",NA,NA,NA,NA,"4.25","1","4.8","5.4","4.2",NA,NA,NA,NA
+"histopona","torpida",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hylotrupes","bajulus",NA,NA,"14",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypera","arator",NA,NA,NA,NA,"5.25","1",NA,NA,NA,NA,NA,NA,NA
+"hypera","meles",NA,NA,NA,NA,"4.1","1",NA,NA,NA,NA,NA,NA,NA
+"hypera","nigrirostris",NA,NA,NA,NA,"3.4","1",NA,NA,NA,NA,NA,NA,NA
+"hypera","plantaginis",NA,NA,NA,NA,"4.4","1",NA,NA,NA,NA,NA,NA,NA
+"hypera","postica",NA,NA,NA,NA,"4.65","1",NA,NA,NA,NA,NA,NA,NA
+"hypera","rumicis",NA,NA,NA,NA,"5","1",NA,NA,NA,NA,NA,NA,NA
+"hypera","suspiciosa",NA,NA,NA,NA,"5.2","1",NA,NA,NA,NA,NA,NA,NA
+"hypera","zoilus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hyperaspis","conclusa",NA,NA,NA,NA,NA,NA,"2.05","2.2","1.9",NA,NA,NA,NA
+"hyperaspis","elegantissima",NA,NA,NA,NA,NA,NA,"2.05","2.2","1.9",NA,NA,NA,NA
+"hyperaspis","festiva",NA,NA,NA,NA,NA,NA,"2.25","2.5","2",NA,NA,NA,NA
+"hyperaspis","gordoni",NA,NA,NA,NA,NA,NA,"2.1","2.4","1.8",NA,NA,NA,NA
+"hyperaspis","longula",NA,NA,NA,NA,NA,NA,"2.8","3","2.6",NA,NA,NA,NA
+"hyperaspis","matronata",NA,NA,NA,NA,NA,NA,"2.7","3","2.4",NA,NA,NA,NA
+"hyperaspis","sp13",NA,NA,NA,NA,NA,NA,"1.9","2","1.8",NA,NA,NA,NA
+"hyperaspis","sp19",NA,NA,NA,NA,NA,NA,"2.45","2.6","2.3",NA,NA,NA,NA
+"hypoponera","1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","113",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","39",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","80",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","JTL013",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","antcnp_sp2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","cf. confinis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","eduardi",NA,NA,NA,"3.431",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","inexorata",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","opacior",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","parva",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","sabrone",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","sp. 04",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","sp.02",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","sp.03",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","sp.10",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","sp.11",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","sp.12",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","sp.13",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","sp.14",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","sp.15",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","sp.16",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","sp.17",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","sp.18",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","sp.19",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","sp.2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","sp.20",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","sp.21",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","sp.22",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","sp.23",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","sp.24",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","sp.3",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","sp.5",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","sp.6",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","sp.7",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","sp.8",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypoponera","sp.9",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"hypothenemus","hampei",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ichneumonidae","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ilyobates","propinquus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ilyobates","subopacus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"jacksonella","falconeri",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"judolia","sexmaculata",NA,NA,"11",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"labidus","coecus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"labidus","praedator",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"lachnomyrmex","plaumanni",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"laemostenus","terricola","16","12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"lamia","textor",NA,NA,"23.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"larinioides","cornutus",NA,NA,NA,NA,"10.35","0.75",NA,NA,NA,NA,NA,NA,NA
+"larinioides","suspicax",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"lathrobium","brunnipes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"lathrobium","fulvipenne",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"lathrobium","longulum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"lathrobium","multipunctum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"lathrobium","pallidipenne",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"lathrobium","pallidum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"lathrobium","quadratum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"lathrobium","volgense",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leioderes","kollari",NA,NA,"12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leiopus","nebulosus",NA,NA,"8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leiopus","punctulatus",NA,NA,"7.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leistus","ferrugineus","8","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leistus","fulvibarbis","9","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leistus","montanus","8","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leistus","nitidus","9","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leistus","piceus","9","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leistus","rufomarginatus","9","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leistus","spinibarbis","10","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leistus","terminatus","8","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"lepidoptera","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"lepthyphantes","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leptinotarsa","decemlineata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leptogenys","120",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leptogenys","139",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leptogenys","140",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leptogenys","143",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leptogenys","146",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leptogenys","15",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leptogenys","160",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leptogenys","67",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leptogenys","68",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leptogenys","77",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leptogenys","diminuta",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leptogenys","exigua",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leptogenys","intermedia",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leptogenys","kitteli",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leptogenys","rufida",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leptogenys","sp._nr._conigera",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"leptura","quadrifasciata",NA,NA,"15.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"lepturalia","nigripes",NA,NA,"15.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"lepturobosca","virens",NA,NA,"18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"licinus","cassideus","18","11",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"licinus","depressus","11","9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"licinus","hoffmannseggii","15","9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"licinus","oblongus","12","9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"liocranoeca","striata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"lionychus","quadrillum","4","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"liriomyza","huidobrensis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"liriomyza","sativae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"lobesia","botrana",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"loricera","pilicornis","8","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"lygus","gemellatus",NA,NA,NA,NA,"5.7","1",NA,NA,NA,NA,NA,NA,NA
+"lygus","hesperus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"lygus","lineolaris",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"lygus","pratensis",NA,NA,NA,NA,"6.5","1",NA,NA,NA,NA,NA,NA,NA
+"lygus","rugulipennis",NA,NA,NA,NA,"5.2","1",NA,NA,NA,NA,NA,NA,NA
+"lygus","wagneri",NA,NA,NA,NA,"6.2","1",NA,NA,NA,NA,NA,NA,NA
+"macrocentrus","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"macrosiphum","euphorbiae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mangora","acalypha",NA,NA,NA,NA,"4.5","1",NA,NA,NA,NA,NA,NA,NA
+"medon","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"megatoma","undata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"meioneta","affinis",NA,NA,NA,NA,"1.75","1",NA,NA,NA,NA,NA,NA,NA
+"meioneta","rurestris",NA,NA,NA,NA,"6.23","1",NA,NA,NA,NA,NA,NA,NA
+"meioneta","saxatilis",NA,NA,NA,NA,"2.15","1",NA,NA,NA,NA,NA,NA,NA
+"melanostoma","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"melanostoma","mellinum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"melanostoma","scalare",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"meligethes","aeneus",NA,NA,NA,NA,"2.1","1",NA,NA,NA,NA,NA,NA,NA
+"meligethes","brachialis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"meligethes","carinulatus",NA,NA,NA,NA,"1.8","1",NA,NA,NA,NA,NA,NA,NA
+"meligethes","coeruleovirens",NA,NA,NA,NA,"2.15","1",NA,NA,NA,NA,NA,NA,NA
+"meligethes","coracinus",NA,NA,NA,NA,"2.1","1",NA,NA,NA,NA,NA,NA,NA
+"meligethes","difficilis",NA,NA,NA,NA,"2.25","1",NA,NA,NA,NA,NA,NA,NA
+"meligethes","flavimanus",NA,NA,NA,NA,"2.25","1",NA,NA,NA,NA,NA,NA,NA
+"meligethes","maurus",NA,NA,NA,NA,"2.5","1",NA,NA,NA,NA,NA,NA,NA
+"meligethes","morosus",NA,NA,NA,NA,"2.05","1",NA,NA,NA,NA,NA,NA,NA
+"meligethes","nigrescens",NA,NA,NA,NA,"2.1","1",NA,NA,NA,NA,NA,NA,NA
+"meligethes","ovatus",NA,NA,NA,NA,"2.2","1",NA,NA,NA,NA,NA,NA,NA
+"meligethes","persicus",NA,NA,NA,NA,"2","1",NA,NA,NA,NA,NA,NA,NA
+"meligethes","rotundicollis",NA,NA,NA,NA,"2","1",NA,NA,NA,NA,NA,NA,NA
+"meligethes","ruficornis",NA,NA,NA,NA,"2.25","1",NA,NA,NA,NA,NA,NA,NA
+"meligethes","subaeneus",NA,NA,NA,NA,"2","1",NA,NA,NA,NA,NA,NA,NA
+"meligethes","symphyti",NA,NA,NA,NA,"2.6","1",NA,NA,NA,NA,NA,NA,NA
+"meligethes","umbrosus",NA,NA,NA,NA,"2.45","1",NA,NA,NA,NA,NA,NA,NA
+"meligethes","viridescens",NA,NA,NA,NA,"2.25","1",NA,NA,NA,NA,NA,NA,NA
+"melittobia","acasta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mesosa","curculionoides",NA,NA,"13.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mesosa","nebulosa",NA,NA,"12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mesus","rugatifrons",NA,NA,NA,NA,NA,NA,NA,NA,NA,"https://carabidae.org/gallery?taxon=8811","11",NA,NA
+"metopolophium","dirhodum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"micaria","albovittata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"micaria","coarctata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"micaria","dives",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"micaria","formicaria",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"micaria","guttigera",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"micaria","pulicaria",NA,NA,NA,NA,"3.55","1",NA,NA,NA,NA,NA,NA,NA
+"micaria","rossica",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"micrargus","apertus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"micrargus","herbigradus",NA,NA,NA,NA,"2.08","1",NA,NA,NA,NA,NA,NA,NA
+"micrargus","subaequalis",NA,NA,NA,NA,"1.83","0.75",NA,NA,NA,NA,NA,NA,NA
+"microlestes","fissuralis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"microlestes","maurus","2","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"microlestes","minutulus","3","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"microlinyphia","pusilla",NA,NA,NA,NA,"3.88","1",NA,NA,NA,NA,NA,NA,NA
+"micromus","angulatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"micromus","variegatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"molops","elatus","18","12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"molops","piceus","14","9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"molorchus","minor",NA,NA,"11",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"molorchus","umbellatarum",NA,NA,"6.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monocephalus","fuscipes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monochamus","galloprovincialis",NA,NA,"21.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monochamus","sutor",NA,NA,"20",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monochamus","urussovii",NA,NA,"27.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monodontomerus","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monodontomerus","obscurus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monodontomerus","obsoletus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","12",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","3",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","9",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","93",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","96",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","?fieldi  fieldi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","donisthorpei",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","fieldi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","flavipes gp. sp. SS 1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","floricola",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","intrudens",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","leae",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","leave laeve gp. sp. SS 1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","leave laeve gp. sp. SS 2 & leave laeve gp. sp. SS 1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","musicum",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","nigrius",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","pharaonis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","rothsteini gp. sp. SS 1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","sordidum gp. sp. SS 1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","sordidum gp. sp. SS 2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","sordidum gp. sp. SS 3",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","sp. 3",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","sp. 5 aff. floricola",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","sp._14_nigrius_gp.",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","sp._1_rothsteini_gp.",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","sp._24_laeve_gp.",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","sp._26_sydneyense_gp.",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","sp._33_laeve_gp.",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","sp._37_nigrius_gp.",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","sp._39_nigrius_gp.",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","sp._7_insolescens_gp.",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","sp._8_carinatum_gp.",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","taedium",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","un01",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"monomorium","viride",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mycetoporus","bimaculatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mycetoporus","forticornis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mycetoporus","lepidus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mycetoporus","longulus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"mycetoporus","nigricollis",NA,NA,NA,NA,"5.25","0.5",NA,NA,NA,NA,NA,NA,NA
+"myzus","cerasi",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"nabis","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"nabis","brevis",NA,NA,NA,NA,"6.2","0.75",NA,NA,NA,NA,NA,NA,NA
+"nabis","ferus",NA,NA,NA,NA,"8","1",NA,NA,NA,NA,NA,NA,NA
+"nabis","flavomarginatus",NA,NA,NA,NA,"8.6","0.25",NA,NA,NA,NA,NA,NA,NA
+"nabis","limbatus",NA,NA,NA,NA,"8.2","0.25",NA,NA,NA,NA,NA,NA,NA
+"nabis","pseudoferus",NA,NA,NA,NA,"7.5","1",NA,NA,NA,NA,NA,NA,NA
+"nabis","punctatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"nabis","rugosus",NA,NA,NA,NA,"6.9","0.75",NA,NA,NA,NA,NA,NA,NA
+"nasonovia","ribisnigri",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"nebria","brevicollis","14","9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"nebria","germarii","10","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"nebria","hellwigii","14","11",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"nebria","jockischii","17","12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"nebria","livida","18","12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"nebria","picicornis","17","14",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"nebria","rufescens","13","9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"nebria","salina","13","9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"necydalis","major",NA,NA,"26.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"nehemitropia","lividipennis",NA,NA,NA,NA,"3.25","1",NA,NA,NA,NA,NA,NA,NA
+"neoscona","adianta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"nivellia","sanguinosa",NA,NA,"12.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"nothorhina","muricata",NA,NA,"10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"notiophilus","aestuans","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"notiophilus","aquaticus","6","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"notiophilus","biguttatus","6","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"notiophilus","germinyi","6","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"notiophilus","laticollis","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"notiophilus","palustris","6","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"notiophilus","quadripunctatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"notiophilus","rufipes","6","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"notiophilus","substriatus","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"notoxus","monoceros",NA,NA,NA,NA,"4.6","1",NA,NA,NA,NA,NA,NA,NA
+"nysius","cymoides",NA,NA,NA,NA,"3.6","1",NA,NA,NA,NA,NA,NA,NA
+"nysius","ericae",NA,NA,NA,NA,"4","1",NA,NA,NA,NA,NA,NA,NA
+"nysius","senecionis",NA,NA,NA,NA,"4.3","1",NA,NA,NA,NA,NA,NA,NA
+"nysius","thymi",NA,NA,NA,NA,"4","1",NA,NA,NA,NA,NA,NA,NA
+"oberea","linearis",NA,NA,"12.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"oberea","oculata",NA,NA,"18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"obrium","brunneum",NA,NA,"5.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"obrium","cantharinum",NA,NA,"7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"octostruma","balzani",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"octostruma","petiolata",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"octostruma","rugifera",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"octostruma","sp.L",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"octostruma","stenognatha",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ocypus","brunnipes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ocypus","fuscatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ocypus","nero",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ocypus","nitens",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ocys","harpaloides","6","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ocys","quinquestriatus","5","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"odontomachus","65",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"odontomachus","75",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"odontomachus","affinis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"odontomachus","bauri",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"odontomachus","chelifer",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"odontomachus","meinerti",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"odontomachus","monticola",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"odontomachus","relictus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"odontomachus","simillimus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"odontomachus","sp.2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"odontomachus","sp._Nr._Turneri",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"odontomachus","testaceus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"oedothorax","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"oedothorax","agrestis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"oedothorax","apicatus",NA,NA,NA,NA,"2.55","1",NA,NA,NA,NA,NA,NA,NA
+"oedothorax","fuscus",NA,NA,NA,NA,"2.35","1",NA,NA,NA,NA,NA,NA,NA
+"oedothorax","gibbosus",NA,NA,NA,NA,"2.43","0.75",NA,NA,NA,NA,NA,NA,NA
+"oedothorax","retusus",NA,NA,NA,NA,"2.48","1",NA,NA,NA,NA,NA,NA,NA
+"oligomyrmex","110",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"oligomyrmex","117",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"oligomyrmex","128",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"oligomyrmex","142",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"oligomyrmex","20",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"oligomyrmex","73",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"oligota","inflata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"oligota","parva",NA,NA,NA,NA,"1.05","1",NA,NA,NA,NA,NA,NA,NA
+"oligota","pusillima",NA,NA,NA,NA,"1.15","1",NA,NA,NA,NA,NA,NA,NA
+"omalium","caesum",NA,NA,NA,NA,"3","1",NA,NA,NA,NA,NA,NA,NA
+"omalium","excavatum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"omalium","rivulare",NA,NA,NA,NA,"3","1",NA,NA,NA,NA,NA,NA,NA
+"omalus","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"omalus","aeneus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"omalus","puncticollis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ontholestes","murinus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"oodes","gracilis","9","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"oodes","helopioides","9","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ophiomyia","simplex",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ophonus","ardosiacus","14","10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ophonus","azureus","9","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ophonus","brevicollis","8","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ophonus","cordatus","10","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ophonus","cribricollis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ophonus","diffinis","14","8",NA,NA,"11.25","1",NA,NA,NA,NA,NA,NA,NA
+"ophonus","laticollis","11","8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ophonus","melletii","8","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ophonus","parallelus","8","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ophonus","puncticeps","10","6",NA,NA,"8.25","1",NA,NA,NA,NA,NA,NA,NA
+"ophonus","puncticollis","10","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ophonus","rufibarbis","9","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ophonus","rupicola","9","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ophonus","sabulicola","18","12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ophonus","schaubergerianus","10","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ophonus","stictus","17","11",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ophonus","subsinuatus","8","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"oplosia","cinerea",NA,NA,"11",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"orius","insidiosus",NA,NA,NA,NA,NA,NA,"3",NA,NA,NA,NA,NA,NA
+"orius","majusculus",NA,NA,NA,NA,"2.8","1",NA,NA,NA,NA,NA,NA,NA
+"orius","minutus",NA,NA,NA,NA,"2.3","1",NA,NA,NA,NA,NA,NA,NA
+"orius","niger",NA,NA,NA,NA,"2","1",NA,NA,NA,NA,NA,NA,NA
+"ostrinia","nubilalis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"oulema","duftschmidi",NA,NA,NA,NA,"4.25","1",NA,NA,NA,NA,NA,NA,NA
+"oulema","gallaeciana",NA,NA,NA,NA,"4","1",NA,NA,NA,NA,NA,NA,NA
+"oulema","melanopus",NA,NA,NA,NA,"4","1",NA,NA,NA,NA,NA,NA,NA
+"oulema","sp.",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"oxybelus","uniglumis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"oxymirus","cursor",NA,NA,"25",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"oxyopes","heterophthalmus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"oxyopes","mediterraneus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"oxyopes","nigripalpis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"oxyopes","ramosus",NA,NA,NA,NA,"7","0.5",NA,NA,NA,NA,NA,NA,NA
+"oxypoda","acuminata",NA,NA,NA,NA,"5","1",NA,NA,NA,NA,NA,NA,NA
+"oxypoda","bicolor",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"oxypoda","brachyptera",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"oxypoda","brevicornis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"oxypoda","exoleta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"oxypoda","haemorrhoa",NA,NA,NA,NA,"2.35","1",NA,NA,NA,NA,NA,NA,NA
+"oxypoda","longipes",NA,NA,NA,NA,"4.5","1",NA,NA,NA,NA,NA,NA,NA
+"oxypoda","opaca",NA,NA,NA,NA,"4","1",NA,NA,NA,NA,NA,NA,NA
+"oxypoda","tarda",NA,NA,NA,NA,"2.5","1",NA,NA,NA,NA,NA,NA,NA
+"oxypoda","umbrata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"oxypselaphus","obscurus","6","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ozyptila","claveata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ozyptila","furcula",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ozyptila","pauxilla",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ozyptila","praticola",NA,NA,NA,NA,"3.45","1",NA,NA,NA,NA,NA,NA,NA
+"ozyptila","simplex",NA,NA,NA,NA,"3.53","0.75",NA,NA,NA,NA,NA,NA,NA
+"ozyptila","trux",NA,NA,NA,NA,"4.1","0.75",NA,NA,NA,NA,NA,NA,NA
+"pachycondyla","1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pachycondyla","162",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pachycondyla","3",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pachycondyla","60",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pachycondyla","97",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pachycondyla","bucki",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pachycondyla","caffraria",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pachycondyla","ferruginea",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pachycondyla","harpax",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pachycondyla","impressa",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pachycondyla","peringueyi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pachycondyla","pr.harpax",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pachycondyla","pumicosa",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pachycondyla","stigma",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pachycondyla","striata",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,"https://www.antweb.org/images.do?subfamily=ponerinae&genus=pachycondyla&rank=genus&countryName=Uruguay","10.5","11","10"
+"pachycondyla","tridentata",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pachycondyla","wroughtonii",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pachygnatha","clercki",NA,NA,NA,NA,"5.25","1",NA,NA,NA,NA,NA,NA,NA
+"pachygnatha","degeeri",NA,NA,NA,NA,"3.55","1",NA,NA,NA,NA,NA,NA,NA
+"pachygnatha","listeri",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pachymorphus","sp",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Castro2017","12.5","13","12"
+"pachymorphus","sp2",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Castro2017","12.5","13","12"
+"pachyta","lamed",NA,NA,"16.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"paederus","brevipennis",NA,NA,NA,NA,"6.5","0.75",NA,NA,NA,NA,NA,NA,NA
+"paederus","fuscipes",NA,NA,NA,NA,"6.75","0.75",NA,NA,NA,NA,NA,NA,NA
+"paederus","littoralis",NA,NA,NA,NA,"8","0.75",NA,NA,NA,NA,NA,NA,NA
+"panamomops","sulcifrons",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"paratrechina","1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"paratrechina","11",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"paratrechina","141",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"paratrechina","63",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"paratrechina","92",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"paratrechina","94",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"paratrechina","97",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"paratrechina","arenivaga",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"paratrechina","longicornis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"paratrechina","phantasma",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"paratrechina","sp.1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"paratrechina","sp.2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"paratrechina","sp.3",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"paratrechina","sp.4",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"paratrechina","umbra",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"paratrechina","wojciki",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pardosa","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pardosa","agrestis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pardosa","agricola",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pardosa","amentata",NA,NA,NA,NA,"6.25","1",NA,NA,NA,NA,NA,NA,NA
+"pardosa","fulvipes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pardosa","hortensis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pardosa","lugubris",NA,NA,NA,NA,"5.6","0.75",NA,NA,NA,NA,NA,NA,NA
+"pardosa","maisa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pardosa","paludicola",NA,NA,NA,NA,"7.63","0.5",NA,NA,NA,NA,NA,NA,NA
+"pardosa","palustris",NA,NA,NA,NA,"6","1",NA,NA,NA,NA,NA,NA,NA
+"pardosa","prativaga",NA,NA,NA,NA,"6.1","1",NA,NA,NA,NA,NA,NA,NA
+"pardosa","proxima",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pardosa","pullata",NA,NA,NA,NA,"4.75","1",NA,NA,NA,NA,NA,NA,NA
+"pardosa","saltans",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"parophonus","dejeani","8","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"parophonus","maculicornis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"parophonus","mendax","10","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"passaloecus","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"passaloecus","corniger",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"passaloecus","eremita",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"passaloecus","gracilis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"passaloecus","insignis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"passaloecus","turionum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"patrobus","assimilis","8","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"patrobus","atrorufus","10","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"patrobus","septentrionis","11","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pedostrangalia","pubescens",NA,NA,"14.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pedostrangalia","revestita",NA,NA,"11.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pelecopsis","bucephala",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pelecopsis","elongata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pelecopsis","inedita",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pelecopsis","mengei",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pelecopsis","parallela",NA,NA,NA,NA,"1.45","1",NA,NA,NA,NA,NA,NA,NA
+"pelecopsis","radicicola",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pemphredon","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pemphredon","baltica",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pemphredon","inornata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pemphredon","lethifer",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pemphredon","lugubris",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pemphredon","rugifera",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pentatoma","rufipes",NA,NA,NA,NA,"13.5","1",NA,NA,NA,NA,NA,NA,NA
+"phalangium","opilio",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","10",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","102",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","104",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","105",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","108",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","109",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","11",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","111",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","115",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","128",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","130",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","137",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","14",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","149",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","152",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","153",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","157",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","167",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","170",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","174",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","175",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","185",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","194",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","197",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","199",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","206",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","26",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","28",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","29",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","32",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","36",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","38",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","4",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","55",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","56",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","59",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","60",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","62",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","63",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","65",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","83",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","88",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","99",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","A",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","B gp. sp. SS 1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","B gp. sp. SS 2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","B gp. sp. SS 3",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","B gp. sp. SS 4",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","adrianoi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","angulifera",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","californica",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","cocciphaga",NA,NA,NA,"2.5",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","dasypyx",NA,NA,NA,"1.9",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","dentata",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","floridana",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","fracticeps",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","gertrudae",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","glomericeps",NA,NA,NA,"1.4",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","harrisonfordi",NA,NA,NA,"1.5",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","hospes",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","jelskii",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","lash9",NA,NA,NA,"2.25",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","mendicula",NA,NA,NA,"1.1",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","metallescens",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","moerens",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","morrisii",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","multispina",NA,NA,NA,"1.4",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","nodus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","oxyops",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","pallidula",NA,NA,NA,"2.6522",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","pieli",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","pyriformis gp. sp. SS 1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","rugiceps",NA,NA,NA,"1.8",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","schwarzmaieri",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sensitiva",NA,NA,NA,"2.5",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sexspinosa biroi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp. 1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp. 13 aff. tricolor",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp. 14 aff. gambogia",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp. 18",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp. 2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp. 24 aff. amber",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp. 25 aff. sexspinosa",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp. 26",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp. 3",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp. 30 aff. sexspinosa",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp. 4",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp. 5",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp. 6",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp. 7 aff. gambogia",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.01",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.03",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.07",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.08",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.09",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.10",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.11",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.12",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.13",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.14",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.15",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.16",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.17",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.18",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.19",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.3",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.37",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.4",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.40",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.5",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.6",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.7",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.7.1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.7.2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.8",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.9",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp._13_ampla_gp.",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp._14_ampla_gp.",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp._1_mjobergi_gp.",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp._2_longiceps_gp.",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp._3_variabilis_gp.",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp._8_Group_F",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","sp.prox. Tetrica",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","striaticeps",NA,NA,NA,"2",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","thrasys",NA,NA,NA,"1.08",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","triconstricta",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","tumida",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","ulothrix",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","un01",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","vafra",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","variabilis gp. sp. SS 1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","variabilis gp. sp. SS 2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pheidole","zeteki",NA,NA,NA,"1.3",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"philodromus","albidus",NA,NA,NA,NA,"4.12","0.75",NA,NA,NA,NA,NA,NA,NA
+"philodromus","aureolus",NA,NA,NA,NA,"5.63","1",NA,NA,NA,NA,NA,NA,NA
+"philodromus","cespitum",NA,NA,NA,NA,"4.78","1",NA,NA,NA,NA,NA,NA,NA
+"philodromus","collinus",NA,NA,NA,NA,"4.88","0.75",NA,NA,NA,NA,NA,NA,NA
+"philodromus","praedatus",NA,NA,NA,NA,"4.88","0.5",NA,NA,NA,NA,NA,NA,NA
+"philodromus","rufus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"philonthus","albipes",NA,NA,NA,NA,"5.25","1",NA,NA,NA,NA,NA,NA,NA
+"philonthus","carbonarius",NA,NA,NA,NA,"12.5","1",NA,NA,NA,NA,NA,NA,NA
+"philonthus","cognatus",NA,NA,NA,NA,"9.75","1",NA,NA,NA,NA,NA,NA,NA
+"philonthus","concinnus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"philonthus","corruscus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"philonthus","debilis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"philonthus","laminatus",NA,NA,NA,NA,"9","1",NA,NA,NA,NA,NA,NA,NA
+"philonthus","pseudovarians",NA,NA,NA,NA,"7","1",NA,NA,NA,NA,NA,NA,NA
+"philonthus","sanguinolentus",NA,NA,NA,NA,"7.5","1",NA,NA,NA,NA,NA,NA,NA
+"philonthus","varians",NA,NA,NA,NA,"6.5","1",NA,NA,NA,NA,NA,NA,NA
+"philorhizus","melanocephalus","3","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"philorhizus","notatus","3","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"philorhizus","quadrisignatus","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"philorhizus","sigma","4","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"phrurolithus","festivus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"phrurolithus","minimus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"phymatodes","alni",NA,NA,"5.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"phymatodes","pusillus",NA,NA,"7.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"phymatodes","testaceus",NA,NA,"12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"phytocoris","intricatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"phytocoris","pini",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"phytocoris","tiliae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"phytocoris","ulmi",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"phytocoris","varipes",NA,NA,NA,NA,"6.5","0.75",NA,NA,NA,NA,NA,NA,NA
+"phytoecia","cylindrica",NA,NA,"10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"phytoecia","nigricornis",NA,NA,"9.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pieris","brassicae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pieris","napi",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pieris","rapae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"piezodorus","lituratus",NA,NA,NA,NA,"11","1",NA,NA,NA,NA,NA,NA,NA
+"pirata","piraticus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pisaura","mirabilis",NA,NA,NA,NA,"12.5","1",NA,NA,NA,NA,NA,NA,NA
+"plagiognathus","arbustorum",NA,NA,NA,NA,"4","1",NA,NA,NA,NA,NA,NA,NA
+"plagiognathus","chrysanthemi",NA,NA,NA,NA,"3.6","1",NA,NA,NA,NA,NA,NA,NA
+"plagiognathus","fulvipennis",NA,NA,NA,NA,"4","1",NA,NA,NA,NA,NA,NA,NA
+"plagionotus","arcuatus",NA,NA,"14",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"plagionotus","detritus",NA,NA,"14.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"plataraea","brunnea",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"platynus","assimilis","13","10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"platynus","krynickii","15","10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"platynus","livens","11","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"platynus","longiventris","14","12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"platynus","scrobiculatus","11","9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"platystethus","arenarius",NA,NA,NA,NA,"3.9","1",NA,NA,NA,NA,NA,NA,NA
+"platystethus","cornutus",NA,NA,NA,NA,"3.5","1",NA,NA,NA,NA,NA,NA,NA
+"platythyrea","147",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"plutella","xylostella",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pocadicnemis","juncea",NA,NA,NA,NA,"1.85","0.75",NA,NA,NA,NA,NA,NA,NA
+"pocadicnemis","pumila",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"poecilus","cupreus","13","9",NA,NA,"11","1",NA,NA,NA,NA,NA,NA,NA
+"poecilus","kugelanni","14","10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"poecilus","lepidus","14","10",NA,NA,"12","1",NA,NA,NA,NA,NA,NA,NA
+"poecilus","punctulatus","14","11",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"poecilus","sericeus","15","10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"poecilus","versicolor","12","8",NA,NA,"9.75","1",NA,NA,NA,NA,NA,NA,NA
+"poecilus","zaballosi","17","15",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pogonocherus","caroli",NA,NA,"8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pogonocherus","decoratus",NA,NA,"5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pogonocherus","fasciculatus",NA,NA,"6.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pogonocherus","hispidulus",NA,NA,"6.75",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pogonocherus","hispidus",NA,NA,"5.25",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"polistichus","connexus","9","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pompilidae","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"porrhomma","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"porrhomma","convexum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"porrhomma","errans",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"porrhomma","microphthalmum",NA,NA,NA,NA,"1.85","1",NA,NA,NA,NA,NA,NA,NA
+"porrhomma","oblitum",NA,NA,NA,NA,"1.65","1",NA,NA,NA,NA,NA,NA,NA
+"porrhomma","pygmaeum",NA,NA,NA,NA,"2.28","0.75",NA,NA,NA,NA,NA,NA,NA
+"prays","oleae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"prionus","coriarius",NA,NA,"30",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"proceratium","150",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"proceratium","brasiliense",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"propylea","quatuordecimpunctata",NA,NA,NA,NA,"4","1",NA,NA,NA,NA,NA,NA,NA
+"psenulus","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"psenulus","concolor",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"psenulus","fuscipennis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"psenulus","pallipes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pseudomyrmex","curacaensis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pseudomyrmex","gracilis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pseudomyrmex","pallidus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pseudomyrmex","simplex",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pseudomyrmex","tenuis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pseudomyrmex","termitarius",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pseudomyrmex","urbanus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"psyllobora","bicongregata",NA,NA,NA,NA,NA,NA,"2.3","2.7","1.9",NA,NA,NA,NA
+"pterostichus","aethiops","15","11",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","anthracinus","12","9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","aterrimus","15","12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","burmeisteri","15","12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","cristatus","18","12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","cursor","8","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","diligens","6","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","fasciatopunctatus","15","13",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","gracilis","10","8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","hagenbachii","17","13",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","jurinei","13","10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","kokeilii","12","10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","macer","15","11",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","madidus","20","13",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","melanarius","18","12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","melas","18","14",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","minor","8","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","multipunctatus","15","12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","negligens","9","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","niger","22","15",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","nigrita","12","8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","oblongopunctatus","12","9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","ovoideus","8","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","panzeri","16","12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","pumilio","6","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","quadrifoveolatus","11","8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","selmanni","18","14",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","strenuus","7","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","subsinuatus","7","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","taksonyis","8","7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","transversalis","16","14",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","unctulatus","7","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pterostichus","vernalis","7","6",NA,NA,"6.65","0.75",NA,NA,NA,NA,NA,NA,NA
+"pyramica","18",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pyramica","74",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pyramica","appretiata",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pyramica","comis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pyramica","crassicornis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pyramica","denticulata",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pyramica","eggersi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pyramica","lygathrix",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pyramica","mitis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pyramica","rugithorax",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pyramica","sp.1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pyramica","sp.2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pyramica","sp.3",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pyramica","splendens",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pyramica","themis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pyramica","un01",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"pyrrhidium","sanguineum",NA,NA,"10.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"quedius","cinctus",NA,NA,NA,NA,"8","1",NA,NA,NA,NA,NA,NA,NA
+"quedius","nitipennis",NA,NA,NA,NA,"6.25","1",NA,NA,NA,NA,NA,NA,NA
+"quedius","ochripennis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"quedius","paradisianus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"quedius","vexans",NA,NA,NA,NA,"9.5","1",NA,NA,NA,NA,NA,NA,NA
+"rhagium","inquisitor",NA,NA,"15.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"rhagium","mordax",NA,NA,"17",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"rhagium","sycophanta",NA,NA,"21.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"rhagoletis","cerasi",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"rhagonycha","fulva",NA,NA,NA,NA,"8.5","1",NA,NA,NA,NA,NA,NA,NA
+"rhagonycha","limbata",NA,NA,NA,NA,"5.5","1",NA,NA,NA,NA,NA,NA,NA
+"rhagonycha","lutea",NA,NA,NA,NA,"7.5","1",NA,NA,NA,NA,NA,NA,NA
+"rhagonycha","testacea",NA,NA,NA,NA,"5.5","1",NA,NA,NA,NA,NA,NA,NA
+"rhopalosiphum","padi",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"rhyzobius","litura",NA,NA,NA,NA,"2.75","1",NA,NA,NA,NA,NA,NA,NA
+"rhyzobius","lophanthae",NA,NA,NA,NA,NA,NA,"2.7","3.2","2.2",NA,NA,NA,NA
+"robertus","arundineti",NA,NA,NA,NA,"2.31","0.5",NA,NA,NA,NA,NA,NA,NA
+"robertus","kuehnae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"robertus","lividus",NA,NA,NA,NA,"3.38","0.75",NA,NA,NA,NA,NA,NA,NA
+"robertus","neglectus",NA,NA,NA,NA,"2.13","0.75",NA,NA,NA,NA,NA,NA,NA
+"rogeria","antcnp_sp2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"rogeria","antcnp_sp3",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"rogeria","creightoni",NA,NA,NA,"2",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"rogeria","foreli",NA,NA,NA,"2.2",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"rogeria","inermis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"rogeria","sp.01",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"rogeria","sp.02",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"rogeria","sp.1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"rogeria","sp.2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"rogeria","stigmatica",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ropalopus","femoratus",NA,NA,"10.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ropalopus","macropus",NA,NA,"10.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"rosalia","alpina",NA,NA,"29",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"rutpela","maculata",NA,NA,"16.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"saldula","opacula",NA,NA,NA,NA,"3.8","0.5",NA,NA,NA,NA,NA,NA,NA
+"saldula","orthochila",NA,NA,NA,NA,"4","0.25",NA,NA,NA,NA,NA,NA,NA
+"saldula","pallipes",NA,NA,NA,NA,"4.2","0.5",NA,NA,NA,NA,NA,NA,NA
+"saldula","saltatoria",NA,NA,NA,NA,"3.9","0.25",NA,NA,NA,NA,NA,NA,NA
+"saperda","carcharias",NA,NA,"25",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"saperda","perforata",NA,NA,"16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"saperda","populnea",NA,NA,"12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"saperda","scalaris",NA,NA,"15",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"saperda","similis",NA,NA,"18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"sapyga","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"sapyga","clavicornis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"sapyga","quinquepunctata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"scopaeus","laevigatus",NA,NA,NA,NA,"3.5","1",NA,NA,NA,NA,NA,NA,NA
+"scymnus","auritus",NA,NA,NA,NA,"2.25","1",NA,NA,NA,NA,NA,NA,NA
+"scymnus","citreus",NA,NA,NA,NA,NA,NA,"1.85","2","1.7",NA,NA,NA,NA
+"scymnus","femoralis",NA,NA,NA,NA,"2.5","1",NA,NA,NA,NA,NA,NA,NA
+"scymnus","ferrugatus",NA,NA,NA,NA,"2.75","1",NA,NA,NA,NA,NA,NA,NA
+"scymnus","frontalis",NA,NA,NA,NA,"2.5","1",NA,NA,NA,NA,NA,NA,NA
+"scymnus","haemorrhoidalis",NA,NA,NA,NA,"1.9","1",NA,NA,NA,NA,NA,NA,NA
+"scymnus","loewii",NA,NA,NA,NA,NA,NA,"2","2.3","1.7",NA,NA,NA,NA
+"scymnus","mimulus",NA,NA,NA,NA,"2.65","1",NA,NA,NA,NA,NA,NA,NA
+"scymnus","pictilis",NA,NA,NA,NA,NA,NA,"1.7","1.8","1.6",NA,NA,NA,NA
+"scymnus","rubicundus",NA,NA,NA,NA,NA,NA,"1.8","2.1","1.5",NA,NA,NA,NA
+"scymnus","sp",NA,NA,NA,NA,NA,NA,"1.9","2.3","1.5",NA,NA,NA,NA
+"scymnus","sp1",NA,NA,NA,NA,NA,NA,"1.9","2.3","1.5",NA,NA,NA,NA
+"scymnus","suturalis",NA,NA,NA,NA,"2","1",NA,NA,NA,NA,NA,NA,NA
+"semanotus","undatus",NA,NA,"10.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"sericomyrmex","amabilis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"sericomyrmex","scrobifer",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"silometopus","elegans",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"silometopus","reussi",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"sintula","corniger",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"sitobion","avenae",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","19",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","JTsp1",NA,NA,NA,"1.1",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","abdita/carolinensis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","antcnp_sp1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","antcnp_sp3",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","globularia littoralis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","invicta",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","lash4",NA,NA,NA,"1.3",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","lash6",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","molesta",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","nickersoni",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","papuana",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","picea",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","sp. 07",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","sp. SS 1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","sp.01",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","sp.04",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","sp.06",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","sp.1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","sp.10",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","sp.11",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","sp.12",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","sp.14",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","sp.2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","sp.3",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","sp.4",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","sp.5",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","sp.6",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","sp.7",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","sp.8",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","sp.9",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","sp._1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","sp._2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","sp._9",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","sp1",NA,NA,NA,NA,NA,NA,NA,NA,NA,"https://www.antweb.org/taxonomicPage.do?rank=genus&countryName=Uruguay&images=true","2.5","3","2"
+"solenopsis","substituta",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","subterranea",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","tennesseensis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","terricola",NA,NA,NA,"1.2",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","tridens",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"solenopsis","yellow",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"sphaerophoria","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"sphaerophoria","batava",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"sphaerophoria","interrupta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"sphaerophoria","rueppellii",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"sphaerophoria","scripta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"sphaerophoria","taeniata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"sphaerophoria","virgata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"sphecidae","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"spondylis","buprestoides",NA,NA,"17",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"staphylinidae","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"steatoda","albomaculata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"stemonyphantes","lineatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"stenocorus","meridianus",NA,NA,"20",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"stenolophus","mixtus","6","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"stenolophus","skrimshiranus","7","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"stenolophus","teutonus","7","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"stenostola","dubia",NA,NA,"11.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"stenotus","binotatus",NA,NA,NA,NA,"6.6","1",NA,NA,NA,NA,NA,NA,NA
+"stenotus","rubrovittatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"stenurella","melanura",NA,NA,"8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"stenurella","nigra",NA,NA,"7.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"stenus","brunnipes",NA,NA,NA,NA,"3.45","1",NA,NA,NA,NA,NA,NA,NA
+"stenus","canaliculatus",NA,NA,NA,NA,"3.5","1",NA,NA,NA,NA,NA,NA,NA
+"stenus","cicindeloides",NA,NA,NA,NA,"5.25","1",NA,NA,NA,NA,NA,NA,NA
+"stenus","circularis",NA,NA,NA,NA,"2.25","1",NA,NA,NA,NA,NA,NA,NA
+"stenus","clavicornis",NA,NA,NA,NA,"5.25","1",NA,NA,NA,NA,NA,NA,NA
+"stenus","flavipes",NA,NA,NA,NA,"3.1","1",NA,NA,NA,NA,NA,NA,NA
+"stenus","fulvicornis",NA,NA,NA,NA,"3","1",NA,NA,NA,NA,NA,NA,NA
+"stenus","geniculatus",NA,NA,NA,NA,"4.2","1",NA,NA,NA,NA,NA,NA,NA
+"stenus","impressus",NA,NA,NA,NA,"4.1","1",NA,NA,NA,NA,NA,NA,NA
+"stenus","pallipes",NA,NA,NA,NA,"3.25","1",NA,NA,NA,NA,NA,NA,NA
+"stenus","pusillus",NA,NA,NA,NA,"2.1","1",NA,NA,NA,NA,NA,NA,NA
+"stenus","similis",NA,NA,NA,NA,"5.25","1",NA,NA,NA,NA,NA,NA,NA
+"stethorus","sp8",NA,NA,NA,NA,NA,NA,"1.2",NA,NA,NA,NA,NA,NA
+"stictoleptura","maculicornis",NA,NA,"9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"stictoleptura","rubra",NA,NA,"15",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"stictoleptura","scutellata",NA,NA,"16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"stigmus","pendulus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"stigmus","solskyi",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"stomis","pumicatus","8","6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strangalia","attenuata",NA,NA,"13",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","151",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","35",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","7",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","79",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","brevicornis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","cf. racabura",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","cordovensis",NA,NA,NA,"1.56",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","eggersi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","elongata",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","emmae",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","godeffroyi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","horvathi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","inusitata",NA,NA,NA,"1.89",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","lanuginosa",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","louisianae",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","marginiventris",NA,NA,NA,"2.7",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","mek1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","mek2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","saliens",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","schmalzi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","sp. 09",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","sp. 2 cf. szalayi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","sp.09",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","sp.1",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","sp.2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","sp.3",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","sp.4",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","sp.5",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","sp.6",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","subedentata",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","treptodens",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","xenochelyna",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"strumigenys","zeteki",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"symmorphus","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"symmorphus","bifasciatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"symmorphus","crassicornis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"symmorphus","debilitatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"symmorphus","fuscipes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"symmorphus","gracilis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"syntomus","foveatus","3","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"syntomus","obscuroguttatus","3","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"syntomus","pallipes","3","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"syntomus","truncatellus","3","2",NA,NA,"2.95","0.5",NA,NA,NA,NA,NA,NA,NA
+"synuchus","vivalis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"syrphidae","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"syrphus","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"syrphus","ribesii",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"syrphus","torvus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"syrphus","vitripennis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tachinidae","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tachinus","fimetarius",NA,NA,NA,NA,"4.5","1",NA,NA,NA,NA,NA,NA,NA
+"tachinus","laticollis",NA,NA,NA,NA,"3.5","1",NA,NA,NA,NA,NA,NA,NA
+"tachinus","marginellus",NA,NA,NA,NA,"3.5","1",NA,NA,NA,NA,NA,NA,NA
+"tachinus","signatus",NA,NA,NA,NA,"5.75","1",NA,NA,NA,NA,NA,NA,NA
+"tachyporus","abdominalis",NA,NA,NA,NA,"3.25","0.25",NA,NA,NA,NA,NA,NA,NA
+"tachyporus","atriceps",NA,NA,NA,NA,"2.65","1",NA,NA,NA,NA,NA,NA,NA
+"tachyporus","chrysomelinus",NA,NA,NA,NA,"3.75","0.5",NA,NA,NA,NA,NA,NA,NA
+"tachyporus","dispar",NA,NA,NA,NA,"3","0.5",NA,NA,NA,NA,NA,NA,NA
+"tachyporus","hypnorum",NA,NA,NA,NA,"3.5","1",NA,NA,NA,NA,NA,NA,NA
+"tachyporus","nitidulus",NA,NA,NA,NA,"2.5","1",NA,NA,NA,NA,NA,NA,NA
+"tachyporus","obtusus",NA,NA,NA,NA,"3.75","1",NA,NA,NA,NA,NA,NA,NA
+"tachyporus","pusillus",NA,NA,NA,NA,"2.5","1",NA,NA,NA,NA,NA,NA,NA
+"tachyporus","scitulus",NA,NA,NA,NA,"3","1",NA,NA,NA,NA,NA,NA,NA
+"tachyporus","solutus",NA,NA,NA,NA,"3.75","1",NA,NA,NA,NA,NA,NA,NA
+"tallusia","experta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tapinocyba","insecta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tapinocyba","praecox",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tapinoma","189",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tapinoma","62",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tapinoma","B",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tapinoma","cf. indicum",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tapinoma","erraticum",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tapinoma","madeirense",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tapinoma","melanocephalum",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tapinoma","sessile",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tapinoma","sp. 3 aff. williamsi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tapinoma","sp.4minutumgroup",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tapinoma","sp._1_minutum_gp",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tapinoma","sp._2_minutum_gp",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"technomyrmex","121",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"technomyrmex","163",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"technomyrmex","2",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"technomyrmex","20",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"technomyrmex","202",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"technomyrmex","54",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"technomyrmex","61",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"technomyrmex","albicoxis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"technomyrmex","albipes",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"technomyrmex","antennus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"technomyrmex","brunneus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"technomyrmex","difficilis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"technomyrmex","gilvus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"technomyrmex","jocosus",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"technomyrmex","obscurior",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"technomyrmex","un01",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tecia","solanivora",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tegenaria","silvestris",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"temnostethus","gracilis",NA,NA,NA,NA,"2.4","0.25",NA,NA,NA,NA,NA,NA,NA
+"temnostethus","pusillus",NA,NA,NA,NA,"2.8","0.75",NA,NA,NA,NA,NA,NA,NA
+"tenuiphantes","flavipes",NA,NA,NA,NA,"2.15","0.75",NA,NA,NA,NA,NA,NA,NA
+"tenuiphantes","mengei",NA,NA,NA,NA,"2.03","0.75",NA,NA,NA,NA,NA,NA,NA
+"tenuiphantes","tenebricola",NA,NA,NA,NA,"2.45","0.75",NA,NA,NA,NA,NA,NA,NA
+"tenuiphantes","tenuis",NA,NA,NA,NA,"2.88","1",NA,NA,NA,NA,NA,NA,NA
+"tenuiphantes","zimmermanni",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tetragnatha","extensa",NA,NA,NA,NA,"8.05","1",NA,NA,NA,NA,NA,NA,NA
+"tetragnatha","montana",NA,NA,NA,NA,"8.5","1",NA,NA,NA,NA,NA,NA,NA
+"tetragnatha","obtusa",NA,NA,NA,NA,"5.43","0.75",NA,NA,NA,NA,NA,NA,NA
+"tetragnatha","pinicola",NA,NA,NA,NA,"5.13","0.75",NA,NA,NA,NA,NA,NA,NA
+"tetragnatha","reimoseri",NA,NA,NA,NA,"10","0.5",NA,NA,NA,NA,NA,NA,NA
+"tetragnatha","striata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tetropium","castaneum",NA,NA,"15",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tetropium","fuscum",NA,NA,"14",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tetrops","praeustus",NA,NA,"4.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tetrops","starkii",NA,NA,"4.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"thaumatotibia","leucotreta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"theridiidae","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"theridion","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"theridion","boesenbergi",NA,NA,NA,NA,"2.13","1",NA,NA,NA,NA,NA,NA,NA
+"theridion","melanurum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"theridion","pictum",NA,NA,NA,NA,"3.53","0.5",NA,NA,NA,NA,NA,NA,NA
+"theridion","pinastri",NA,NA,NA,NA,"3.13","0.75",NA,NA,NA,NA,NA,NA,NA
+"theridion","varians",NA,NA,NA,NA,"3.13","0.75",NA,NA,NA,NA,NA,NA,NA
+"therioaphis","trifolii",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"thyreosthenius","biovatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tinotus","morion",NA,NA,NA,NA,"2.25","1",NA,NA,NA,NA,NA,NA,NA
+"tiphia","femorata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tiso","vagans",NA,NA,NA,NA,"2.03","1",NA,NA,NA,NA,NA,NA,NA
+"trachymyrmex","bugnioni",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trachymyrmex","cornetzi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trachymyrmex","iisthmica",NA,NA,NA,"5.4",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trachymyrmex","isthmica",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trachymyrmex","mek1",NA,NA,NA,"4.06",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trachymyrmex","septentrionalis",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trachymyrmex","sp. 05",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trachymyrmex","sp. 15",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trachymyrmex","sp.09",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trachymyrmex","sp.11",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trachymyrmex","sp.4",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trachymyrmex","zeteki",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"tragosoma","depsarium",NA,NA,"25",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trechoblemus","micros","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trechus","amplicollis","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trechus","austriacus","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trechus","fulvus","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trechus","glacialis","3","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trechus","hampei","3","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trechus","latibuli","4","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trechus","montanellus","3","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trechus","obtusus","4","3",NA,NA,"4","0.5",NA,NA,NA,NA,NA,NA,NA
+"trechus","pilisensis","4","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trechus","pinkeri","3","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trechus","pseudopiceus","3","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trechus","pulchellus","3","2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trechus","pulpani","3","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trechus","quadristriatus","4","3",NA,NA,"4","0.5",NA,NA,NA,NA,NA,NA,NA
+"trechus","rivularis","5","4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trechus","rotundipennis","3","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trechus","rubens","6","5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trechus","secalis","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trechus","splendens","4","3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trialeurodes","vaporariorum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trichrysis","cyanea",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trigonotylus","caelestialium",NA,NA,NA,NA,"5.9","1",NA,NA,NA,NA,NA,NA,NA
+"trigonotylus","ruficornis",NA,NA,NA,NA,"5.2","1",NA,NA,NA,NA,NA,NA,NA
+"trochosa","robusta",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trochosa","ruricola",NA,NA,NA,NA,"9.63","1",NA,NA,NA,NA,NA,NA,NA
+"trochosa","sp1",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Dondale1990","11.5","14","9"
+"trochosa","spinipalpis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trochosa","terricola",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"troxochrus","scabriculus",NA,NA,NA,NA,"1.85","0.75",NA,NA,NA,NA,NA,NA,NA
+"trypoxylon","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trypoxylon","clavicerum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trypoxylon","figulus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trypoxylon","medium",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"trypoxylon","minus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"vespula","germanica",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"vespula","rufa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"vespula","vulgaris",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"walckenaeria","acuminata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"walckenaeria","antica",NA,NA,NA,NA,"2.13","0.5",NA,NA,NA,NA,NA,NA,NA
+"walckenaeria","atrotibialis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"walckenaeria","capito",NA,NA,NA,NA,"2.65","0",NA,NA,NA,NA,NA,NA,NA
+"walckenaeria","corniculans",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"walckenaeria","cuspidata",NA,NA,NA,NA,"2.53","0.5",NA,NA,NA,NA,NA,NA,NA
+"walckenaeria","dysderoides",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"walckenaeria","monoceros",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"walckenaeria","nudipalpis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"walckenaeria","obtusa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"walckenaeria","unicornis",NA,NA,NA,NA,"2.1","0.5",NA,NA,NA,NA,NA,NA,NA
+"walckenaeria","vigilax",NA,NA,NA,NA,"2.29","1",NA,NA,NA,NA,NA,NA,NA
+"wasmannia","auropunctata",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"wasmannia","lutzi",NA,NA,NA,"Not in paper",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"xantholinus","audrasi",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"xantholinus","linearis",NA,NA,NA,NA,"7.5","0.5",NA,NA,NA,NA,NA,NA,NA
+"xantholinus","longiventris",NA,NA,NA,NA,"8","0.75",NA,NA,NA,NA,NA,NA,NA
+"xantholinus","semirufus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"xantholinus","tricolor",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"xerolycosa","miniata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"xerolycosa","nemoralis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"xylotrechus","antilope",NA,NA,"10.5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"xylotrechus","pantherinus",NA,NA,"13",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"xylotrechus","rusticus",NA,NA,"15",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"xysticus","audax",NA,NA,NA,NA,"4.98","0.75",NA,NA,NA,NA,NA,NA,NA
+"xysticus","bifasciatus",NA,NA,NA,NA,"7.03","0.75",NA,NA,NA,NA,NA,NA,NA
+"xysticus","caperatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"xysticus","cristatus",NA,NA,NA,NA,"5.58","1",NA,NA,NA,NA,NA,NA,NA
+"xysticus","erraticus",NA,NA,NA,NA,"5.75","0.75",NA,NA,NA,NA,NA,NA,NA
+"xysticus","kochi",NA,NA,NA,NA,"6.55","1",NA,NA,NA,NA,NA,NA,NA
+"xysticus","lanio",NA,NA,NA,NA,"6.13","0.75",NA,NA,NA,NA,NA,NA,NA
+"xysticus","ninnii",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"xysticus","nubilus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"xysticus","striatipes",NA,NA,NA,NA,"6.3","0.5",NA,NA,NA,NA,NA,NA,NA
+"xysticus","ulmi",NA,NA,NA,NA,"5.08","0.75",NA,NA,NA,NA,NA,NA,NA
+"zabrus","spinipes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"zabrus","tenebrioides","17","13",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"zelotes","",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"zelotes","apricorum",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"zelotes","atrocaeruleus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"zelotes","callidus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"zelotes","electus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"zelotes","fulvopilosus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"zelotes","latreillei",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"zelotes","manius",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"zelotes","pediculatus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"zelotes","segrex",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"zelotes","subterraneus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"zelotes","tenuis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"zelotes","thorelli",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"zora","armillata",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"zora","nemoralis",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"zora","spinimana",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
