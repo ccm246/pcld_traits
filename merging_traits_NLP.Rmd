@@ -1,0 +1,217 @@
+---
+title: "Merging Traits + NLP: Visual Summary of Descriptive Statistics"
+author: "Jovin Lasway"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r}
+# loading libraries
+library(ggplot2)
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+library(ranger)
+library(ranger)
+```
+
+
+```{r}
+# Apply to the entire 'a' dataset and update 'species' and create 'genus'
+a <- a %>%
+  separate(species, into = c("genus", "species"), sep = " ", remove = TRUE)
+
+# View the updated result
+head(a)
+
+# merging 'a' + 'wide_data'
+# Create a join key (genus_species) for both datasets
+a <- a %>%
+  mutate(genus_species = paste(genus, species, sep = "_"))
+
+wide_data <- wide_data %>%
+  mutate(genus_species = paste(genus, species, sep = "_"))
+
+# Step 2: Perform the merge using a left join to keep all rows from 'a'
+merged_data <- left_join(a, wide_data, by = "genus_species")
+
+# Keep only one set of genus and species (e.g., from .x), and rename them
+merged_data <- merged_data %>%
+  select(-genus.y, -species.y) %>%      # Remove .y columns
+  rename(
+    genus = genus.x,
+    species = species.x
+  )
+
+# Check how many unique questions exist per genus_species
+merged_data %>%
+  count(genus_species) %>%
+  arrange(desc(n))
+
+# Export or continue using
+# write.csv(merged_data, "TEEMS_combined_traits_NLP_cleaned.csv", row.names = FALSE)
+
+```
+
+
+
+```{r}
+
+# A quick summary stats visualization from the merged data
+
+merged_data %>%
+  mutate(
+    question_class = forcats::fct_lump(factor(question.last.word), n = 5),
+    body_size = as.numeric(newcarabids_maxsize_carabids_body)
+  ) %>%
+  filter(!is.na(body_size)) %>%
+  ggplot(aes(x = question_class, y = body_size)) +
+  geom_boxplot(fill = "lightgreen") +
+  labs(title = "Body Size by Question Type", x = "Question Type", y = "Body Size") +
+  theme_minimal()
+```
+
+
+
+```{r}
+merged_data %>%
+  filter(question.last.word == "prey?") %>%
+  count(newcarabids_hindwingdevelopment_carabids_other) %>%
+  ggplot(aes(x = newcarabids_hindwingdevelopment_carabids_other, y = n)) +
+  geom_bar(stat = "identity", fill = "tomato") +
+  labs(title = "Wing Type among Prey Questions", x = "Wing Development", y = "Count")
+```
+
+
+
+```{r}
+merged_data %>%
+  mutate(question_class = fct_lump(factor(question.last.word), n = 5)) %>%
+  count(question_class, newcarabids_hindwingdevelopment_carabids_other) %>%
+  ggplot(aes(x = question_class, y = newcarabids_hindwingdevelopment_carabids_other, fill = n)) +
+  geom_tile() +
+  labs(title = "Heatmap: Question Type vs. Wing Type", x = "Question Type", y = "Wing Development") +
+  scale_fill_gradient(low = "white", high = "darkred")
+```
+```{r}
+
+# Clean and prepare RF data
+rf_data <- merged_data %>%
+  mutate(
+    is_prey = question.last.word == "prey?",
+    body_size = as.numeric(newcarabids_maxsize_carabids_body)
+  ) %>%
+  filter(!is.na(is_prey), !is.na(body_size))
+
+# Check usable size
+nrow(rf_data)  # Should be ~1178
+
+# Run Random Forest
+rf_model <- ranger(
+  formula = is_prey ~ body_size,
+  data = rf_data,
+  probability = TRUE,
+  importance = "impurity"
+)
+
+# Print model summary
+print(rf_model)
+
+rf_data$predicted_prob <- rf_model$predictions[, 2]  # 2nd column is for class "TRUE"
+```
+
+```{r}
+ggplot(rf_data, aes(x = body_size, y = predicted_prob)) +
+  geom_point(alpha = 0.4) +
+  geom_smooth(method = "loess") +
+  labs(title = "Predicted Probability of Being Prey by Body Size",
+       x = "Body Size", y = "Predicted Probability") +
+  theme_minimal()
+
+```
+
+```{r}
+ggplot(merged_data, aes(x = as.numeric(newcarabids_maxsize_carabids_body))) +
+  geom_histogram(bins = 30, fill = "steelblue", color = "white") +
+  labs(title = "Distribution of Body Size", x = "Body Size (mm)", y = "Count") +
+  theme_minimal()
+
+```
+
+```{r}
+merged_data %>%
+  count(genus_species) %>%
+  top_n(15, n) %>%
+  ggplot(aes(x = reorder(genus_species, n), y = n)) +
+  geom_col(fill = "coral") +
+  coord_flip() +
+  labs(title = "Top 15 Genus_species by Number of Questions", x = "Genus_Species", y = "Number of Questions") +
+  theme_minimal()
+```
+
+```{r}
+merged_data %>%
+  count(question.last.word) %>%
+  ggplot(aes(x = reorder(question.last.word, n), y = n)) +
+  geom_bar(stat = "identity", fill = "darkseagreen") +
+  coord_flip() +
+  labs(title = "Distribution of Final Question Types", x = "Question Ending", y = "Frequency") +
+  theme_minimal()
+
+```
+
+```{r}
+merged_data %>%
+  filter(!is.na(newcarabids_maxsize_carabids_body)) %>%
+  mutate(genus = fct_lump(factor(genus), n = 10)) %>%
+  ggplot(aes(x = genus, y = as.numeric(newcarabids_maxsize_carabids_body))) +
+  geom_boxplot() +
+  labs(title = "Variation in Body Size Across Genera", x = "Genus", y = "Body Size") +
+  theme_minimal()
+
+```
+
+```{r}
+merged_data %>%
+  mutate(answer_type = ifelse(known == 1, "Known", "Unknown")) %>%
+  count(answer_type) %>%
+  ggplot(aes(x = answer_type, y = n, fill = answer_type)) +
+  geom_col() +
+  labs(title = "Distribution of Answer Types", x = "", y = "Count") +
+  theme_minimal()
+
+```
+
+```{r}
+top_data <- merged_data %>%
+  count(genus) %>%
+  top_n(15, n)
+
+p <- ggplot(top_data, aes(x = reorder(genus, n), y = n)) +
+  geom_col(fill = "coral") +
+  coord_flip() +
+  labs(title = "Top 15 Genera by Number of Questions",
+       x = "Genus", y = "Number of Questions") +
+  theme_minimal()
+
+ggplotly(p)
+
+```
+
+```{r}
+top15 <- merged_data %>%
+  count(genus_species) %>%
+  top_n(15, n) %>%
+  pull(genus_species)
+
+rf_data_top15 <- rf_data %>%
+  filter(genus_species %in% top15)
+
+ggplot(rf_data_top15, aes(x = body_size, y = predicted_prob, color = genus_species)) +
+  geom_point(alpha = 0.5) +
+  geom_smooth(method = "loess", se = FALSE) +
+  labs(title = "Predicted Probability of Prey by Body Size (Top 15 Genus_Species)",
+       x = "Body Size (mm)", y = "Predicted Prey Probability") +
+  theme_minimal()
+
+```
